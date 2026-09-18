@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 from google import genai
 from google.genai import types
@@ -20,7 +21,7 @@ def filter_news(raw_payload: str) -> list:
     api_key = get_api_key()
     if not api_key or api_key == "PASTE_YOUR_KEY_HERE":
         print("Error: GEMINI_API_KEY not found in api_key.txt.")
-        return []
+        sys.exit(1)
         
     client = genai.Client(api_key=api_key)
     
@@ -55,7 +56,7 @@ def filter_news(raw_payload: str) -> list:
         return data
     except Exception as e:
         print(f"Failed to generate or parse response: {e}")
-        return []
+        sys.exit(1)
 
 if __name__ == "__main__":
     with open("raw_payload.txt", "r") as f:

@@ -6,7 +6,12 @@ def run_script(script_name):
     result = subprocess.run(["python3", script_name], capture_output=True, text=True)
     if result.returncode != 0:
         print(f"Error in {script_name}:")
-        print(result.stderr)
+        if result.stdout:
+            print("STDOUT:")
+            print(result.stdout)
+        if result.stderr:
+            print("STDERR:")
+            print(result.stderr)
         return False
     print(result.stdout)
     return True
