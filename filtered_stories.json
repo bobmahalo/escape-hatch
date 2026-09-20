@@ -1,32 +1,32 @@
 [
   {
-    "headline": "US Denmark Reach Greenland Agreement",
-    "event": "The United States and Denmark reached an agreement expanding the US military presence in Greenland.",
-    "context": "The bilateral deal follows public statements by US President Donald Trump regarding the prospective annexation of the autonomous Danish territory.",
-    "scope": "The agreement affects the diplomatic alignment and security infrastructure of Denmark, Greenland, the United States, and NATO allies."
+    "headline": "US and Denmark Reach Greenland Agreement",
+    "event": "Denmark and the United States concluded an agreement expanding the U.S. military presence and security posture in Greenland.",
+    "context": "The pact follows months of public statements from the U.S. executive branch threatening to unilaterally annex the autonomous Danish territory.",
+    "scope": "The agreement directly alters the defense status of Greenland's population and impacts strategic planning across NATO member nations."
   },
   {
-    "headline": "Russia Holds Elections in Occupied Ukraine",
-    "event": "Russia is conducting parliamentary elections in Ukrainian territories annexed during its military invasion.",
-    "context": "This voting represents the first Russian nationwide parliamentary race conducted since the 2022 full-scale invasion of Ukraine.",
-    "scope": "The election directly affects populations residing in occupied Ukrainian regions and the administrative structure of the Russian State Duma."
+    "headline": "Russia Conducts Parliamentary Voting in Ukraine",
+    "event": "Russia began holding parliamentary election voting within Ukrainian territories occupied and annexed by Russian armed forces.",
+    "context": "Moscow declared the annexation of four Ukrainian regions following disputed referendums conducted during its 2022 military invasion.",
+    "scope": "The voting directly encompasses residents living under military occupation in eastern and southern Ukraine and affects international legal status monitoring."
   },
   {
-    "headline": "Houthis Launch Missile at Riyadh Airport",
-    "event": "Houthi forces launched a ballistic missile targeting the international airport in Riyadh, which Saudi forces reported intercepting.",
-    "context": "The strike follows repeated long-range attacks by Yemen-based Houthi forces targeting Saudi critical infrastructure during the regional conflict.",
-    "scope": "The attack caused flight delays at King Khalid International Airport and affects military personnel and civilian air travelers in Saudi Arabia."
+    "headline": "White House Revokes Select Journalist Credentials",
+    "event": "The executive branch revoked White House press credentials for reporters associated with CNN, MS NOW, and Politico.",
+    "context": "The access restriction follows public statements from the administration citing unfavorable reporting by those specific media organizations.",
+    "scope": "The decision directly limits press access for national media correspondents operating within the executive executive mansion premises."
   },
   {
-    "headline": "White House Revokes Major Media Badges",
-    "event": "The White House confiscated press credentials and revoked physical access for journalists from CNN, MS NOW, and Politico.",
-    "context": "The credential revocations occurred after President Donald Trump publicly accused the targeted news organizations of issuing false reporting.",
-    "scope": "The restrictions directly affect press corps access for the specified media organizations and alter standard presidential press coverage protocol."
+    "headline": "Houthis Target Riyadh with Ballistic Missiles",
+    "event": "Yemen-based Houthi forces launched ballistic missiles into Saudi Arabia, causing a strike on an airport fuel depot in Riyadh.",
+    "context": "The attack occurs amid long-term armed cross-border engagements between Houthi combatants and the Saudi Arabian military coalition.",
+    "scope": "The operational impact directly affected commercial transit at King Khalid International Airport and critical energy infrastructure in the capital."
   },
   {
-    "headline": "European Allies Report Russian Hybrid Attacks",
-    "event": "Government leaders from France, Poland, and allied European nations formally warned of increasing Russian hybrid warfare activities.",
-    "context": "European states have reported heightened non-conventional security threats, including cyber operations and sabotage, parallel to the war in Ukraine.",
-    "scope": "The security threat directly impacts national defense agencies, critical infrastructure, and civilian populations across European NATO member states."
+    "headline": "European Allies Report Russian Hybrid Escalation",
+    "event": "Government leaders from France, Poland, and allied European nations issued a joint warning regarding escalating Russian hybrid attacks.",
+    "context": "European security services have recorded increases in cyber incidents, sabotage, and influence operations since the onset of the 2022 War in Ukraine.",
+    "scope": "The intelligence assessment applies to critical national infrastructure, digital communications, and defense networks across member states of the European Union."
   }
 ]

@@ -75,10 +75,10 @@ Headline: White House withdraws nomination of Lance Schroyer to lead ICE
 Summary: President Trump's nominee to lead U.S. Immigration and Customs Enforcement was former Oklahoma state trooper Lance Schroyer. Three months after tapping him for the job, his name is being withdrawn.
 ---
 Source: NPR Politics
-Headline: Republican 'cavalry' arrives with a Trump-backed $150 million ad blitz in key races
-Summary: To counter a difficult political environment, two Trump-aligned super PACs have reserved more than $150 million in ads — primarily in deep red House and Senate races that have now become competitive.
----
-Source: NPR Politics
 Headline: How Google is drafting AI chatbot laws around the country
 Summary: As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.
+---
+Source: NPR Politics
+Headline: Republican 'cavalry' arrives with a Trump-backed $150 million ad blitz in key races
+Summary: To counter a difficult political environment, two Trump-aligned super PACs have reserved more than $150 million in ads — primarily in deep red House and Senate races that have now become competitive.
 ---
