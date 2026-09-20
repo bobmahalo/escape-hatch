@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Europe Increases Security Against Russian Operations",
-    "event": "French President Emmanuel Macron instructed government officials to secure critical infrastructure and defense sites following reported increases in Russian hybrid attacks.",
-    "context": "The order coincides with statements from Polish Prime Minister Donald Tusk warning that potential Russian strikes aim to test the enforcement of NATO's Article 5 collective defense clause.",
-    "scope": "Infrastructure operators, defense sector employees, and populations across European Union and NATO member states are directly affected."
+    "headline": "US Denmark Reach Greenland Agreement",
+    "event": "The United States and Denmark reached an agreement expanding the US military presence in Greenland.",
+    "context": "The bilateral deal follows public statements by US President Donald Trump regarding the prospective annexation of the autonomous Danish territory.",
+    "scope": "The agreement affects the diplomatic alignment and security infrastructure of Denmark, Greenland, the United States, and NATO allies."
   },
   {
-    "headline": "Houthi Offensive Escalates Yemen Civil War",
-    "event": "A territorial expansion by Houthi forces in Yemen has disrupted maritime chokepoints and threatened Saudi Arabian oil export infrastructure.",
-    "context": "The military offensive represents a major escalation in Yemen's twelve-year civil war and has driven upward pressure on international fuel prices.",
-    "scope": "Global energy consumers, maritime commercial transport operators, and populations in eastern Yemen are directly impacted."
+    "headline": "Russia Holds Elections in Occupied Ukraine",
+    "event": "Russia is conducting parliamentary elections in Ukrainian territories annexed during its military invasion.",
+    "context": "This voting represents the first Russian nationwide parliamentary race conducted since the 2022 full-scale invasion of Ukraine.",
+    "scope": "The election directly affects populations residing in occupied Ukrainian regions and the administrative structure of the Russian State Duma."
   },
   {
-    "headline": "Vehicle Bombing Kills 21 in Pakistan",
-    "event": "An explosive-rigged vehicle rammed a mosque and gunmen attacked a nearby police site in Pakistan, resulting in at least 21 deaths.",
-    "context": "The attack occurs amid ongoing insurgent violence targeting government facilities and civilian targets across the country.",
-    "scope": "Civilians, worshippers, and law enforcement personnel in the target municipality are directly affected."
+    "headline": "Houthis Launch Missile at Riyadh Airport",
+    "event": "Houthi forces launched a ballistic missile targeting the international airport in Riyadh, which Saudi forces reported intercepting.",
+    "context": "The strike follows repeated long-range attacks by Yemen-based Houthi forces targeting Saudi critical infrastructure during the regional conflict.",
+    "scope": "The attack caused flight delays at King Khalid International Airport and affects military personnel and civilian air travelers in Saudi Arabia."
   },
   {
-    "headline": "Fatal School Shooting Occurs in Philippines",
-    "event": "A gunman killed two people and injured eight others at a school in the Philippines before dying at the scene.",
-    "context": "The incident is the third discharge of firearms reported at an educational facility in the country since June.",
-    "scope": "Students, educational staff, and families in the affected municipality are directly impacted."
+    "headline": "White House Revokes Major Media Badges",
+    "event": "The White House confiscated press credentials and revoked physical access for journalists from CNN, MS NOW, and Politico.",
+    "context": "The credential revocations occurred after President Donald Trump publicly accused the targeted news organizations of issuing false reporting.",
+    "scope": "The restrictions directly affect press corps access for the specified media organizations and alter standard presidential press coverage protocol."
   },
   {
-    "headline": "South Africa Reports Escalating Femicide Rate",
-    "event": "The reported homicides of nine women within a single regional district over recent weeks triggered national public demonstrations.",
-    "context": "South Africa statistically records among the highest per capita rates of violent crime and interpersonal homicide against women globally.",
-    "scope": "Female residents of South Africa are statistically affected by high ambient violent crime rates."
+    "headline": "European Allies Report Russian Hybrid Attacks",
+    "event": "Government leaders from France, Poland, and allied European nations formally warned of increasing Russian hybrid warfare activities.",
+    "context": "European states have reported heightened non-conventional security threats, including cyber operations and sabotage, parallel to the war in Ukraine.",
+    "scope": "The security threat directly impacts national defense agencies, critical infrastructure, and civilian populations across European NATO member states."
   }
 ]

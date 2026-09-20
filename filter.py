@@ -1,6 +1,7 @@
 import os
 import sys
 import json
+import time
 from google import genai
 from google.genai import types
 
@@ -44,19 +45,29 @@ def filter_news(raw_payload: str) -> list:
     {raw_payload}
     """
     
-    try:
-        response = client.models.generate_content(
-            model='gemini-3.6-flash',
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json",
-            ),
-        )
-        data = json.loads(response.text)
-        return data
-    except Exception as e:
-        print(f"Failed to generate or parse response: {e}")
-        sys.exit(1)
+    max_retries = 3
+    retry_delay = 5
+    
+    for attempt in range(max_retries):
+        try:
+            response = client.models.generate_content(
+                model='gemini-3.6-flash',
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    automatic_function_calling=types.AutomaticFunctionCallingConfig(disable=True),
+                ),
+            )
+            data = json.loads(response.text)
+            return data
+        except Exception as e:
+            if attempt < max_retries - 1:
+                print(f"Attempt {attempt + 1} failed: {e}. Retrying in {retry_delay} seconds...")
+                time.sleep(retry_delay)
+                retry_delay *= 2
+            else:
+                print(f"Failed to generate or parse response after {max_retries} attempts: {e}")
+                sys.exit(1)
 
 if __name__ == "__main__":
     with open("raw_payload.txt", "r") as f:
