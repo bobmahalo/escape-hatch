@@ -1,32 +1,32 @@
 [
   {
-    "headline": "US and Denmark Reach Greenland Agreement",
-    "event": "Denmark and the United States concluded an agreement expanding the U.S. military presence and security posture in Greenland.",
-    "context": "The pact follows months of public statements from the U.S. executive branch threatening to unilaterally annex the autonomous Danish territory.",
-    "scope": "The agreement directly alters the defense status of Greenland's population and impacts strategic planning across NATO member nations."
+    "headline": "Russia Asserts Readiness To Defend Kaliningrad",
+    "event": "Russian President Vladimir Putin stated that Russia is prepared to utilize its full defense arsenal to protect the Kaliningrad exclave.",
+    "context": "The declaration follows increased diplomatic friction and strategic force realignments between Russia and Western nations.",
+    "scope": "The security posture directly impacts defense policy planning across Russia, European Union member states, and NATO alliance members."
   },
   {
-    "headline": "Russia Conducts Parliamentary Voting in Ukraine",
-    "event": "Russia began holding parliamentary election voting within Ukrainian territories occupied and annexed by Russian armed forces.",
-    "context": "Moscow declared the annexation of four Ukrainian regions following disputed referendums conducted during its 2022 military invasion.",
-    "scope": "The voting directly encompasses residents living under military occupation in eastern and southern Ukraine and affects international legal status monitoring."
+    "headline": "Russia Intensifies Aerial Attacks Against Ukraine",
+    "event": "Russian military forces escalated drone and missile strikes targeting urban infrastructure across Ukraine, including the capital city of Kyiv.",
+    "context": "The bombardment is part of an ongoing multi-year military campaign targeting strategic energy networks and civilian infrastructure.",
+    "scope": "Millions of Ukrainian residents face disruptions to municipal services, power supplies, and localized physical safety."
   },
   {
-    "headline": "White House Revokes Select Journalist Credentials",
-    "event": "The executive branch revoked White House press credentials for reporters associated with CNN, MS NOW, and Politico.",
-    "context": "The access restriction follows public statements from the administration citing unfavorable reporting by those specific media organizations.",
-    "scope": "The decision directly limits press access for national media correspondents operating within the executive executive mansion premises."
+    "headline": "Swiss Glaciers Experience Record Volume Loss",
+    "event": "Switzerland lost more than five percent of its total glacier ice volume within a single calendar year.",
+    "context": "Alpine ice mass decline has accelerated over recent decades due to rising regional average temperatures.",
+    "scope": "The ice loss directly threatens downstream freshwater reserves, hydroelectric energy production, and agricultural systems across Western Europe."
   },
   {
-    "headline": "Houthis Target Riyadh with Ballistic Missiles",
-    "event": "Yemen-based Houthi forces launched ballistic missiles into Saudi Arabia, causing a strike on an airport fuel depot in Riyadh.",
-    "context": "The attack occurs amid long-term armed cross-border engagements between Houthi combatants and the Saudi Arabian military coalition.",
-    "scope": "The operational impact directly affected commercial transit at King Khalid International Airport and critical energy infrastructure in the capital."
+    "headline": "Israel Reports Attempted Flydubai Flight Takeover",
+    "event": "Israeli Prime Minister Benjamin Netanyahu announced that a pilot attempted an unauthorized takeover of a Tel Aviv-bound commercial flight.",
+    "context": "The event occurs during elevated regional security measures and active conflict across the Middle East.",
+    "scope": "Aviation security protocols and passenger operations on commercial routes throughout the Middle East are directly affected."
   },
   {
-    "headline": "European Allies Report Russian Hybrid Escalation",
-    "event": "Government leaders from France, Poland, and allied European nations issued a joint warning regarding escalating Russian hybrid attacks.",
-    "context": "European security services have recorded increases in cyber incidents, sabotage, and influence operations since the onset of the 2022 War in Ukraine.",
-    "scope": "The intelligence assessment applies to critical national infrastructure, digital communications, and defense networks across member states of the European Union."
+    "headline": "US Sanctions Restrict Criminal Court Judge",
+    "event": "International Criminal Court Judge Kimberly Prost reported daily operational disruptions caused by active United States economic sanctions.",
+    "context": "The United States government imposed economic measures against ICC personnel involved in investigating actions by US citizens and foreign allies.",
+    "scope": "Judicial administration, international legal proceedings, and global treaty enforcement mechanisms are directly impacted."
   }
 ]

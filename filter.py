@@ -53,11 +53,15 @@ def filter_news(raw_payload: str) -> list:
     
     max_retries = 5
     retry_delay = 5
+    models = ['gemini-3.6-flash', 'gemini-3.5-flash', 'gemini-3.6-pro']
     
     for attempt in range(max_retries):
+        # Pick the model based on the attempt number (falling back to Pro if others fail)
+        current_model = models[attempt % len(models)]
+        
         try:
             response = client.models.generate_content(
-                model='gemini-3.6-flash',
+                model=current_model,
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     response_mime_type="application/json",
@@ -68,7 +72,7 @@ def filter_news(raw_payload: str) -> list:
             return data
         except Exception as e:
             if attempt < max_retries - 1:
-                print(f"Attempt {attempt + 1} failed: {e}. Retrying in {retry_delay} seconds...")
+                print(f"Attempt {attempt + 1} with {current_model} failed: {e}. Retrying in {retry_delay} seconds...")
                 time.sleep(retry_delay)
                 retry_delay *= 2
             else:
