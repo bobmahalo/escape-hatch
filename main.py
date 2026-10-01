@@ -2,18 +2,11 @@ import subprocess
 import os
 
 def run_script(script_name):
-    print(f"--- Running {script_name} ---")
-    result = subprocess.run(["python3", script_name], capture_output=True, text=True)
+    print(f"\n--- Running {script_name} ---")
+    result = subprocess.run(["python3", script_name])
     if result.returncode != 0:
-        print(f"Error in {script_name}:")
-        if result.stdout:
-            print("STDOUT:")
-            print(result.stdout)
-        if result.stderr:
-            print("STDERR:")
-            print(result.stderr)
+        print(f"Error in {script_name} (Exit code: {result.returncode})")
         return False
-    print(result.stdout)
     return True
 
 def push_to_github():

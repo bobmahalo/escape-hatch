@@ -6,6 +6,12 @@ from google import genai
 from google.genai import types
 
 def get_api_key():
+    # Check environment variable first (for GitHub Actions)
+    env_key = os.environ.get("GEMINI_API_KEY")
+    if env_key:
+        return env_key
+        
+    # Fallback to local file for manual runs
     key_path = os.path.join(os.path.dirname(__file__), 'api_key.txt')
     try:
         with open(key_path, 'r') as f:
@@ -45,7 +51,7 @@ def filter_news(raw_payload: str) -> list:
     {raw_payload}
     """
     
-    max_retries = 3
+    max_retries = 5
     retry_delay = 5
     
     for attempt in range(max_retries):

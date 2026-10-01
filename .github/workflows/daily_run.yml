@@ -1,0 +1,43 @@
+name: Daily Escape Hatch
+
+on:
+  schedule:
+    # 15:36 UTC is exactly 5:36 AM HST
+    - cron: '36 15 * * *'
+  workflow_dispatch: # Allows you to manually trigger it from the GitHub website if needed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Escape Hatch Scripts
+      env:
+        # Pulls the secret we will set in GitHub settings
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        python fetcher.py
+        python filter.py
+        python builder.py
+
+    - name: Commit and Push Update
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add index.html filtered_stories.json raw_payload.txt
+        # Only commit if there are actually changes to avoid git crashing
+        git commit -m "Automated Daily Escape Hatch update" || echo "No changes to commit"
+        git push origin main
