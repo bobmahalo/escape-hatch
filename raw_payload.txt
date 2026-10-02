@@ -27,6 +27,10 @@ Headline: Seoul warns 'further action' if Ukraine does not apologise over prison
 Summary: President Lee Jae Myung also accused Kyiv of "attempting to provoke a war on the Korean Peninsula".
 ---
 Source: NPR World
+Headline: Germany's political center fights for relevance after far-right and far-left gains
+Summary: Centrist politicians are soul-searching after electoral gains by the far right and the far left. Today's weak coalitions, political fragmentation and dire economy echo a past that led to the rise of fascism.
+---
+Source: NPR World
 Headline: October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?
 Summary: The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.
 ---
@@ -50,9 +54,9 @@ Source: NPR World
 Headline: Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack
 Summary: What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data.
 ---
-Source: NPR World
-Headline: Israel's prime minister says a pilot tried to crash a plane traveling to Tel Aviv
-Summary: One pilot stabbed another pilot on a FlyDubai flight headed to Tel Aviv on Wednesday and may have tried to crash the plane before passengers and crew members subdued him, Israel's prime minister says.
+Source: NPR Politics
+Headline: Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters
+Summary: The lawsuit says the prominent conservative podcaster falsely claimed the protesters were assaulting ICE officers during demonstrations at an ICE facility in Illinois last year.
 ---
 Source: NPR Politics
 Headline: San Francisco's car crime has plunged. How much credit does Flock deserve?
@@ -77,8 +81,4 @@ Summary: Data centers consume large amounts of power and require upgrading infra
 Source: NPR Politics
 Headline: California gubernatorial candidates face off in debate
 Summary: California's candidates for governor square off in a debate while the blue-leaning state grapples with affordability and other issues.
----
-Source: NPR Politics
-Headline: En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino
-Summary: Los republicanos lograron avances con los latinos en el último ciclo electoral, pero la economía y la frustración por la política migratoria de Donald Trump han corroído ese apoyo.
 ---
