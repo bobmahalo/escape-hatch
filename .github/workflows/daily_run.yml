@@ -4,6 +4,9 @@ on:
   schedule:
     # 15:36 UTC is exactly 5:36 AM HST
     - cron: '36 15 * * *'
+    # Backup triggers in case GitHub drops the first one
+    - cron: '36 16 * * *'
+    - cron: '36 17 * * *'
   workflow_dispatch: # Allows you to manually trigger it from the GitHub website if needed
 
 jobs:
@@ -11,10 +14,26 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: write
 
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 10
+      
+    - name: Check if already run today
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        # Get the UTC date of the last commit by the bot
+        LAST_COMMIT_DATE=$(git log -1 --author="github-actions\[bot\]" --format=%cd --date=short || echo "none")
+        TODAY=$(date -u +%Y-%m-%d)
+        if [ "$LAST_COMMIT_DATE" = "$TODAY" ]; then
+          echo "We already successfully published today. Cancelling this redundant backup run."
+          gh run cancel ${{ github.run_id }}
+          sleep 10
+        fi
 
     - name: Set up Python
       uses: actions/setup-python@v5
