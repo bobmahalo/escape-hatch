@@ -1,30 +1,46 @@
 Source: BBC World
-Headline: Christa Pike in critical condition after surviving two lethal injections, lawyer says
-Summary: Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.
+Headline: Riot police clash with students as education protests rage in France
+Summary: More than 600 schools have faced disruption as protests over standards and lack of teachers continue.
 ---
 Source: BBC World
-Headline: What happened in the failed execution of Christa Pike - and what next?
-Summary: The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.
+Headline: Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor
+Summary: The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.
 ---
 Source: BBC World
-Headline: Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'
-Summary: Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to "down the plane".
+Headline: 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot
+Summary: Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.
 ---
 Source: BBC World
-Headline: Putin warns West that Russia is ready to use every weapon to protect Kaliningrad
-Summary: The Russian leader insists Moscow is "not threatening anyone" and is merely responding to statements by Western leaders.
+Headline: Intensified Russian strikes are tearing Kyiv apart, warns mayor
+Summary: Vitaliy Klitschko says Ukraine's capital is in a "very dramatic situation" as Russia hits critical infrastructure.
 ---
 Source: BBC World
-Headline: Renee Good: Family of US woman killed by ICE agent sues Trump officials
-Summary: Lawyers for Good's family say US officials created "an unprecedented environment for state sponsored violence" in Minneapolis.
+Headline: Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87
+Summary: The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.
 ---
 Source: BBC World
-Headline: Russian dissident Garry Kasparov says US warned him of danger to his life
-Summary: "My family and I will not truly be safe as long as Putin is in power," says the former chess world champion.
+Headline: I've seen nearly 500 executions - but never one like Christa Pike's
+Summary: Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.
 ---
 Source: BBC World
-Headline: Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names
-Summary: The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.
+Headline: Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row
+Summary: President Lee Jae Myung also accused Kyiv of "attempting to provoke a war on the Korean Peninsula".
+---
+Source: NPR World
+Headline: October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?
+Summary: The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.
+---
+Source: NPR World
+Headline: Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'
+Summary: NAZA is an acronym for nezek agavi, Hebrew for "collateral damage." It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers.
+---
+Source: NPR World
+Headline: Cornell rape case gets special prosecutor. And, Renee Good's family sues the government
+Summary: New legal action in two closely watched cases: one at Cornell, the other over Renee Good's death. We take a closer look.
+---
+Source: NPR World
+Headline: Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia
+Summary: Activists across Asia are being hunted down by authoritarian governments even across international borders. Human rights groups have been warning of a "swap market" of repression in Southeast Asia.
 ---
 Source: NPR World
 Headline: What a Pearly King taught me about Cockney rhyming slang and East London history
@@ -35,24 +51,20 @@ Headline: Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-
 Summary: What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data.
 ---
 Source: NPR World
-Headline: Picanha, prices and politics: What Brazil's favorite steak says about the election
-Summary: President Lula promised Brazilians four years ago they'd be able to afford picanha again. Now, as he seeks another term, the price of the country's favorite cut of beef is telling a different story.
+Headline: Israel's prime minister says a pilot tried to crash a plane traveling to Tel Aviv
+Summary: One pilot stabbed another pilot on a FlyDubai flight headed to Tel Aviv on Wednesday and may have tried to crash the plane before passengers and crew members subdued him, Israel's prime minister says.
 ---
-Source: NPR World
-Headline: What life under U.S. sanctions looks like for one ICC judge
-Summary: Kimberly Prost, a Canadian judge at the International Criminal Court, says U.S. sanctions disrupted her daily life. She is still hearing cases and challenging the sanctions in court.
+Source: NPR Politics
+Headline: San Francisco's car crime has plunged. How much credit does Flock deserve?
+Summary: San Francisco leaders say AI-powered cameras helped drive a dramatic decline in car crime. We examine the evidence — and whether the city can keep its high-tech dragnet without sacrificing civil liberties.
 ---
-Source: NPR World
-Headline: Swiss glaciers suffer another year of record ice loss
-Summary: Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe.
+Source: NPR Politics
+Headline: Failed 'torturous' execution attempt on Christa Pike reignites death penalty debate
+Summary: The botched execution in Tennessee of Christa Pike, who survived despite being subject to two doses of lethal injection on Wednesday, has reignited furious debate about the death penalty in the U.S.
 ---
-Source: NPR World
-Headline: Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps
-Summary: As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment.
----
-Source: NPR World
-Headline: How Ukrainians are coping with new, more deadly Russian attacks
-Summary: Zanny Minton Beddoes, The Economist's editor in chief, just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.
+Source: NPR Politics
+Headline: The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?
+Summary: After 32 years in Congress, Ohio's Sherrod Brown lost his Senate seat in 2024 as many working class voters turned out for Trump. Now Brown is counting on union voters to send him back to Washington.
 ---
 Source: NPR Politics
 Headline: A judge permanently dismisses former Olympian's Reflecting Pool charges
@@ -69,16 +81,4 @@ Summary: California's candidates for governor square off in a debate while the b
 Source: NPR Politics
 Headline: En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino
 Summary: Los republicanos lograron avances con los latinos en el último ciclo electoral, pero la economía y la frustración por la política migratoria de Donald Trump han corroído ese apoyo.
----
-Source: NPR Politics
-Headline: COMIC: How the census gives your state power (and what Trump wants to change)
-Summary: The census is used to determine how much say your state has in Congress and the Electoral College. President Trump failed to alter it during his first term, but he's trying again ahead of 2030.
----
-Source: NPR Politics
-Headline: Along U.S. Route 1, Maine voters worry about heating oil, gas and Canadian tariffs
-Summary: Home to both Republican Sen. Susan Collins and Democratic candidate Troy Jackson, Maine's senate race has put rural Aroostook County in the spotlight.
----
-Source: NPR Politics
-Headline: Trade tensions mean fewer Canadians flocking to South Florida
-Summary: This South Florida community is typically a refuge for Canadians fleeing cold weather, but trade tensions between the United States and Canada mean fewer are coming.
 ---
