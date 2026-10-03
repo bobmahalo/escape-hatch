@@ -1,30 +1,42 @@
 Source: BBC World
-Headline: Riot police clash with students as education protests rage in France
-Summary: More than 600 schools have faced disruption as protests over standards and lack of teachers continue.
+Headline: Tennessee prison chief to resign after Christa Pike's failed execution
+Summary: Pike's lawyers said the failure "goes far beyond any one person". Pike is in critical condition after surviving two lethal injections.
 ---
 Source: BBC World
-Headline: Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor
-Summary: The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.
+Headline: Flydubai co-pilot attacked captain with axe, UAE official says
+Summary: The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.
 ---
 Source: BBC World
-Headline: 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot
-Summary: Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.
+Headline: Russia hits second major bridge in Ukraine's capital Kyiv
+Summary: The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.
 ---
 Source: BBC World
-Headline: Intensified Russian strikes are tearing Kyiv apart, warns mayor
-Summary: Vitaliy Klitschko says Ukraine's capital is in a "very dramatic situation" as Russia hits critical infrastructure.
+Headline: 'Anger in the streets': Tens of thousands protest in Spain over housing crisis
+Summary: More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.
 ---
 Source: BBC World
-Headline: Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87
-Summary: The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.
+Headline: G7 to release millions of barrels of oil and diesel after Trump threat
+Summary: The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
 ---
 Source: BBC World
-Headline: I've seen nearly 500 executions - but never one like Christa Pike's
-Summary: Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.
+Headline: Medical plane with 6 on board missing off Massachusetts coast
+Summary: The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.
 ---
 Source: BBC World
-Headline: Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row
-Summary: President Lee Jae Myung also accused Kyiv of "attempting to provoke a war on the Korean Peninsula".
+Headline: Women given shorts at Oktoberfest to prevent upskirting
+Summary: The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.
+---
+Source: NPR World
+Headline: Brazil's big political rematch: What to know about the Brazilian election
+Summary: Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.
+---
+Source: NPR World
+Headline: How Brazil's two leading presidential candidates are talking about crime
+Summary: Crime is at the top of voters' concerns in Brazil ahead of Sunday's national elections. Many are calling for tougher measures — part of a broader rightward shift across Latin America.
+---
+Source: NPR World
+Headline: The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months
+Summary: After increased pressure from Washington, the G7 held an emergency meeting on energy. The world's wealthiest nations say they will release 100 million barrels of oil and diesel fuel in their reserves.
 ---
 Source: NPR World
 Headline: Germany's political center fights for relevance after far-right and far-left gains
@@ -42,17 +54,25 @@ Source: NPR World
 Headline: Cornell rape case gets special prosecutor. And, Renee Good's family sues the government
 Summary: New legal action in two closely watched cases: one at Cornell, the other over Renee Good's death. We take a closer look.
 ---
-Source: NPR World
-Headline: Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia
-Summary: Activists across Asia are being hunted down by authoritarian governments even across international borders. Human rights groups have been warning of a "swap market" of repression in Southeast Asia.
+Source: NPR Politics
+Headline: Week in Politics: Inflation pressure; war in Iran and effect on midterm elections
+Summary: We look at how some concerning economic indicators as well as the ongoing war in Iran might affect the midterm elections.
 ---
-Source: NPR World
-Headline: What a Pearly King taught me about Cockney rhyming slang and East London history
-Summary: In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, died in August. A look back on this larger-than-life figure and the Pearly King tradition.
+Source: NPR Politics
+Headline: How high-profile scandals are shaping key contests ahead of the midterms
+Summary: Scandals could be shaping several races in the midterm elections, particularly in places where even small margins can change the outcome.
 ---
-Source: NPR World
-Headline: Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack
-Summary: What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data.
+Source: NPR Politics
+Headline: California voters to decide on controversial one-time tax on billionaires
+Summary: California voters will decide whether the state will charge a one-time tax on billionaires. The idea that has split Democrats and labor unions.
+---
+Source: NPR Politics
+Headline: The Supreme Court faces another term jam-packed with controversy
+Summary: The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.
+---
+Source: NPR Politics
+Headline: As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms
+Summary: Democratic lawmakers, veterans and concerned citizens gathered in Memorial Circle to protest the arch Trump wants to build there. Their hopes lie primarily in a lawsuit and next month's midterms.
 ---
 Source: NPR Politics
 Headline: Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters
@@ -61,24 +81,4 @@ Summary: The lawsuit says the prominent conservative podcaster falsely claimed t
 Source: NPR Politics
 Headline: San Francisco's car crime has plunged. How much credit does Flock deserve?
 Summary: San Francisco leaders say AI-powered cameras helped drive a dramatic decline in car crime. We examine the evidence — and whether the city can keep its high-tech dragnet without sacrificing civil liberties.
----
-Source: NPR Politics
-Headline: Failed 'torturous' execution attempt on Christa Pike reignites death penalty debate
-Summary: The botched execution in Tennessee of Christa Pike, who survived despite being subject to two doses of lethal injection on Wednesday, has reignited furious debate about the death penalty in the U.S.
----
-Source: NPR Politics
-Headline: The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?
-Summary: After 32 years in Congress, Ohio's Sherrod Brown lost his Senate seat in 2024 as many working class voters turned out for Trump. Now Brown is counting on union voters to send him back to Washington.
----
-Source: NPR Politics
-Headline: A judge permanently dismisses former Olympian's Reflecting Pool charges
-Summary: Citing "exceptional circumstances," a D.C. judge has ruled that the federal government cannot refile its Reflecting Pool charges against David Hearn, despite pressure from President Trump to do so.
----
-Source: NPR Politics
-Headline: AI data centers: How much are ratepayers on the hook for?
-Summary: Data centers consume large amounts of power and require upgrading infrastructure. But it's difficult to determine how much residential customers benefit and how much they actually pay for the benefit.
----
-Source: NPR Politics
-Headline: California gubernatorial candidates face off in debate
-Summary: California's candidates for governor square off in a debate while the blue-leaning state grapples with affordability and other issues.
 ---
