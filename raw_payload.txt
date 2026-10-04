@@ -1,58 +1,70 @@
 Source: BBC World
-Headline: Tennessee prison chief to resign after Christa Pike's failed execution
-Summary: Pike's lawyers said the failure "goes far beyond any one person". Pike is in critical condition after surviving two lethal injections.
+Headline: Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
+Summary: Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.
 ---
 Source: BBC World
-Headline: Flydubai co-pilot attacked captain with axe, UAE official says
-Summary: The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.
+Headline: Watch: What we know about Russian strikes on Kyiv bridges
+Summary: BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.
 ---
 Source: BBC World
-Headline: Russia hits second major bridge in Ukraine's capital Kyiv
-Summary: The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.
+Headline: Yemen's government announces all-out war to reclaim land from Houthis
+Summary: The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.
 ---
 Source: BBC World
-Headline: 'Anger in the streets': Tens of thousands protest in Spain over housing crisis
-Summary: More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.
+Headline: Ethiopian rebel forces withdraw from Tigray regional capital
+Summary: Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.
 ---
 Source: BBC World
-Headline: G7 to release millions of barrels of oil and diesel after Trump threat
-Summary: The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
+Headline: Christa Pike's prognosis still unclear after failed execution, lawyer says
+Summary: Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.
 ---
 Source: BBC World
-Headline: Medical plane with 6 on board missing off Massachusetts coast
-Summary: The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.
+Headline: US Marine arrested over murder of woman in Okinawa, Japan
+Summary: Japan's government lodged a formal protest with the US, demanding that military officials take action.
 ---
 Source: BBC World
-Headline: Women given shorts at Oktoberfest to prevent upskirting
-Summary: The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.
+Headline: Indian police accused of sexual harassment against journalists at protest
+Summary: The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.
+---
+Source: NPR World
+Headline: U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan
+Summary: Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday.
+---
+Source: NPR World
+Headline: She died covering war for Fox News. Her parents blame the network — and a star reporter
+Summary: The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.
+---
+Source: NPR World
+Headline: For some Brazilians, this election is a vote on Trump
+Summary: President Trump says he's been having success winning races in Latin America. As Brazilian voters go to the polls, they're also deciding how much influence Trump should have in their country.
+---
+Source: NPR World
+Headline: France arrests 5,000 people, mostly teens, as school protests spread
+Summary: High school students say their classrooms are overcrowded, teachers are missing and buildings need repairs. The protests have spread to cities across France, and some 5,000 people have been arrested.
+---
+Source: NPR World
+Headline: U.S. withdrawal from Iraq is complete
+Summary: Twenty-three years after President George W. Bush's campaign of "shock and awe," the U.S. military has completed its withdrawal from Iraq.
+---
+Source: NPR World
+Headline: Lula or Bolsonaro? Some Brazilian voters say they don't want either
+Summary: Brazil's election enters its final day of campaigning as Lula and Flávio Bolsonaro make their last pitches to voters. Brazilians explain what worries them, and why some still can't choose.
 ---
 Source: NPR World
 Headline: Brazil's big political rematch: What to know about the Brazilian election
 Summary: Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.
 ---
-Source: NPR World
-Headline: How Brazil's two leading presidential candidates are talking about crime
-Summary: Crime is at the top of voters' concerns in Brazil ahead of Sunday's national elections. Many are calling for tougher measures — part of a broader rightward shift across Latin America.
+Source: NPR Politics
+Headline: Trump names national intelligence chief Jay Clayton as new AI czar
+Summary: Trump said Clayton will lead the White House's new "Super Intelligence Force," which will coordinate government engagement with artificial intelligence.
 ---
-Source: NPR World
-Headline: The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months
-Summary: After increased pressure from Washington, the G7 held an emergency meeting on energy. The world's wealthiest nations say they will release 100 million barrels of oil and diesel fuel in their reserves.
+Source: NPR Politics
+Headline: Politics chat: Midterm polls, Senate races, Trump in Texas
+Summary: As polls come out with increasing frequency closer to the midterm election, how much credence should voters give them? Meanwhile, President Trump continues campaigning for GOP candidates.
 ---
-Source: NPR World
-Headline: Germany's political center fights for relevance after far-right and far-left gains
-Summary: Centrist politicians are soul-searching after electoral gains by the far right and the far left. Today's weak coalitions, political fragmentation and dire economy echo a past that led to the rise of fascism.
----
-Source: NPR World
-Headline: October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?
-Summary: The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.
----
-Source: NPR World
-Headline: Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'
-Summary: NAZA is an acronym for nezek agavi, Hebrew for "collateral damage." It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers.
----
-Source: NPR World
-Headline: Cornell rape case gets special prosecutor. And, Renee Good's family sues the government
-Summary: New legal action in two closely watched cases: one at Cornell, the other over Renee Good's death. We take a closer look.
+Source: NPR Politics
+Headline: Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona
+Summary: Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat.
 ---
 Source: NPR Politics
 Headline: Week in Politics: Inflation pressure; war in Iran and effect on midterm elections
@@ -69,16 +81,4 @@ Summary: California voters will decide whether the state will charge a one-time 
 Source: NPR Politics
 Headline: The Supreme Court faces another term jam-packed with controversy
 Summary: The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.
----
-Source: NPR Politics
-Headline: As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms
-Summary: Democratic lawmakers, veterans and concerned citizens gathered in Memorial Circle to protest the arch Trump wants to build there. Their hopes lie primarily in a lawsuit and next month's midterms.
----
-Source: NPR Politics
-Headline: Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters
-Summary: The lawsuit says the prominent conservative podcaster falsely claimed the protesters were assaulting ICE officers during demonstrations at an ICE facility in Illinois last year.
----
-Source: NPR Politics
-Headline: San Francisco's car crime has plunged. How much credit does Flock deserve?
-Summary: San Francisco leaders say AI-powered cameras helped drive a dramatic decline in car crime. We examine the evidence — and whether the city can keep its high-tech dragnet without sacrificing civil liberties.
 ---

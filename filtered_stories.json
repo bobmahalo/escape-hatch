@@ -1,32 +1,32 @@
 [
   {
-    "headline": "G7 releases emergency fuel reserves",
-    "event": "The Group of Seven nations agreed to release 100 million barrels of oil and diesel fuel from their reserves over the next four months.",
-    "context": "The action follows pressure from the United States to stabilize global energy prices and prevent a potential ban on domestic diesel exports.",
-    "scope": "The release affects global energy markets and consumers within the G7 member nations."
+    "headline": "US completes military withdrawal from Iraq",
+    "event": "The United States military has finalized the complete withdrawal of its armed forces from Iraq.",
+    "context": "The action concludes a multi-decade military deployment initiated during the 2003 invasion.",
+    "scope": "The operational shift affects remaining coalition personnel, regional security infrastructure, and the population of Iraq."
   },
   {
-    "headline": "Russia strikes Kyiv Pivnichnyi Bridge",
-    "event": "A Russian military strike targeted and damaged the Pivnichnyi Bridge, the second major transit bridge hit in Ukraine's capital.",
-    "context": "The attack is part of a repeated campaign targeting critical infrastructure and transport corridors within Kyiv.",
-    "scope": "The damage directly impacts municipal transit and logistics for residents and defense forces in the capital city."
+    "headline": "Russian drones strike Kyiv infrastructure",
+    "event": "Russian military forces executed drone strikes against the Pivnichyi Bridge in Kyiv on consecutive days.",
+    "context": "The attack occurred during an unannounced diplomatic visit to the capital by the chancellor of Germany.",
+    "scope": "The disruption affects municipal transport networks and civilian transit within the city of Kyiv."
   },
   {
-    "headline": "Brazil begins presidential election rematch",
-    "event": "Brazil commenced national elections featuring a contest between President Luiz In\u00e1cio Lula da Silva and challenger Fl\u00e1vio Bolsonaro.",
-    "context": "The election follows a narrow victory by Lula da Silva over Jair Bolsonaro four years prior amidst a regional rightward shift on public safety issues.",
-    "scope": "The outcome determines the federal administration and domestic policies for Brazil's population of over 200 million people."
+    "headline": "Yemeni government escalates Houthi conflict",
+    "event": "The government of Yemen initiated a military campaign aimed at re-establishing territorial control from Houthi forces.",
+    "context": "The announcement follows increased reciprocal missile and air strikes involving Houthi fighters and the Saudi-led coalition.",
+    "scope": "The expanded operations directly impact combatants and civilian populations residing within contested Yemeni regions."
   },
   {
-    "headline": "Protests over Spanish housing crisis",
-    "event": "Tens of thousands of citizens participated in more than 50 coordinated protests across Spain over rising housing costs.",
-    "context": "The demonstrations occurred after the Spanish government failed to pass emergency housing legislation through parliament.",
-    "scope": "The housing crisis directly affects renters, homebuyers, and property owners throughout major Spanish urban areas."
+    "headline": "Ethiopian forces enter Tigray capital",
+    "event": "Pro-government military units assumed control of Mekelle following the withdrawal of Tigrayan rebel forces.",
+    "context": "The territorial transition follows sustained armed conflict between the Ethiopian central government and regional Tigrayan leadership.",
+    "scope": "The change in administrative authority directly affects the residents of Mekelle and the broader Tigray region."
   },
   {
-    "headline": "German political center loses ground",
-    "event": "Centrist political parties in Germany are addressing electoral losses following gains by far-right and far-left political factions.",
-    "context": "The shift in voter alignment occurs during a period of economic stagnation and political fragmentation within the country's governing coalitions.",
-    "scope": "The electoral outcomes affect the legislative stability and policy direction of Europe's largest economy."
+    "headline": "French authorities detain nationwide protesters",
+    "event": "Law enforcement in France arrested approximately 5,000 people during widespread student demonstrations.",
+    "context": "Students organized national protests to demand systemic infrastructure repairs, increased staffing, and reduced class sizes in secondary schools.",
+    "scope": "The arrests and civil disruptions directly affect student populations, school administrations, and urban centers across France."
   }
 ]
