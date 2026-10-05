@@ -1,58 +1,66 @@
 Source: BBC World
-Headline: Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
-Summary: Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.
+Headline: Trump says 'threat' led US to pull bombers from RAF Fairford
+Summary: The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.
 ---
 Source: BBC World
-Headline: Watch: What we know about Russian strikes on Kyiv bridges
-Summary: BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.
+Headline: France braces for national day of school protests after injuries and mass arrests
+Summary: France prepares for a day of protests in support of students who’ve been demanding more investment in education.
 ---
 Source: BBC World
-Headline: Yemen's government announces all-out war to reclaim land from Houthis
-Summary: The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.
+Headline: Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say
+Summary: The Omani national was a "lone wolf" extremist, according to the reports.
 ---
 Source: BBC World
-Headline: Ethiopian rebel forces withdraw from Tigray regional capital
-Summary: Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.
+Headline: Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea
+Summary: The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.
 ---
 Source: BBC World
-Headline: Christa Pike's prognosis still unclear after failed execution, lawyer says
-Summary: Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.
+Headline: Spain PM pins hopes on housing crisis to help win snap election
+Summary: Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.
 ---
 Source: BBC World
-Headline: US Marine arrested over murder of woman in Okinawa, Japan
-Summary: Japan's government lodged a formal protest with the US, demanding that military officials take action.
+Headline: US 'watching closely' after plague researcher dies in Russia
+Summary: Donald Trump says the US was looking "very strongly" at the case of a lab technician who died at a research centre in Siberia.
 ---
 Source: BBC World
-Headline: Indian police accused of sexual harassment against journalists at protest
-Summary: The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.
+Headline: Pentagon stops using Anthropic AI tools after blacklisting company, BBC told
+Summary: It labelled Anthropic a "supply chain risk" in February after the firm refused to remove safety guardrails from its tools.
 ---
 Source: NPR World
-Headline: U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan
-Summary: Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday.
+Headline: In Iraq, ISIS members once jailed in Syria face trial
+Summary: In Iraq, NPR attends trials of French ISIS suspects after transfer from Syrian camps.
 ---
 Source: NPR World
-Headline: She died covering war for Fox News. Her parents blame the network — and a star reporter
-Summary: The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.
+Headline: Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone
+Summary: The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolving drone technology.
 ---
 Source: NPR World
-Headline: For some Brazilians, this election is a vote on Trump
-Summary: President Trump says he's been having success winning races in Latin America. As Brazilian voters go to the polls, they're also deciding how much influence Trump should have in their country.
+Headline: FBI arrests a woman accused of spying on Taiwan leader's family for China
+Summary: The FBI and U.S. prosecutors say Wanying Zhang, also know as Heather, surveilled the Taiwanese president's son and his family.
 ---
 Source: NPR World
-Headline: France arrests 5,000 people, mostly teens, as school protests spread
-Summary: High school students say their classrooms are overcrowded, teachers are missing and buildings need repairs. The protests have spread to cities across France, and some 5,000 people have been arrested.
+Headline: Imran Khan supporters march in Pakistan to demand his release after talks failed
+Summary: Talks between Khan's party and the government failed two days ago. Besides Khan's release, protesters demand his transfer to a hospital and family visits.
 ---
 Source: NPR World
-Headline: U.S. withdrawal from Iraq is complete
-Summary: Twenty-three years after President George W. Bush's campaign of "shock and awe," the U.S. military has completed its withdrawal from Iraq.
+Headline: SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff
+Summary: The Supreme Court is set to hear a blockbuster climate change case that could affect more than just climate issues. And, Brazil's presidential race is too close to call.
 ---
 Source: NPR World
-Headline: Lula or Bolsonaro? Some Brazilian voters say they don't want either
-Summary: Brazil's election enters its final day of campaigning as Lula and Flávio Bolsonaro make their last pitches to voters. Brazilians explain what worries them, and why some still can't choose.
+Headline: FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds
+Summary: The ongoing investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter but not authorized to speak publicly told NPR.
 ---
 Source: NPR World
-Headline: Brazil's big political rematch: What to know about the Brazilian election
-Summary: Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.
+Headline: U.S. Marine suspected in woman's death arrested in Japan
+Summary: A U.S. Marine has been arrested on suspicion of murder in Okinawa, prompting renewed Japanese criticism of the conduct of American military personnel.
+---
+Source: NPR Politics
+Headline: Supreme Court's new term kicks off with blockbuster climate change case
+Summary: The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate.
+---
+Source: NPR Politics
+Headline: People are asking ChatGPT to help them decide how to vote in the midterms
+Summary: Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.
 ---
 Source: NPR Politics
 Headline: Trump names national intelligence chief Jay Clayton as new AI czar
@@ -73,12 +81,4 @@ Summary: We look at how some concerning economic indicators as well as the ongoi
 Source: NPR Politics
 Headline: How high-profile scandals are shaping key contests ahead of the midterms
 Summary: Scandals could be shaping several races in the midterm elections, particularly in places where even small margins can change the outcome.
----
-Source: NPR Politics
-Headline: California voters to decide on controversial one-time tax on billionaires
-Summary: California voters will decide whether the state will charge a one-time tax on billionaires. The idea that has split Democrats and labor unions.
----
-Source: NPR Politics
-Headline: The Supreme Court faces another term jam-packed with controversy
-Summary: The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.
 ---

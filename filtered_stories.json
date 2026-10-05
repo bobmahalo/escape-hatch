@@ -1,32 +1,32 @@
 [
   {
-    "headline": "US completes military withdrawal from Iraq",
-    "event": "The United States military has finalized the complete withdrawal of its armed forces from Iraq.",
-    "context": "The action concludes a multi-decade military deployment initiated during the 2003 invasion.",
-    "scope": "The operational shift affects remaining coalition personnel, regional security infrastructure, and the population of Iraq."
+    "headline": "Russian Strike Hits Black Sea Vessel",
+    "event": "A Russian military strike targeted a Turkish-owned cargo ship transporting corn in the Black Sea, resulting in the death of the vessel's captain.",
+    "context": "Commercial shipping routes in the Black Sea have remained active combat zones following the 2022 escalation of the Russia-Ukraine war.",
+    "scope": "Maritime logistics companies, international merchant mariners, and global agricultural supply networks."
   },
   {
-    "headline": "Russian drones strike Kyiv infrastructure",
-    "event": "Russian military forces executed drone strikes against the Pivnichyi Bridge in Kyiv on consecutive days.",
-    "context": "The attack occurred during an unannounced diplomatic visit to the capital by the chancellor of Germany.",
-    "scope": "The disruption affects municipal transport networks and civilian transit within the city of Kyiv."
+    "headline": "Flydubai Co-Pilot Plotting Airport Attack",
+    "event": "An official investigation established that a Flydubai co-pilot intended to crash a commercial passenger plane into Ben Gurion International Airport in Israel.",
+    "context": "Aviation security agencies continually screen commercial flight crews to mitigate insider threats and lone-actor extremism.",
+    "scope": "Commercial air passengers, airline personnel, and aviation security infrastructure across the Middle East."
   },
   {
-    "headline": "Yemeni government escalates Houthi conflict",
-    "event": "The government of Yemen initiated a military campaign aimed at re-establishing territorial control from Houthi forces.",
-    "context": "The announcement follows increased reciprocal missile and air strikes involving Houthi fighters and the Saudi-led coalition.",
-    "scope": "The expanded operations directly impact combatants and civilian populations residing within contested Yemeni regions."
+    "headline": "Pentagon Blacklists AI Developer Anthropic",
+    "event": "The United States Department of Defense classified artificial intelligence vendor Anthropic as a supply chain risk and terminated internal deployment of its software.",
+    "context": "The decision followed the developer's refusal to dismantle built-in system guardrails requested for defense applications.",
+    "scope": "Defense technological suppliers, military intelligence analysts, and private sector enterprise AI developers."
   },
   {
-    "headline": "Ethiopian forces enter Tigray capital",
-    "event": "Pro-government military units assumed control of Mekelle following the withdrawal of Tigrayan rebel forces.",
-    "context": "The territorial transition follows sustained armed conflict between the Ethiopian central government and regional Tigrayan leadership.",
-    "scope": "The change in administrative authority directly affects the residents of Mekelle and the broader Tigray region."
+    "headline": "Supreme Court Hears Energy Litigation",
+    "event": "The United States Supreme Court convened oral arguments to decide if local municipalities can hold major fossil fuel producers financially liable for climate impacts.",
+    "context": "Municipal governments have sought civil damages through state courts to cover rising municipal infrastructure maintenance costs.",
+    "scope": "Energy sector corporations, municipal budget authorities, and the corporate litigation landscape in the United States."
   },
   {
-    "headline": "French authorities detain nationwide protesters",
-    "event": "Law enforcement in France arrested approximately 5,000 people during widespread student demonstrations.",
-    "context": "Students organized national protests to demand systemic infrastructure repairs, increased staffing, and reduced class sizes in secondary schools.",
-    "scope": "The arrests and civil disruptions directly affect student populations, school administrations, and urban centers across France."
+    "headline": "US Withdraws B1 Bombers From UK",
+    "event": "The United States Department of Defense re-stationed B-1 strategic bombers from RAF Fairford in England back to domestic airbases.",
+    "context": "The military transfer was initiated after intelligence officials identified an undisclosed security threat directed at the host facility.",
+    "scope": "United States Air Force personnel, NATO strategic command units, and security personnel at RAF Fairford."
   }
 ]
