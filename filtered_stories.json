@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Investigation details Tel Aviv flight plot",
-    "event": "An investigation confirmed a Flydubai co-pilot intended to crash a passenger aircraft into Ben Gurion International Airport in Tel Aviv.",
-    "context": "The Omani national acted as an independent extremist amid ongoing regional hostilities in the Middle East.",
-    "scope": "This event directly affects international commercial aviation security protocols and passengers traveling through Israeli airspace."
+    "headline": "German intelligence chief arrested",
+    "event": "Former German foreign intelligence chief August Hanning was arrested on suspicion of treason and espionage.",
+    "context": "The arrest follows investigations by federal prosecutors into the unauthorized transfer of classified state secrets to a foreign power.",
+    "scope": "The security breach directly impacts the German intelligence apparatus and its international intelligence-sharing partners."
   },
   {
-    "headline": "Pentagon blacklists Anthropic AI tools",
-    "event": "The United States Department of Defense ceased the utilization of Anthropic artificial intelligence software.",
-    "context": "The Pentagon designated the firm as a supply chain risk in February after the developer declined to remove safety parameters from its platforms.",
-    "scope": "This decision impacts Department of Defense procurement pipelines and the regulatory landscape for private artificial intelligence developers."
+    "headline": "Paramount and Warner Bros merge",
+    "event": "The corporate merger of media conglomerates Paramount and Warner Bros. is scheduled to close.",
+    "context": "The transaction represents a major consolidation in the media industry driven by market shifts toward digital streaming services.",
+    "scope": "The merger affects shareholders, employees, and subscribers of both entertainment networks globally."
   },
   {
-    "headline": "Russian strike hits Black Sea vessel",
-    "event": "A Russian military strike targeted a Turkish-owned vessel transporting corn in the Black Sea, resulting in the death of the ship's captain.",
-    "context": "The attack occurred within the ongoing maritime conflict zone of the Russia-Ukraine war, which regularly impacts shipping corridors.",
-    "scope": "This directly affects international merchant marine personnel and global agricultural supply chains utilizing Black Sea shipping routes."
+    "headline": "Kenya reports first Ebola death",
+    "event": "Kenya confirmed its first death from Ebola as the virus spreads from the neighboring Democratic Republic of Congo.",
+    "context": "Over 4,000 people have died from the current Ebola outbreak in the Democratic Republic of Congo this year.",
+    "scope": "Healthcare systems and populations in East Africa are directly affected by the increased risk of cross-border transmission."
   },
   {
-    "headline": "FBI arrests suspected Chinese operative",
-    "event": "The Federal Bureau of Investigation arrested an individual accused of conducting surveillance on the family of Taiwan's president on behalf of China.",
-    "context": "The arrest occurs amid persistent geopolitical tensions between the United States, Taiwan, and the People's Republic of China over sovereignty and intelligence gathering.",
-    "scope": "This directly impacts diplomatic relations between Washington, Taipei, and Beijing, alongside security protocols for foreign political families."
+    "headline": "France faces nationwide student protests",
+    "event": "More than 250,000 people demonstrated across France to demand increased funding for public schools.",
+    "context": "The mobilizations were organized in response to government-proposed education budgets and administrative resource allocations.",
+    "scope": "Public school students, teachers, and law enforcement agencies across France are directly impacted by the protests and security actions."
   },
   {
-    "headline": "US withdraws bombers from Britain",
-    "event": "The United States Pentagon removed B-1 bombers from Royal Air Force Base Fairford in England and returned them to domestic bases.",
-    "context": "The redeployment was executed following an unspecified security threat identified by military officials.",
-    "scope": "This affects North Atlantic Treaty Organization aerial defense positioning and the operational deployment of United States Air Force strategic assets."
+    "headline": "Black Sea drone strike sinks ship",
+    "event": "A commercial cargo vessel sank and its crew went missing after a drone attack in the Black Sea.",
+    "context": "The strike occurs amid escalated military operations targeting maritime infrastructure during the Russia-Ukraine conflict.",
+    "scope": "Merchant shipping companies and maritime crews operating in Black Sea trade routes are directly impacted by the threat of targeting."
   }
 ]

@@ -1,84 +1,84 @@
 Source: BBC World
-Headline: Trump says 'threat' led US to pull bombers from RAF Fairford
-Summary: The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.
+Headline: Tear gas in Paris and Marseille as school protests grow across France
+Summary: Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.
 ---
 Source: BBC World
-Headline: France braces for national day of school protests after injuries and mass arrests
-Summary: France prepares for a day of protests in support of students who’ve been demanding more investment in education.
+Headline: US death row inmate Christa Pike conscious after failed execution, lawyers say
+Summary: Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.
 ---
 Source: BBC World
-Headline: Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say
-Summary: The Omani national was a "lone wolf" extremist, according to the reports.
+Headline: Former German spy chief arrested for espionage and treason
+Summary: August Hanning is accused of obtaining classified information for a foreign power.
 ---
 Source: BBC World
-Headline: Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea
-Summary: The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.
+Headline: Ship sinks and crew missing after Black Sea drone attack
+Summary: It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.
 ---
 Source: BBC World
-Headline: Spain PM pins hopes on housing crisis to help win snap election
-Summary: Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.
+Headline: Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments
+Summary: New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.
 ---
 Source: BBC World
-Headline: US 'watching closely' after plague researcher dies in Russia
-Summary: Donald Trump says the US was looking "very strongly" at the case of a lab technician who died at a research centre in Siberia.
+Headline: Finland orders halt to work on two Google data centres
+Summary: The order affecting two planned data centres follows concerns over forest clearance.
 ---
 Source: BBC World
-Headline: Pentagon stops using Anthropic AI tools after blacklisting company, BBC told
-Summary: It labelled Anthropic a "supply chain risk" in February after the firm refused to remove safety guardrails from its tools.
+Headline: Kenya confirms its first Ebola death as outbreak spreads
+Summary: The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.
 ---
 Source: NPR World
-Headline: In Iraq, ISIS members once jailed in Syria face trial
-Summary: In Iraq, NPR attends trials of French ISIS suspects after transfer from Syrian camps.
+Headline: The questions swirling around a U.K. base and possible Iranian-backed attacks
+Summary: British police said they had made a seventh arrest in a murky plot that may have targeted a U.K. airbase.
 ---
 Source: NPR World
-Headline: Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone
-Summary: The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolving drone technology.
+Headline: France's police fire tear gas and water cannons as school protests sweep the country
+Summary: More than a quarter of a million people rallied nationwide to support school students demanding more education funding, according to government figures, with thousands of arrests.
 ---
 Source: NPR World
-Headline: FBI arrests a woman accused of spying on Taiwan leader's family for China
-Summary: The FBI and U.S. prosecutors say Wanying Zhang, also know as Heather, surveilled the Taiwanese president's son and his family.
+Headline: What to know about nationwide protests in India over voter list changes
+Summary: The campaign is led in part by India's "Cockroach" youth movement, which previously forced the education minister to resign.
 ---
 Source: NPR World
-Headline: Imran Khan supporters march in Pakistan to demand his release after talks failed
-Summary: Talks between Khan's party and the government failed two days ago. Besides Khan's release, protesters demand his transfer to a hospital and family visits.
+Headline: Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat
+Summary: State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night.
 ---
 Source: NPR World
-Headline: SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff
-Summary: The Supreme Court is set to hear a blockbuster climate change case that could affect more than just climate issues. And, Brazil's presidential race is too close to call.
+Headline: Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason
+Summary: A former head of Germany 's foreign intelligence service was arrested on suspicion that he had passed state secrets to a foreign intelligence service, the federal prosecutor's office said.
 ---
 Source: NPR World
-Headline: FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds
-Summary: The ongoing investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter but not authorized to speak publicly told NPR.
+Headline: Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close
+Summary: Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to close.
 ---
 Source: NPR World
-Headline: U.S. Marine suspected in woman's death arrested in Japan
-Summary: A U.S. Marine has been arrested on suspicion of murder in Okinawa, prompting renewed Japanese criticism of the conduct of American military personnel.
+Headline: What voters in 6 key states could tell us about the 2026 midterms
+Summary: Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.
 ---
 Source: NPR Politics
-Headline: Supreme Court's new term kicks off with blockbuster climate change case
-Summary: The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate.
+Headline: Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close
+Summary: Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to close.
 ---
 Source: NPR Politics
-Headline: People are asking ChatGPT to help them decide how to vote in the midterms
-Summary: Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.
+Headline: What voters in 6 key states could tell us about the 2026 midterms
+Summary: Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.
 ---
 Source: NPR Politics
-Headline: Trump names national intelligence chief Jay Clayton as new AI czar
-Summary: Trump said Clayton will lead the White House's new "Super Intelligence Force," which will coordinate government engagement with artificial intelligence.
+Headline: A history of presidents naming things after themselves (It's short. They rarely do)
+Summary: While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets.
 ---
 Source: NPR Politics
-Headline: Politics chat: Midterm polls, Senate races, Trump in Texas
-Summary: As polls come out with increasing frequency closer to the midterm election, how much credence should voters give them? Meanwhile, President Trump continues campaigning for GOP candidates.
+Headline: With 4 weeks to go, a look at where November's big races stand
+Summary: Election Day is four weeks away and people are already voting in the 2026 midterms. Where do things stand in the big races across the country?
 ---
 Source: NPR Politics
-Headline: Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona
-Summary: Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat.
+Headline: What challenges lie ahead for the Democratic Party as midterms approach
+Summary: Democrats are feeling optimistic ahead of the midterms, but what challenges remain? NPR's A Martinez asks Devan Barber, who leads the Democratic Senatorial Campaign Committee.
 ---
 Source: NPR Politics
-Headline: Week in Politics: Inflation pressure; war in Iran and effect on midterm elections
-Summary: We look at how some concerning economic indicators as well as the ongoing war in Iran might affect the midterm elections.
+Headline: Disney, ABC battle Trump's FCC in court over free speech protections
+Summary: President Trump has repeatedly called for Disney's ABC to fire late night comedian Jimmy Kimmel, for mocking him. Trump has also routinely denounced ABC's The View, accusing it of being unfair.
 ---
 Source: NPR Politics
-Headline: How high-profile scandals are shaping key contests ahead of the midterms
-Summary: Scandals could be shaping several races in the midterm elections, particularly in places where even small margins can change the outcome.
+Headline: Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries
+Summary: Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems.
 ---
