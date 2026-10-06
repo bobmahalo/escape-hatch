@@ -1,32 +1,32 @@
 [
   {
-    "headline": "German intelligence chief arrested",
-    "event": "Former German foreign intelligence chief August Hanning was arrested on suspicion of treason and espionage.",
-    "context": "The arrest follows investigations by federal prosecutors into the unauthorized transfer of classified state secrets to a foreign power.",
-    "scope": "The security breach directly impacts the German intelligence apparatus and its international intelligence-sharing partners."
+    "headline": "Former German spy chief arrested",
+    "event": "German authorities arrested former foreign intelligence chief August Hanning on suspicion of treason and espionage.",
+    "context": "Hanning previously held top-level security clearances during his tenure leading the Federal Intelligence Service.",
+    "scope": "The security breach directly affects the integrity of Germany's intelligence networks and its foreign allies."
   },
   {
-    "headline": "Paramount and Warner Bros merge",
-    "event": "The corporate merger of media conglomerates Paramount and Warner Bros. is scheduled to close.",
-    "context": "The transaction represents a major consolidation in the media industry driven by market shifts toward digital streaming services.",
-    "scope": "The merger affects shareholders, employees, and subscribers of both entertainment networks globally."
+    "headline": "Vessel sinks after drone strike",
+    "event": "A commercial ship sank and its crew went missing in the Black Sea following a drone attack.",
+    "context": "The incident occurs amid a broader intensification of military strikes on maritime shipping routes linked to the Russia-Ukraine war.",
+    "scope": "Commercial maritime operators and international trade networks using Black Sea shipping lanes are directly affected."
   },
   {
-    "headline": "Kenya reports first Ebola death",
-    "event": "Kenya confirmed its first death from Ebola as the virus spreads from the neighboring Democratic Republic of Congo.",
-    "context": "Over 4,000 people have died from the current Ebola outbreak in the Democratic Republic of Congo this year.",
-    "scope": "Healthcare systems and populations in East Africa are directly affected by the increased risk of cross-border transmission."
+    "headline": "Paramount and Warner Bros. merge",
+    "event": "A major corporate merger between media conglomerates Paramount and Warner Bros. is finalized to close.",
+    "context": "Legacy entertainment companies face ongoing pressure to consolidate in response to changing consumer media consumption habits.",
+    "scope": "The consolidation affects global media distribution channels and the combined workforce of both corporations."
   },
   {
-    "headline": "France faces nationwide student protests",
-    "event": "More than 250,000 people demonstrated across France to demand increased funding for public schools.",
-    "context": "The mobilizations were organized in response to government-proposed education budgets and administrative resource allocations.",
-    "scope": "Public school students, teachers, and law enforcement agencies across France are directly impacted by the protests and security actions."
+    "headline": "Kenya records first Ebola death",
+    "event": "Health officials in Kenya confirmed the country's first death from Ebola as the regional virus outbreak expands.",
+    "context": "The deceased individual had traveled from the Democratic Republic of Congo, where the current outbreak has caused over 4,000 deaths this year.",
+    "scope": "Health systems and populations in East Africa face increased risk of regional transmission."
   },
   {
-    "headline": "Black Sea drone strike sinks ship",
-    "event": "A commercial cargo vessel sank and its crew went missing after a drone attack in the Black Sea.",
-    "context": "The strike occurs amid escalated military operations targeting maritime infrastructure during the Russia-Ukraine conflict.",
-    "scope": "Merchant shipping companies and maritime crews operating in Black Sea trade routes are directly impacted by the threat of targeting."
+    "headline": "Nationwide student protests sweep France",
+    "event": "French police deployed tear gas and water cannons against demonstrations demanding increased educational resources.",
+    "context": "The protests follow government budget decisions regarding school funding and resource allocation.",
+    "scope": "Over 250,000 demonstrators, educational institutions, and domestic security forces across France are directly affected."
   }
 ]
