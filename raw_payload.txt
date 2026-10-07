@@ -1,58 +1,74 @@
 Source: BBC World
-Headline: US death row inmate Christa Pike conscious and speaking after failed execution, lawyers say
-Summary: Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.
+Headline: France halts use of stun grenades after boy's hand blown off in student protests
+Summary: The step comes after several groups complained of police using disproportionate force towards teenagers.
 ---
 Source: BBC World
-Headline: Tear gas in Paris and Marseille as school protests grow across France
-Summary: Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.
+Headline: Israelis demand accountability over 7 October failures three years after attacks
+Summary: Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.
 ---
 Source: BBC World
-Headline: Former German spy chief arrested for espionage and treason
-Summary: August Hanning is accused of obtaining classified information for a foreign power.
+Headline: Canada suspends plans to expand assisted dying to people with mental illness
+Summary: People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.
 ---
 Source: BBC World
-Headline: Ship sinks and crew missing after Black Sea drone attack
-Summary: It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.
+Headline: Trump to speak to Putin about plague lab worker's death in Russia
+Summary: Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.
 ---
 Source: BBC World
-Headline: Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments
-Summary: New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.
+Headline: Children killed while they slept as Russian missile kills 19 in block of flats
+Summary: Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.
 ---
 Source: BBC World
-Headline: Finland orders halt to work on two Google data centres
-Summary: The order affecting two planned data centres follows concerns over forest clearance.
+Headline: Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations
+Summary: The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.
 ---
 Source: BBC World
-Headline: Kenya confirms its first Ebola death as outbreak spreads
-Summary: The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.
+Headline: Chemistry Nobel awarded for solving mystery of life's asymmetry
+Summary: The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.
 ---
 Source: NPR World
-Headline: The questions swirling around a U.K. base and possible Iranian-backed attacks
-Summary: British police said they had made a seventh arrest in a murky plot that may have targeted a U.K. airbase.
+Headline: Gut microbes followed migrating humans across continents, new study suggests
+Summary: New research looks at the surprising similarities in the gut microbiomes of hunter-gathers in Tanzania and horticulturalists in Bolivia, and asks: What role do these bacteria play in human health?
 ---
 Source: NPR World
-Headline: France's police fire tear gas and water cannons as school protests sweep the country
-Summary: More than a quarter of a million people rallied nationwide to support school students demanding more education funding, according to government figures, with thousands of arrests.
+Headline: Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai
+Summary: The Lahore High Court is a near-perfect specimen of British South Asian colonial architecture and its main square is a pleasant spot shaded by banyan trees.
 ---
 Source: NPR World
-Headline: What to know about nationwide protests in India over voter list changes
-Summary: The campaign is led in part by India's "Cockroach" youth movement, which previously forced the education minister to resign.
+Headline: DIY fertilizer is a blessing as farmers face steep prices due to the Iran war
+Summary: It's hard enough being a small-scale farmer. Then the Iran war drove up fertilizer prices. So farmers are using a traditional Asian recipe to make their own. They call it a "labor of love."
 ---
 Source: NPR World
-Headline: Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat
-Summary: State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night.
+Headline: U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7
+Summary: A possible Iranian threat led the U.S. to remove long-range bombers from a U.K. base. And, Israelis are learning that their prime minister may have been warned before the Oct. 7 attacks.
 ---
 Source: NPR World
-Headline: Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason
-Summary: A former head of Germany 's foreign intelligence service was arrested on suspicion that he had passed state secrets to a foreign intelligence service, the federal prosecutor's office said.
+Headline: Investigation continues into whether U.K. air base incident is linked to Iran
+Summary: Questions continue to swirl around a U.K. military base and potential Iran-backed attacks.
 ---
 Source: NPR World
-Headline: Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close
-Summary: Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to close.
+Headline: Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry
+Summary: Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.
 ---
 Source: NPR World
-Headline: What voters in 6 key states could tell us about the 2026 midterms
-Summary: Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.
+Headline: 3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks
+Summary: On the three-year mark since the Hamas-led deadly attack, Israelis are grappling with reports that Prime Minister Benjamin Netanyahu was repeatedly warned by regional allies ahead of time.
+---
+Source: NPR Politics
+Headline: Trump approved the military's 1st firing squad execution since WWII. Why now?
+Summary: The Pentagon says Nidal Hasan will be executed by firing squad in December at Fort Hood, where he killed 13 people in 2009. The announcement came days after a botched lethal injection in Tennessee.
+---
+Source: NPR Politics
+Headline: She got Trump's $500 check for health insurance. To her, it's a 'political stunt'
+Summary: As checks from President Trump for health costs hit millions of mailboxes, a poll shows Americans don't trust Republicans on healthcare. Experts doubt it will move the needle and say it is likely illegal.
+---
+Source: NPR Politics
+Headline: 'Medicare for All' message attracts midterm voters buckling under medical bills
+Summary: Midterm candidates are talking up Medicare for All, and in a poll 2 out of 3 Americans said they support it. The phrase speaks to a desire for radical change, though many don't really know what it is.
+---
+Source: NPR Politics
+Headline: Carpetbagger allegation, misplaced valor make Nevada's safe red House seat competitive
+Summary: Northern Nevada has a reliably red congressional seat, represented by a Republican since it was drawn in the early 1980s. A complicated candidate and a potential blue wave this year could change that.
 ---
 Source: NPR Politics
 Headline: Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close
@@ -65,20 +81,4 @@ Summary: Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Oh
 Source: NPR Politics
 Headline: A history of presidents naming things after themselves (It's short. They rarely do)
 Summary: While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets.
----
-Source: NPR Politics
-Headline: With 4 weeks to go, a look at where November's big races stand
-Summary: Election Day is four weeks away and people are already voting in the 2026 midterms. Where do things stand in the big races across the country?
----
-Source: NPR Politics
-Headline: What challenges lie ahead for the Democratic Party as midterms approach
-Summary: Democrats are feeling optimistic ahead of the midterms, but what challenges remain? NPR's A Martinez asks Devan Barber, who leads the Democratic Senatorial Campaign Committee.
----
-Source: NPR Politics
-Headline: Disney, ABC battle Trump's FCC in court over free speech protections
-Summary: President Trump has repeatedly called for Disney's ABC to fire late night comedian Jimmy Kimmel, for mocking him. Trump has also routinely denounced ABC's The View, accusing it of being unfair.
----
-Source: NPR Politics
-Headline: Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries
-Summary: Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems.
 ---
