@@ -1,10 +1,18 @@
 Source: BBC World
-Headline: France halts use of stun grenades after boy's hand blown off in student protests
-Summary: The step comes after several groups complained of police using disproportionate force towards teenagers.
+Headline: Spanish pensioner whose eviction sparked nationwide protests dies, union says
+Summary: Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.
+---
+Source: BBC World
+Headline: Israelis mourn 7 October attack victims three years after deadly Hamas raid
+Summary: Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.
 ---
 Source: BBC World
 Headline: Israelis demand accountability over 7 October failures three years after attacks
 Summary: Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.
+---
+Source: BBC World
+Headline: France halts use of stun grenades after boy's hand blown off in student protests
+Summary: The step comes after several groups complained of police using disproportionate force towards teenagers.
 ---
 Source: BBC World
 Headline: Canada suspends plans to expand assisted dying to people with mental illness
@@ -18,13 +26,9 @@ Source: BBC World
 Headline: Children killed while they slept as Russian missile kills 19 in block of flats
 Summary: Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.
 ---
-Source: BBC World
-Headline: Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations
-Summary: The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.
----
-Source: BBC World
-Headline: Chemistry Nobel awarded for solving mystery of life's asymmetry
-Summary: The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.
+Source: NPR World
+Headline: What is the pneumonic plague?
+Summary: The ancient disease of plague is back in the headlines after the death this month of a Russian lab worker.
 ---
 Source: NPR World
 Headline: Gut microbes followed migrating humans across continents, new study suggests
@@ -49,10 +53,6 @@ Summary: Questions continue to swirl around a U.K. military base and potential I
 Source: NPR World
 Headline: Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry
 Summary: Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.
----
-Source: NPR World
-Headline: 3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks
-Summary: On the three-year mark since the Hamas-led deadly attack, Israelis are grappling with reports that Prime Minister Benjamin Netanyahu was repeatedly warned by regional allies ahead of time.
 ---
 Source: NPR Politics
 Headline: Trump approved the military's 1st firing squad execution since WWII. Why now?
