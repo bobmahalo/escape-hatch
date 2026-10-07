@@ -63,12 +63,12 @@ Headline: She got Trump's $500 check for health insurance. To her, it's a 'polit
 Summary: As checks from President Trump for health costs hit millions of mailboxes, a poll shows Americans don't trust Republicans on healthcare. Experts doubt it will move the needle and say it is likely illegal.
 ---
 Source: NPR Politics
-Headline: 'Medicare for All' message attracts midterm voters buckling under medical bills
-Summary: Midterm candidates are talking up Medicare for All, and in a poll 2 out of 3 Americans said they support it. The phrase speaks to a desire for radical change, though many don't really know what it is.
----
-Source: NPR Politics
 Headline: Carpetbagger allegation, misplaced valor make Nevada's safe red House seat competitive
 Summary: Northern Nevada has a reliably red congressional seat, represented by a Republican since it was drawn in the early 1980s. A complicated candidate and a potential blue wave this year could change that.
+---
+Source: NPR Politics
+Headline: 'Medicare for All' message attracts midterm voters buckling under medical bills
+Summary: Midterm candidates are talking up Medicare for All, and in a poll 2 out of 3 Americans said they support it. The phrase speaks to a desire for radical change, though many don't really know what it is.
 ---
 Source: NPR Politics
 Headline: Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close
