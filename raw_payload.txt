@@ -1,10 +1,18 @@
 Source: BBC World
+Headline: Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says
+Summary: "We'll make sure that people are able to watch it," the US Defence Secretary Pete Hegseth said on Thursday.
+---
+Source: BBC World
 Headline: Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge
 Summary: Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.
 ---
 Source: BBC World
 Headline: Christa Pike now walking after failed US execution, lawyer tells BBC
 Summary: A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.
+---
+Source: BBC World
+Headline: Adidas sues Australian label White Fox over four stripes design
+Summary: The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.
 ---
 Source: BBC World
 Headline: Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture
@@ -15,16 +23,8 @@ Headline: Protesters blame 'vulture funds' for Spain's housing crisis
 Summary: Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.
 ---
 Source: BBC World
-Headline: Italy approves elections overhaul as opposition accuse Meloni of 'scam'
-Summary: Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.
----
-Source: BBC World
-Headline: US deportations to African countries unlawful and exploit suffering, rights group says
-Summary: More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.
----
-Source: BBC World
-Headline: Teacher who sexually abused pupil back in Indonesia jail after BBC investigation
-Summary: Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.
+Headline: 'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize
+Summary: Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.
 ---
 Source: NPR World
 Headline: New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture
@@ -55,10 +55,6 @@ Headline: Former ambassador on NATO's meeting in Ukraine and the ongoing war
 Summary: Military representatives from all 32 NATO member states met in Kyiv. NPR's Steve Inskeep speaks with Kurt Volker, former U.S. ambassador to NATO, about the meeting and the ongoing war.
 ---
 Source: NPR Politics
-Headline: A Congressman wants his colleagues to pledge to accept election results
-Summary: NPR's Ailsa Chang speaks with Rep. Josh Gottheimer, D-N.Y., on a bipartisan pledge he is co-leading to assure that fellow House members accept midterm elections results.
----
-Source: NPR Politics
 Headline: White House correspondent April Ryan reflects on reporting while under attack
 Summary: Ryan has spent decades pressing presidents for answers. She talks about access, power, race and how asking questions put her in President Trump's crosshairs. Her new book is Notes on a Blacklash.
 ---
@@ -81,4 +77,8 @@ Summary: A trove of documents and interviews with people close to tech billionai
 Source: NPR Politics
 Headline: Trump proposes Camp David-style presidential retreat at his private Florida golf club
 Summary: President Trump said he wants to develop one of his Florida golf courses into a presidential retreat where his successors can spend quiet weekends, describing it as "sort of a Camp David."
+---
+Source: NPR Politics
+Headline: Trump approved the military's 1st firing squad execution since WWII. Why now?
+Summary: The Pentagon says Nidal Hasan will be executed by firing squad in December at Fort Hood, where he killed 13 people in 2009. The announcement came days after a botched lethal injection in Tennessee.
 ---
