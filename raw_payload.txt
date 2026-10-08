@@ -55,6 +55,10 @@ Headline: Former ambassador on NATO's meeting in Ukraine and the ongoing war
 Summary: Military representatives from all 32 NATO member states met in Kyiv. NPR's Steve Inskeep speaks with Kurt Volker, former U.S. ambassador to NATO, about the meeting and the ongoing war.
 ---
 Source: NPR Politics
+Headline: A Congressman wants his colleagues to pledge to accept election results
+Summary: NPR's Ailsa Chang speaks with Rep. Josh Gottheimer, D-N.Y., on a bipartisan pledge he is co-leading to assure that fellow House members accept midterm elections results.
+---
+Source: NPR Politics
 Headline: White House correspondent April Ryan reflects on reporting while under attack
 Summary: Ryan has spent decades pressing presidents for answers. She talks about access, power, race and how asking questions put her in President Trump's crosshairs. Her new book is Notes on a Blacklash.
 ---
@@ -77,8 +81,4 @@ Summary: A trove of documents and interviews with people close to tech billionai
 Source: NPR Politics
 Headline: Trump proposes Camp David-style presidential retreat at his private Florida golf club
 Summary: President Trump said he wants to develop one of his Florida golf courses into a presidential retreat where his successors can spend quiet weekends, describing it as "sort of a Camp David."
----
-Source: NPR Politics
-Headline: Trump approved the military's 1st firing squad execution since WWII. Why now?
-Summary: The Pentagon says Nidal Hasan will be executed by firing squad in December at Fort Hood, where he killed 13 people in 2009. The announcement came days after a botched lethal injection in Tennessee.
 ---
