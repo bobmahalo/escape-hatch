@@ -27,6 +27,14 @@ Headline: Navi Pillay, former UN human rights chief, wins Nobel Peace Prize
 Summary: Pillay is recognised for her "efforts to promote peace and international law", the Norwegian Nobel Committee says.
 ---
 Source: NPR World
+Headline: South African human rights lawyer Navi Pillay wins Nobel Peace Prize
+Summary: South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for her lifelong defense of human rights and international law.
+---
+Source: NPR World
+Headline: Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
+Summary: Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.
+---
+Source: NPR World
 Headline: Did Russia play by the rules in reporting lab worker's death?
 Summary: A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.
 ---
@@ -46,13 +54,9 @@ Source: NPR World
 Headline: New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture
 Summary: U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.
 ---
-Source: NPR World
-Headline: South Korea to recall its ambassador to Ukraine over North Korean POW dispute
-Summary: The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation.
----
-Source: NPR World
-Headline: South Korea test-flies its first domestically developed hypersonic weapon
-Summary: The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.
+Source: NPR Politics
+Headline: Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
+Summary: Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.
 ---
 Source: NPR Politics
 Headline: Trump's Affordable Suit
@@ -77,8 +81,4 @@ Summary: Twenty-five years ago this week, the U.S. invaded Afghanistan. For Stor
 Source: NPR Politics
 Headline: Trump's War in Iran in spotlight ahead of midterms
 Summary: After President Trump slapped down reports that he is considered renewed strikes against Iran ahead of the midterms, the politics of the war he started are in the spotlight.
----
-Source: NPR Politics
-Headline: A congressman wants his House colleagues to pledge to accept election results
-Summary: Rep. Josh Gottheimer, D-N.J., is co-leading an effort to get colleagues to pledge they'll accept this fall's election results and oppose any effort to block the seating of fellow members next year.
 ---

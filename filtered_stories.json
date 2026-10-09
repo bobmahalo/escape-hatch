@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Navi Pillay Wins Nobel Prize",
-    "event": "South African human rights lawyer Navi Pillay has been awarded the 2026 Nobel Peace Prize.",
-    "context": "Pillay previously served as the United Nations High Commissioner for Human Rights and has spent decades working in international law.",
-    "scope": "The global human rights advocacy community and international legal institutions are directly recognized by this award."
+    "headline": "US Reaches Russian Diesel Purchase Deal",
+    "event": "US President Trump announced an agreement to import Russian diesel fuel following a phone call with Russian President Vladimir Putin.",
+    "context": "The agreement relaxes existing US economic sanctions imposed on Russian petroleum exports following Russia's invasion of Ukraine.",
+    "scope": "The decision directly impacts US energy consumers, Ukrainian defense posture, and global fuel markets."
+  },
+  {
+    "headline": "Navi Pillay Awarded Nobel Peace Prize",
+    "event": "Former United Nations High Commissioner for Human Rights Navi Pillay was awarded the 2026 Nobel Peace Prize.",
+    "context": "The award recognizes Pillay's multi-decade work in international law and human rights advocacy.",
+    "scope": "The decision affects global human rights organizations and international legal institutions."
   },
   {
     "headline": "Magnitude 7.7 Earthquake Hits Panama",
-    "event": "A magnitude 7.7 earthquake struck Panama, causing structural damage and prompting tsunami warnings for neighboring countries.",
-    "context": "The region lies along active tectonic plate boundaries, making it highly susceptible to seismic activity.",
-    "scope": "Residents of Panama and coastal populations in neighboring Central American countries are directly affected by the physical damage and emergency alerts."
+    "event": "A magnitude 7.7 earthquake struck Panama, damaging infrastructure and prompting regional tsunami warnings.",
+    "context": "Central America sits along active tectonic plate boundaries prone to severe seismic activity.",
+    "scope": "Populations across Panama and surrounding coastal Central American nations face direct physical hazards and infrastructure disruption."
   },
   {
-    "headline": "US Imposes Sanctions On ICC",
-    "event": "The United States government has announced sanctions against the International Criminal Court.",
-    "context": "The court has pursued investigations that involve US personnel and allies, drawing opposition from Washington.",
-    "scope": "International jurists, member states of the tribunal, and global diplomatic relations are directly impacted by this regulatory action."
+    "headline": "United States Imposes ICC Sanctions",
+    "event": "The United States government unveiled formal sanctions against the International Criminal Court.",
+    "context": "The sanctions follow tribunal proceedings that US officials and select allied nations explicitly oppose.",
+    "scope": "The measures target court officials directly and impact diplomatic relations with the ICC's member nations."
   },
   {
-    "headline": "South Korea Tests Hypersonic Weapon",
-    "event": "South Korea conducted the first test flight of its domestically developed hypersonic weapon.",
-    "context": "The test follows a recent hypersonic missile test by North Korea amidst rising border tensions.",
-    "scope": "The military forces and civilian populations of the Korean Peninsula are directly affected by this shift in regional security dynamics."
-  },
-  {
-    "headline": "US Charges Maduro With Torture",
-    "event": "United States prosecutors filed new torture charges against the former president of Venezuela, Nicol\u00e1s Maduro.",
-    "context": "Maduro was previously ousted from power and already faces multiple US federal indictments related to narcotics trafficking.",
-    "scope": "The political leadership of Venezuela and US-Venezuelan bilateral relations are directly impacted by this legal action."
+    "headline": "US Charges Nicol\u00e1s Maduro With Torture",
+    "event": "United States federal prosecutors issued a new indictment charging former Venezuelan President Nicol\u00e1s Maduro with torture.",
+    "context": "The action expands an existing US federal case against Maduro that previously focused on drug trafficking charges.",
+    "scope": "The legal filing directly affects the diplomatic status and legal proceedings concerning former Venezuelan government officials."
   }
 ]
