@@ -55,7 +55,7 @@ Headline: South Korea test-flies its first domestically developed hypersonic wea
 Summary: The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.
 ---
 Source: NPR Politics
-Headline: Billionaire, also the U.S. president, spotted in Jos. A. Bank suit
+Headline: Trump's Affordable Suit
 Summary: NPR's Mary Louise Kelly speaks with New York Times fashion reporter Jacob Gallagher about President Trump's apparent choice to wear a suit from the budget menswear chain Jos. A. Bank.
 ---
 Source: NPR Politics
@@ -79,6 +79,6 @@ Headline: Trump's War in Iran in spotlight ahead of midterms
 Summary: After President Trump slapped down reports that he is considered renewed strikes against Iran ahead of the midterms, the politics of the war he started are in the spotlight.
 ---
 Source: NPR Politics
-Headline: White House correspondent April Ryan reflects on reporting while under attack
-Summary: Ryan has spent decades pressing presidents for answers. She talks about access, power, race and how asking questions put her in President Trump's crosshairs. Her new book is Notes on a Blacklash.
+Headline: A congressman wants his House colleagues to pledge to accept election results
+Summary: Rep. Josh Gottheimer, D-N.J., is co-leading an effort to get colleagues to pledge they'll accept this fall's election results and oppose any effort to block the seating of fellow members next year.
 ---
