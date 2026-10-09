@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Russian strike kills thirty in Kramatorsk",
-    "event": "A Russian strike targeted two buses in the frontline Ukrainian city of Kramatorsk, killing at least 30 people.",
-    "context": "The incident occurs amid a long-range aerial war and front-line deadlock more than four and a half years after Russia's full-scale invasion of Ukraine.",
-    "scope": "The attack directly affects the civilian population of Kramatorsk and emergency response services in the Donetsk region."
+    "headline": "United States sanctions international court",
+    "event": "The United States government has implemented sanctions against the International Criminal Court.",
+    "context": "This action follows court investigations and rulings that opposed United States foreign policy interests and those of its allies.",
+    "scope": "The sanctions affect officials of the International Criminal Court and impact diplomatic relations among member states, including the United Kingdom."
   },
   {
-    "headline": "United States indicts Nicol\u00e1s Maduro",
-    "event": "United States authorities filed a new indictment charging former Venezuelan President Nicol\u00e1s Maduro with conspiracy to commit torture against detained U.S. citizens.",
-    "context": "Maduro was previously ousted from power and is already facing separate drug trafficking allegations brought by the United States.",
-    "scope": "This legal action directly impacts diplomatic relations between the United States and Venezuela, as well as the legal status of the former Venezuelan leadership."
+    "headline": "Magnitude 7.7 earthquake hits Panama",
+    "event": "A magnitude 7.7 earthquake struck Panama, causing physical damage to local infrastructure.",
+    "context": "The region lies along active tectonic plate boundaries, making it highly susceptible to seismic activity.",
+    "scope": "Residents of Panama and coastal populations in neighboring countries under tsunami warnings are directly affected."
   },
   {
-    "headline": "Spain calls snap national election",
-    "event": "The Spanish Prime Minister called a snap election following widespread protests in Madrid over housing costs and institutional investment.",
-    "context": "Demonstrators have occupied central areas of Madrid to protest the impact of investment funds on the domestic housing market.",
-    "scope": "The political development directly affects the electorate of Spain and the future composition of the national government."
+    "headline": "Navi Pillay wins Nobel Prize",
+    "event": "Former United Nations human rights chief Navi Pillay was awarded the 2026 Nobel Peace Prize.",
+    "context": "Pillay spent decades working as a South African human rights lawyer and international jurist promoting global legal standards.",
+    "scope": "The award recognizes her global contributions, directly affecting international human rights advocacy communities."
   },
   {
     "headline": "South Korea tests hypersonic weapon",
-    "event": "South Korea conducted its first test flight of a domestically developed hypersonic weapon.",
-    "context": "The military test follows a recent North Korean hypersonic missile test and rising border tensions marked by landmine explosions.",
-    "scope": "The development directly affects military deployment strategies on the Korean Peninsula and regional security dynamics in East Asia."
+    "event": "South Korea conducted its first successful test flight of a domestically developed hypersonic weapon.",
+    "context": "This development follows a similar hypersonic missile test by North Korea amidst rising bilateral border tensions.",
+    "scope": "The military balance of the Korean Peninsula is directly affected, involving the armed forces and security postures of both North and South Korea."
   },
   {
-    "headline": "Pentagon schedules military firing squad",
-    "event": "The United States Pentagon scheduled the execution of Nidal Hasan by firing squad, marking the first use of this method by the U.S. military since World War II.",
-    "context": "Hasan was convicted of killing 13 people at Fort Hood in 2009, and the decision follows a recent failed lethal injection attempt in Tennessee.",
-    "scope": "The decision directly affects the active military justice system, the prisoner, and the legal protocols for federal military executions."
+    "headline": "United States indicts Nicol\u00e1s Maduro",
+    "event": "United States prosecutors filed new charges of torture against former Venezuelan President Nicol\u00e1s Maduro.",
+    "context": "Maduro was previously indicted by United States authorities on drug trafficking allegations following his contested tenure as president.",
+    "scope": "This legal action directly targets Maduro and his close associates while escalating diplomatic friction between the United States and Venezuela."
   }
 ]
