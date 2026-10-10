@@ -1,30 +1,42 @@
 Source: BBC World
-Headline: Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
-Summary: Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
+Headline: 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
+Summary: Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.
 ---
 Source: BBC World
-Headline: US unveils sanctions on ICC in move court condemns as 'assault on rule of law'
-Summary: Several member states of the international tribunal, including the UK, say they "strongly disagree" with the sanctions.
+Headline: Russian glide bomb attack on Zaporizhzhia kills at least 15 people
+Summary: Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its "thanks" for a US diesel deal.
 ---
 Source: BBC World
-Headline: JD Vance casts doubt on firing squad execution and says he will not watch it
-Summary: The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.
+Headline: Several injured in attack on airport in Saudi capital Riyadh
+Summary: The US embassy says it is "aware of attacks on King Khalid International Airport", which come days after Yemen's Houthis said they had struck it.
 ---
 Source: BBC World
-Headline: Powerful magnitude 7.7 earthquake hits Panama, damaging buildings
-Summary: Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.
+Headline: US murderer Christa Pike discharged from hospital 10 days after failed execution
+Summary: Pike's lawyers say she is "grateful" to the medical team who cared for her after she survived two lethal injections last month.
 ---
 Source: BBC World
-Headline: Russian search engine Yandex struggles after Ukrainian strikes on data centres
-Summary: Often dubbed "Russia's Google", the tech firm admits customers may experience disruption to digital services due to the attacks.
+Headline: Four dead and thousands without power after Hurricane Isaias lashes US
+Summary: Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.
 ---
 Source: BBC World
-Headline: Man named Hitler Mussolini elected mayor in Peru
-Summary: The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.
+Headline: Expedition hopes to find aviator Amelia Earhart's plane on remote island
+Summary: The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.
 ---
 Source: BBC World
-Headline: Navi Pillay, former UN human rights chief, wins Nobel Peace Prize
-Summary: Pillay is recognised for her "efforts to promote peace and international law", the Norwegian Nobel Committee says.
+Headline: Woman injures three people in third Poland school knife attack in a week
+Summary: Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.
+---
+Source: NPR World
+Headline: U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows
+Summary: Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S. policy, sparking anger from Ukraine and allies.
+---
+Source: NPR World
+Headline: Photos: What a year of ceasefire in Gaza looks like
+Summary: It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.
+---
+Source: NPR World
+Headline: India cracks down on youth protests as anger grows against Modi and election chief
+Summary: The protests focus on the Election Commission's voter list revision, which the opposition claims disenfranchises millions. The government denies the allegations, saying the revision aims to eliminate duplicate entries.
 ---
 Source: NPR World
 Headline: South African human rights lawyer Navi Pillay wins Nobel Peace Prize
@@ -42,17 +54,21 @@ Source: NPR World
 Headline: Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC
 Summary: Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.
 ---
-Source: NPR World
-Headline: South African human rights lawyer Navi Pillay wins the Nobel Peace Prize
-Summary: South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for advancing human rights and international law.
+Source: NPR Politics
+Headline: U.S. imposes sweeping sanctions on International Criminal Court
+Summary: The U.S. has announced sanctions against the International Criminal Court, with Secretary of State Marco Rubio vowing to dismantle the world's only permanent war crimes tribunal.
 ---
-Source: NPR World
-Headline: The long-deployed USS Lincoln returns home to San Diego Bay
-Summary: The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew stress and supply shortages.
+Source: NPR Politics
+Headline: Week in Politics: Hegseth's livestream backlash; Greece ambassador Guilfoyle scandal
+Summary: Bipartisan blowback on Defense Secretary Pete Hegseth's plans to livestream a military execution, plus a scandal involving Kimberly Guilfoyle, the US Ambassador to Greece.
 ---
-Source: NPR World
-Headline: New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture
-Summary: U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.
+Source: NPR Politics
+Headline: On the ground in Ohio's 9th District: The battleground shaping next month's midterms
+Summary: Ohio is a critical battleground in next month's midterms elections. NPR's Scott Simon traveled to the state's 9th Congressional District to hear from voters about their priorities.
+---
+Source: NPR Politics
+Headline: After losing ground with Latino voters, Democrats are turning to influencers for help
+Summary: Democrats are hoping to win back Latino voters who have soured on both parties. They hope Latino content creators will bridge the gap.
 ---
 Source: NPR Politics
 Headline: Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
@@ -65,20 +81,4 @@ Summary: NPR's Mary Louise Kelly speaks with New York Times fashion reporter Jac
 Source: NPR Politics
 Headline: U.S. working to reverse an Egyptian man's third-country deportation to Africa
 Summary: The Trump administration's effort to return Ahmed Soliman to the U.S. come after an Arizona judge said his deportation violated due process.
----
-Source: NPR Politics
-Headline: Why mailing a ballot close to Election Day may get it rejected for a late postmark
-Summary: If you're using the U.S. Postal Service to return a ballot close to Election Day, officials recommend getting it postmarked at a post office to avoid getting caught up in mail processing changes.
----
-Source: NPR Politics
-Headline: Republican congressman tries to outrun a potential blue wave in New York toss-up seat
-Summary: Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November.
----
-Source: NPR Politics
-Headline: 25 years later an Afghan couple looks back at the invasion
-Summary: Twenty-five years ago this week, the U.S. invaded Afghanistan. For StoryCorps, one Afghan couple offers an account of their experience after the invasion and eventual U.S. withdrawal.
----
-Source: NPR Politics
-Headline: Trump's War in Iran in spotlight ahead of midterms
-Summary: After President Trump slapped down reports that he is considered renewed strikes against Iran ahead of the midterms, the politics of the war he started are in the spotlight.
 ---
