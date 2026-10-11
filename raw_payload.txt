@@ -1,58 +1,78 @@
 Source: BBC World
-Headline: 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
-Summary: Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.
+Headline: Saudi capital airport hit by second Houthi strike in two days
+Summary: The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.
 ---
 Source: BBC World
-Headline: Russian glide bomb attack on Zaporizhzhia kills at least 15 people
-Summary: Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its "thanks" for a US diesel deal.
+Headline: Ukraine strikes Yandex data centre in third attack on Russian tech giant
+Summary: It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.
 ---
 Source: BBC World
-Headline: Several injured in attack on airport in Saudi capital Riyadh
-Summary: The US embassy says it is "aware of attacks on King Khalid International Airport", which come days after Yemen's Houthis said they had struck it.
+Headline: Poland detains man suspected of planning assassination of PM Tusk
+Summary: Police received credible information about possible attacks against Donald Tusk and his defence minister.
 ---
 Source: BBC World
-Headline: US murderer Christa Pike discharged from hospital 10 days after failed execution
-Summary: Pike's lawyers say she is "grateful" to the medical team who cared for her after she survived two lethal injections last month.
+Headline: Homes and bridges swept away as fresh floods hit Nepal
+Summary: Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.
 ---
 Source: BBC World
-Headline: Four dead and thousands without power after Hurricane Isaias lashes US
-Summary: Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.
+Headline: Poland stabbings driven by online glorification of violence, Tusk says
+Summary: The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.
 ---
 Source: BBC World
-Headline: Expedition hopes to find aviator Amelia Earhart's plane on remote island
-Summary: The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.
+Headline: Orangutans released back into Borneo forest after devastating fires
+Summary: Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.
 ---
 Source: BBC World
-Headline: Woman injures three people in third Poland school knife attack in a week
-Summary: Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.
+Headline: Children among 139 dead after boat capsizes off Djibouti, UN says
+Summary: The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.
+---
+Source: NPR World
+Headline: Pope Leo XIV to undergo lung surgery this week
+Summary: Pope Leo XIV said he would undergo surgery after doctors found a "localized nodule" in his lung.
+---
+Source: NPR World
+Headline: She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?
+Summary: Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines. Promises were made — financial help, training for a cycling career, even a movie deal. Were any of them kept?
+---
+Source: NPR World
+Headline: Passenger terminal at Riyadh airport is struck again, a day after 12 were killed
+Summary: A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal and killed 12 people, officials said.
+---
+Source: NPR World
+Headline: Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment
+Summary: A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.
+---
+Source: NPR World
+Headline: Trump weighs joining the fight against Houthis after Riyadh airport attack
+Summary: The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.
+---
+Source: NPR World
+Headline: Protests against voter roll revisions rock capital of world's largest democracy
+Summary: Parts of the capital city of India, the world's largest democracy, are on lockdown. Protests over sweeping revisions to the voter rolls were met with a massive police crackdown.
 ---
 Source: NPR World
 Headline: U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows
 Summary: Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S. policy, sparking anger from Ukraine and allies.
 ---
-Source: NPR World
-Headline: Photos: What a year of ceasefire in Gaza looks like
-Summary: It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.
+Source: NPR Politics
+Headline: Justice Department investigates TV networks, citing possible anti-trust violations
+Summary: The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.
 ---
-Source: NPR World
-Headline: India cracks down on youth protests as anger grows against Modi and election chief
-Summary: The protests focus on the Election Commission's voter list revision, which the opposition claims disenfranchises millions. The government denies the allegations, saying the revision aims to eliminate duplicate entries.
+Source: NPR Politics
+Headline: Politics chat: Trump announces fuel deal with Russia. What does it mean for sanctions?
+Summary: President Trump announced a deal to import Russian fuel to the U.S. We look at what this means for the sanctions he recently signed off on against Russia, as well as the U.S.'s support for Ukraine.
 ---
-Source: NPR World
-Headline: South African human rights lawyer Navi Pillay wins Nobel Peace Prize
-Summary: South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for her lifelong defense of human rights and international law.
+Source: NPR Politics
+Headline: Reshaped civil rights mission at Justice Department transforms its work, workforce
+Summary: Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division's enforcement powers to pursue the president's agenda.
 ---
-Source: NPR World
-Headline: Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
-Summary: Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.
+Source: NPR Politics
+Headline: In one of the country's most competitive districts, a Democrat tries to keep her seat
+Summary: In a highly competitive Washington congressional race, the incumbent Democrat has angered part of her party base and the Trump-backed Republican challenger faces backlash against the party in power.
 ---
-Source: NPR World
-Headline: Did Russia play by the rules in reporting lab worker's death?
-Summary: A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.
----
-Source: NPR World
-Headline: Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC
-Summary: Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.
+Source: NPR Politics
+Headline: Trump's economic strategy resemble similar policies in East Asia
+Summary: Much of the Trump administration's economic policy has been inspired by successful industrial policies successful in East Asia, including those of competitor, China. Will those policies work in the U.S.?
 ---
 Source: NPR Politics
 Headline: U.S. imposes sweeping sanctions on International Criminal Court
@@ -61,24 +81,4 @@ Summary: The U.S. has announced sanctions against the International Criminal Cou
 Source: NPR Politics
 Headline: Week in Politics: Hegseth's livestream backlash; Greece ambassador Guilfoyle scandal
 Summary: Bipartisan blowback on Defense Secretary Pete Hegseth's plans to livestream a military execution, plus a scandal involving Kimberly Guilfoyle, the US Ambassador to Greece.
----
-Source: NPR Politics
-Headline: On the ground in Ohio's 9th District: The battleground shaping next month's midterms
-Summary: Ohio is a critical battleground in next month's midterms elections. NPR's Scott Simon traveled to the state's 9th Congressional District to hear from voters about their priorities.
----
-Source: NPR Politics
-Headline: After losing ground with Latino voters, Democrats are turning to influencers for help
-Summary: Democrats are hoping to win back Latino voters who have soured on both parties. They hope Latino content creators will bridge the gap.
----
-Source: NPR Politics
-Headline: Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
-Summary: Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.
----
-Source: NPR Politics
-Headline: Trump's Affordable Suit
-Summary: NPR's Mary Louise Kelly speaks with New York Times fashion reporter Jacob Gallagher about President Trump's apparent choice to wear a suit from the budget menswear chain Jos. A. Bank.
----
-Source: NPR Politics
-Headline: U.S. working to reverse an Egyptian man's third-country deportation to Africa
-Summary: The Trump administration's effort to return Ahmed Soliman to the U.S. come after an Arizona judge said his deportation violated due process.
 ---
