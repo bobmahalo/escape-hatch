@@ -1,32 +1,32 @@
 [
   {
-    "headline": "US and Russia Announce Fuel Agreement",
-    "event": "The United States and Russia reached a bilateral agreement to trade diesel, easing sanctions and resuming fuel transfers.",
-    "context": "The decision follows recent U.S. sanctions imposed on Russian energy sectors related to the ongoing war in Ukraine.",
-    "scope": "The deal impacts global energy supply chains, commercial fuel consumers, and diplomatic relations with Western allies."
+    "headline": "Russian Strikes Target Ukrainian Energy",
+    "event": "Russian military forces struck six energy and gas facilities in Ukraine following public statements regarding an infrastructure ceasefire.",
+    "context": "The strikes occurred after US President Donald Trump publicly announced a negotiated pause on energy infrastructure targeting between Russia and Ukraine.",
+    "scope": "Thirty-three individuals sustained injuries and energy distribution networks across six Ukrainian locations suffered operational damage."
   },
   {
-    "headline": "Houthi Strikes Target Riyadh Airport Infrastructure",
-    "event": "Yemeni Houthi forces launched consecutive strikes against the international airport and energy facilities in Riyadh, resulting in 13 fatalities.",
-    "context": "The strikes occurred following a military offensive launched by a Saudi-led coalition against Houthi targets in Yemen.",
-    "scope": "The attacks affect Saudi aviation operations, national energy infrastructure, and regional civilian safety."
+    "headline": "Houthi Attacks Hit Saudi Airport",
+    "event": "Houthi forces launched attacks against Riyadh's international airport and an additional facility, resulting in 13 fatalities.",
+    "context": "The strikes mark a escalation in cross-border engagements between Yemen-based Houthi militants and Saudi Arabian targets.",
+    "scope": "Thirteen people were killed and civil aviation infrastructure in the Saudi capital was impacted."
   },
   {
-    "headline": "US Sanctions International Criminal Court Operations",
-    "event": "The United States government announced formal sanctions against the International Criminal Court.",
-    "context": "The action follows ongoing policy disagreements regarding the court's jurisdiction over non-member nations and their personnel.",
-    "scope": "The sanctions affect court personnel, active international war crimes investigations, and global legal institutions."
+    "headline": "India Purges 130 Million Voters",
+    "event": "Indian electoral authorities removed more than 130 million names from the national voter registry, prompting legal challenges from opposition parties.",
+    "context": "Opposition political factions contend that the official voter roll adjustments disproportionately favor the ruling political party ahead of national elections.",
+    "scope": "Over 130 million registered citizens in India were excised from eligible voter lists prior to upcoming proceedings."
   },
   {
-    "headline": "Indian Protests Prompt Capital Lockdown Operations",
-    "event": "Law enforcement forces initiated security crackdowns and localized lockdowns in New Delhi following demonstrations against voter roll revisions.",
-    "context": "Government authorities recently implemented nationwide updates to voter registration records, drawing opposition claims of disenfranchisement.",
-    "scope": "The security measures and administrative revisions directly affect residents of the capital region and registered voters across India."
+    "headline": "Federal Agents Search Lawmaker Residence",
+    "event": "US federal immigration agents executed a search at the home of Representative Ilhan Omar.",
+    "context": "The action follows sustained public policy disagreements between members of the US Congress and executive branch law enforcement leadership.",
+    "scope": "The search directly targeted a sitting member of the US House of Representatives."
   },
   {
-    "headline": "Migrant Vessel Capsizes Off Djibouti Coast",
-    "event": "A boat transporting 305 passengers capsized off the coast of Obock, Djibouti, resulting in at least 139 confirmed deaths.",
-    "context": "The maritime passage between Djibouti and Yemen is a primary transit route for regional migration toward the Arabian Peninsula.",
-    "scope": "The incident affects the surviving passengers, families of the victims, and regional emergency rescue operations."
+    "headline": "DOJ Launches Media Antitrust Probe",
+    "event": "The US Department of Justice initiated an antitrust investigation targeting multiple commercial television networks.",
+    "context": "Federal regulatory authorities maintain statutory oversight regarding trade practices, consolidation, and market competition within commercial broadcasting.",
+    "scope": "Major US television broadcast companies and their corporate market stakeholders are subject to federal scrutiny."
   }
 ]
