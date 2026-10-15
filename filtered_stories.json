@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Russian Strikes Target Ukrainian Energy",
-    "event": "Russian military forces struck six energy and gas facilities in Ukraine following public statements regarding an infrastructure ceasefire.",
-    "context": "The strikes occurred after US President Donald Trump publicly announced a negotiated pause on energy infrastructure targeting between Russia and Ukraine.",
-    "scope": "Thirty-three individuals sustained injuries and energy distribution networks across six Ukrainian locations suffered operational damage."
+    "headline": "Ukraine Resumes Russian Refinery Strikes",
+    "event": "Ukrainian armed forces resumed drone strikes on Russian energy infrastructure, hitting a refinery in the Ryazan region.",
+    "context": "The action follows the termination of a brief informal pause on targeting energy facilities after renewed Russian attacks.",
+    "scope": "Directly affects Russian energy infrastructure operators and military logistics networks relying on refined fuel."
   },
   {
-    "headline": "Houthi Attacks Hit Saudi Airport",
-    "event": "Houthi forces launched attacks against Riyadh's international airport and an additional facility, resulting in 13 fatalities.",
-    "context": "The strikes mark a escalation in cross-border engagements between Yemen-based Houthi militants and Saudi Arabian targets.",
-    "scope": "Thirteen people were killed and civil aviation infrastructure in the Saudi capital was impacted."
+    "headline": "Houthi Missile Targets Yemeni Palace",
+    "event": "A Houthi ballistic missile struck al-Maashiq Palace in Yemen, killing two people while leaving cabinet ministers unharmed.",
+    "context": "Houthi forces continue to launch targeted strikes against Yemeni government infrastructure during the ongoing regional conflict.",
+    "scope": "Directly impacts Yemeni government leadership, palace security personnel, and local security stability."
   },
   {
-    "headline": "India Purges 130 Million Voters",
-    "event": "Indian electoral authorities removed more than 130 million names from the national voter registry, prompting legal challenges from opposition parties.",
-    "context": "Opposition political factions contend that the official voter roll adjustments disproportionately favor the ruling political party ahead of national elections.",
-    "scope": "Over 130 million registered citizens in India were excised from eligible voter lists prior to upcoming proceedings."
+    "headline": "Maduro Pleads Not Guilty to Charges",
+    "event": "Nicol\u00e1s Maduro formally pleaded not guilty in a New York court to newly added federal torture-related charges.",
+    "context": "The plea responds to an expanded federal indictment brought against him by the United States Department of Justice.",
+    "scope": "Directly affects Maduro, U.S. federal prosecutors, and ongoing diplomatic relations involving Venezuela."
   },
   {
-    "headline": "Federal Agents Search Lawmaker Residence",
-    "event": "US federal immigration agents executed a search at the home of Representative Ilhan Omar.",
-    "context": "The action follows sustained public policy disagreements between members of the US Congress and executive branch law enforcement leadership.",
-    "scope": "The search directly targeted a sitting member of the US House of Representatives."
+    "headline": "Pakistan School Collapse Kills Dozens",
+    "event": "The roof of a private school collapsed in northwestern Pakistan, killing at least 29 students and one teacher.",
+    "context": "Infrastructure deficiencies and poor structural maintenance frequently contribute to severe building failures in the region.",
+    "scope": "Directly affects the victims' families and more than 50 injured survivors in northwestern Pakistan."
   },
   {
-    "headline": "DOJ Launches Media Antitrust Probe",
-    "event": "The US Department of Justice initiated an antitrust investigation targeting multiple commercial television networks.",
-    "context": "Federal regulatory authorities maintain statutory oversight regarding trade practices, consolidation, and market competition within commercial broadcasting.",
-    "scope": "Major US television broadcast companies and their corporate market stakeholders are subject to federal scrutiny."
+    "headline": "US Cancels Execution Broadcast Plan",
+    "event": "The United States government canceled a scheduled public livestream of the execution of military prisoner Nidal Hasan.",
+    "context": "Hasan was sentenced to death for the 2009 Fort Hood shooting, marking the first U.S. military execution scheduled in over six decades.",
+    "scope": "Directly affects U.S. Department of Corrections procedures and the primary stakeholders in the military judicial process."
   }
 ]
