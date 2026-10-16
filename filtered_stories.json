@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Ukrainian Drones Target Russian Refineries",
-    "event": "Ukrainian armed forces resumed drone strikes against Russian energy infrastructure, hitting an oil refinery in the Ryazan region.",
-    "context": "The operational shift follows the termination of a brief truce and occurs alongside reported performance disruptions to Ukraine's Starlink communications network.",
-    "scope": "The strikes directly impact Russian domestic fuel refining capacity and military operational logistics along the eastern front."
+    "headline": "Ukraine Strikes Russian Energy Facility",
+    "event": "Ukrainian forces conducted a strike on a major oil refinery located southeast of Moscow.",
+    "context": "The attack occurred in response to sustained Russian targeting of Ukrainian electrical and civil energy infrastructure.",
+    "scope": "Energy consumers and industrial operators in the Moscow region and linked supply lines are directly affected."
   },
   {
-    "headline": "Pope Francis Diagnosed With Cancer",
-    "event": "Pope Francis was diagnosed with lung cancer following surgery at Gemelli Hospital in Rome.",
-    "context": "The diagnosis follows a series of hospitalizations and recurring respiratory illnesses for the 87-year-old pontiff.",
-    "scope": "The health event impacts the central administration and leadership of 1.4 billion Roman Catholics worldwide."
+    "headline": "Ship Attacks Increase Near Hormuz",
+    "event": "Twelve commercial vessels were struck within a seven-day period near the Strait of Hormuz.",
+    "context": "The incidents follow escalating regional tensions affecting critical international maritime trade corridors.",
+    "scope": "Global shipping firms, merchant crews, and international petroleum markets are directly impacted."
   },
   {
-    "headline": "Israeli Settlers Attack West Bank Farmers",
-    "event": "Masked Israeli settlers injured several Palestinian farmers and a United States photojournalist during an olive harvest in the West Bank.",
-    "context": "Incidents of targeted physical violence involving settlers and Palestinian agricultural workers frequently escalate during the autumn harvesting season.",
-    "scope": "The incident directly affected local agricultural personnel and foreign press representatives present in the territory."
+    "headline": "Pope Diagnosed With Lung Cancer",
+    "event": "The head of the Roman Catholic Church was diagnosed with lung cancer following surgery in Rome.",
+    "context": "The medical finding follows a series of hospitalizations and ongoing health complications for the pontiff.",
+    "scope": "An estimated 1.4 billion Roman Catholics worldwide and the administrative leadership of the Vatican are affected."
   },
   {
-    "headline": "Mass Detentions Amid Indian Protests",
-    "event": "Indian law enforcement detained political organizers in New Delhi ahead of planned demonstrations regarding official voter registry updates.",
-    "context": "Opposition leaders allege the Election Commission's review process is politically motivated to disenfranchise voters, a claim the central administration denies.",
-    "scope": "The enforcement actions directly affect civil assembly rights in the capital and the registration status of voters nationwide."
+    "headline": "Mass Detentions Before Delhi Protests",
+    "event": "Indian law enforcement detained movement leaders in New Delhi prior to planned demonstrations over voter roll reviews.",
+    "context": "Critics state that government audits of electoral lists intend to disenfranchise voters, an allegation official authorities deny.",
+    "scope": "Demonstrators, political organizations, and electorate populations in India are directly affected."
   },
   {
-    "headline": "Four Killed In Oregon School Shooting",
-    "event": "A teenage gunman opened fire at an elementary school in Oregon, killing three children and one teacher.",
-    "context": "The incident occurs amid continuing federal and state policy debates regarding firearm regulation and campus safety protocols in the United States.",
-    "scope": "The attack directly caused four fatalities and affects the immediate local municipality and school district."
+    "headline": "Settlers Attack West Bank Harvesters",
+    "event": "Masked Israeli settlers injured several Palestinians and an American journalist during an olive harvest in the West Bank.",
+    "context": "Incidents of violence and land disputes in the territory have increased following the escalation of regional conflict.",
+    "scope": "Agricultural workers, civil residents, and media personnel in the occupied West Bank are directly impacted."
   }
 ]
