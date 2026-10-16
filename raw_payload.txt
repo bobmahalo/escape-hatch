@@ -1,30 +1,50 @@
 Source: BBC World
-Headline: Trump calls off livestream of Fort Hood attacker's execution by firing squad
-Summary: Trump said some would "rather not watch" the killing of Nidal Hasan, the first military execution in over 60 years.
+Headline: Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role
+Summary: The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.
 ---
 Source: BBC World
-Headline: Houthi missile attack on Yemeni presidential palace kills two, minister says
-Summary: Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.
+Headline: Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
+Summary: The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.
 ---
 Source: BBC World
-Headline: Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
-Summary: Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.
+Headline: Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'
+Summary: EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is "more difficult to work with than Putin".
 ---
 Source: BBC World
-Headline: At least 33 pupils and teacher killed after school roof collapses in Pakistan
-Summary: Children were buried under the debris after the roof crashed through three classrooms, police say.
+Headline: Pope pictured for first time since surgery and cancer diagnosis
+Summary: The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.
 ---
 Source: BBC World
-Headline: Maduro pleads not guilty to new torture-related charges in New York
-Summary: "I reject this document entirely," Maduro said in court, responding to newly added torture-related charges.
+Headline: India's 'cockroach' party founder detained ahead of protest
+Summary: The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.
 ---
 Source: BBC World
-Headline: Was Neanderthal life violent? This wound suggests lethal fighting was more common
-Summary: A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.
+Headline: US senators call for investigation into Ukraine's Starlink restrictions
+Summary: Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.
 ---
 Source: BBC World
-Headline: Seven crew missing after drone attack leaves tanker ablaze off Romania's coast
-Summary: A search and rescue operation is under way in the Black Sea after the latest attack in the area.
+Headline: Dad fined after son, 2, died in Cyprus hotel fall
+Summary: Joshua Foster "lost control" of his son while showing him the view of a water park from a window.
+---
+Source: NPR World
+Headline: Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks
+Summary: Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for The Washington Post.
+---
+Source: NPR World
+Headline: Crowds throng New Delhi and wave Indian flags amid escalating protests
+Summary: Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations.
+---
+Source: NPR World
+Headline: Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support
+Summary: The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.
+---
+Source: NPR World
+Headline: Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S.
+Summary: Russian authorities say Ukraine struck a major oil refinery southeast of Moscow Thursday. The strike was in response to Russia's attacks on Ukrainian energy infrastructure.
+---
+Source: NPR World
+Headline: How Putin may react to the rift between the U.S. and Ukraine
+Summary: Journalist and Russia analyst Julia Ioffe lays out how Vladimir Putin might be trying to exploit the current divide between the U.S. and Ukraine over striking Russian oil refineries.
 ---
 Source: NPR World
 Headline: Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric
@@ -34,51 +54,31 @@ Source: NPR World
 Headline: Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce
 Summary: Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.
 ---
-Source: NPR World
-Headline: Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training
-Summary: One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city.
----
-Source: NPR World
-Headline: Ukraine says its Starshield access is back
-Summary: Ukraine says its access to SpaceX's Starshield has been restored. It's the system the country uses for its offensive drone attacks on Russia.
----
-Source: NPR World
-Headline: Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted
-Summary: NPR's Michel Martin speaks with Democratic Rep. Mike Quigley of Illinois about reports that SpaceX temporarily restricted access to its Starshield in Ukraine, affecting the country's war efforts.
----
-Source: NPR World
-Headline: School roof collapse kills at least 29, injures more than 3 dozen in Pakistan
-Summary: The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people.
----
-Source: NPR World
-Headline: Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'
-Summary: As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.
+Source: NPR Politics
+Headline: Katie Zacharia is 'transitioning out' as press secretary, White House says
+Summary: Katie Zacharia's first official day was on Monday.
 ---
 Source: NPR Politics
-Headline: U.S. historic preservation law faces the most serious threat in its 60-year history
-Summary: Congress and a federal agency are threatening to weaken the country's historic preservation law, fueling a backlash that critics say is as fiery as the one that led to the law's creation 60 years ago.
+Headline: Amid talk of public execution, public opinion on death penalty is split
+Summary: A majority of Americans support the death penalty for people convicted of murder, but support becomes more divided when questions vary.
 ---
 Source: NPR Politics
-Headline: Inside the race between Elon Musk and Jeff Bezos for control of outer space
-Summary: The Atlantic writer Josh Tyrangiel says Musk and Bezos each want to colonize the moon, mine its resources and launch thousands more satellites. He says their only real competition is each other.
+Headline: Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support
+Summary: The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.
 ---
 Source: NPR Politics
-Headline: After booting 760K off ACA health plans, the Trump administration adds some people back
-Summary: The Trump administration provided few details about its process for canceling hundreds of thousands of Affordable Care Act enrollments — even as the next stage of the anti-fraud effort is underway.
+Headline: Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens
+Summary: A teen opened fire at an Oregon elementary school, leaving three kids and one teacher dead. And, the Justice Department is suing California over alleged noncitizen voters.
 ---
 Source: NPR Politics
-Headline: These swing voters regret voting for Trump and it's influencing their midterm choices
-Summary: Some key voters in Georgia say deep frustration and disappointment with President Trump are motivating their election plans just weeks before Election Day.
+Headline: Do Americans own the president's papers? Appeals court to weigh in
+Summary: The administration says papers created in the White House belong to Donald Trump, not to the American people. The case could ultimately end up at the conservative-leaning Supreme Court.
 ---
 Source: NPR Politics
-Headline: Trump cancels public execution, but a line may already have been crossed
-Summary: Defense Secretary Hegseth's announcement of a livestreamed execution elicited reactions of disgust and condemnation from some faith leaders and politicians. But within his church, it's not an outlier.
+Headline: 'Everything got worse': Gen Z express frustration, regret after Trump vote
+Summary: A focus group of eight Gen Z Trump voters reported feeling unhappy or disappointed with the state of politics, with some going as far as to say they regret supporting him in 2024.
 ---
 Source: NPR Politics
-Headline: Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct
-Summary: The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle's resignation on Tuesday as she faced mounting accusations of improper conduct.
----
-Source: NPR Politics
-Headline: U.S. Ambassador to Greece Kimberly Guilfoyle resigns following misconduct allegations
-Summary: President Trump has forced out his ambassador to Greece, Kimberly Guilfoyle. She faced allegations of misconduct before and during her tenure at the U.S. Embassy in Athens, which she has denied.
+Headline: Suspicious mailings to election officials, congressional offices under investigation
+Summary: The FBI and U.S. Postal Inspection Service are looking into the mailings, some of which included an unidentified powdery white substance.
 ---
