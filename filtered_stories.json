@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Maritime Shipping Attacks Near Hormuz",
-    "event": "Twelve commercial vessels were struck near the Strait of Hormuz during a single week, establishing a record for regional maritime incidents.",
-    "context": "Escalating regional conflict has targeted commercial shipping lanes along key global energy transit choke points.",
-    "scope": "International maritime transport firms, global oil supply networks, and commercial merchant crews are directly affected."
+    "headline": "US Suspends Congressional Russia Sanctions",
+    "event": "The US administration temporarily waived several congressional sanctions on Russia, citing national security interests.",
+    "context": "Congress previously instituted the economic restrictions in response to ongoing Russian military actions in Ukraine.",
+    "scope": "The policy adjustment impacts diplomatic relations between the US, Russia, and Ukraine, as well as global sanctions enforcement."
   },
   {
-    "headline": "Roman Catholic Pontiff Diagnosed With Cancer",
-    "event": "Pope Francis was diagnosed with lung cancer following a surgical procedure at Gemelli Hospital in Rome.",
-    "context": "The 87-year-old pontiff has experienced recurring health complications and multiple hospitalizations over recent years.",
-    "scope": "The global population of 1.4 billion Roman Catholics and the governance structure of the Holy See are impacted."
+    "headline": "Brazil Reports Record Amazon Deforestation Drop",
+    "event": "Deforestation rates in the Brazilian Amazon rainforest reached a record low ahead of the upcoming national election.",
+    "context": "Land clearance had previously expanded under former president Jair Bolsonaro's administration due to weakened environmental enforcement.",
+    "scope": "The environmental shift directly affects the global climate ecosystem and populations residing within the Amazon region."
   },
   {
-    "headline": "Ukrainian Military Strikes Russian Refinery",
-    "event": "Ukrainian forces executed a long-range strike on an oil refinery located southeast of Moscow.",
-    "context": "The action was conducted in response to systematic Russian targeted strikes against Ukrainian energy grid infrastructure.",
-    "scope": "Petroleum production facilities in western Russia and regional fuel distribution networks are directly affected."
+    "headline": "Widespread Protests Disrupt French Cities",
+    "event": "Demonstrators and student groups staged coordinated rallies across France to protest rising living costs and national fiscal policy.",
+    "context": "France is experiencing a deepening government fiscal deficit alongside sustained inflation across key consumer sectors.",
+    "scope": "The demonstrations affect urban transportation, public services, and the broader French electorate."
   },
   {
-    "headline": "Mass Detentions Precede New Delhi Protests",
-    "event": "Indian authorities preemptively detained political movement leaders in New Delhi prior to planned public demonstrations.",
-    "context": "Protests intensified following a government review of voter registration lists that opposition groups allege disenfranchises select demographics.",
-    "scope": "Political organizers and prospective voters across the national capital territory of India are affected."
+    "headline": "Mass Protests Erupt In New Delhi",
+    "event": "Demonstrators gathered in New Delhi to oppose administrative revisions made to official voter registration lists.",
+    "context": "Critics allege the electoral audit is politically motivated to disenfranchise select demographics, an assertion denied by the administration.",
+    "scope": "The disputed voter list review directly impacts millions of eligible voters across the affected Indian constituencies."
   },
   {
-    "headline": "West Bank Settler Assaults Reported",
-    "event": "Masked Israeli settlers attacked Palestinian olive harvesters and a foreign journalist in the West Bank.",
-    "context": "Tensions and physical confrontations surrounding agricultural access in the occupied territories have historically surged during harvest seasons.",
-    "scope": "Agricultural workers, rural Palestinian residents, and international press operating in the West Bank face direct security impacts."
+    "headline": "Pope Discharged Following Cancer Surgery",
+    "event": "Pope Leo XIV left Gemelli Hospital in Rome following a surgical procedure that removed part of his right lung.",
+    "context": "The surgical recovery precedes planned international religious visits scheduled for later in the calendar year.",
+    "scope": "The pontiff's health affects administrative leadership and guidance for approximately 1.3 billion Roman Catholics globally."
   }
 ]
