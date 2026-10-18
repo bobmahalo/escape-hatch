@@ -1,34 +1,50 @@
 Source: BBC World
+Headline: Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
+Summary: About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.
+---
+Source: BBC World
+Headline: Oil facilities hit in deadly overnight attack on St Petersburg
+Summary: At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.
+---
+Source: BBC World
+Headline: A wave of homemade, synthetic drugs sweeps US and deepens crisis
+Summary: BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.
+---
+Source: BBC World
+Headline: European diplomats attacked by Israeli settlers in West Bank
+Summary: The Israeli military condemns the violence but the prime minister's office says it is part of a "smear" campaign.
+---
+Source: BBC World
 Headline: Trump waives several Russia sanctions as row with Zelensky intensifies
 Summary: The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.
 ---
 Source: BBC World
-Headline: Teacher fought US school attacker before armed dad shot suspect 'multiple times'
-Summary: The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.
+Headline: Anti-government protesters battle with police in Albania
+Summary: There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.
 ---
 Source: BBC World
-Headline: Three men jailed for 158 years each for murdering Australian and US surfers in Mexico
-Summary: Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.
----
-Source: BBC World
-Headline: Brazil sees record fall in Amazon deforestation as key election looms
-Summary: The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.
----
-Source: BBC World
-Headline: Nursery owner in China jailed for life after hundreds of children poisoned
-Summary: She and five staff members were found to have used the inedible paint in meals to make them look more appealing.
----
-Source: BBC World
-Headline: Rare pink diamond goes on display in France 100 years after amateur heist
-Summary: The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.
----
-Source: BBC World
-Headline: Pope discharged from hospital days after lung cancer surgery
-Summary: The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.
+Headline: Search for Amelia Earhart's plane resumes after stormy weather
+Summary: An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.
 ---
 Source: NPR World
-Headline: Scuffles and fires break out as protesters rally across France, joining students
-Summary: Demonstrators across France converged with students Saturday to protest rising living costs, as the country's fiscal crisis deepens.
+Headline: Pope Leo says he will gradually resume duties after cancer surgery
+Summary: Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.
+---
+Source: NPR World
+Headline: Carney says 4 service members killed and dozens injured in fire at Alberta military base
+Summary: Canadian Prime Minister Mark Carney described the incident as one of the worst peacetime tragedies for Canada's military on domestic soil.
+---
+Source: NPR World
+Headline: Student protests widen into greater social unrest in France
+Summary: Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.
+---
+Source: NPR World
+Headline: The state of the State Department in the wake of the Kimberly Guilfoyle scandal
+Summary: NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal.
+---
+Source: NPR World
+Headline: French police arrest 1,800 after violent clashes and looting mar protests
+Summary: Police arrested at least 1,800 people across France after violent groups clashed with officers and looted shops during nationwide demonstrations that drew hundreds of thousands of people.
 ---
 Source: NPR World
 Headline: Pope Leo XIV leaves hospital days after lung cancer surgery
@@ -38,21 +54,25 @@ Source: NPR World
 Headline: Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold
 Summary: Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.
 ---
-Source: NPR World
-Headline: Decades after apartheid, South Africans seek justice for crimes of the past
-Summary: More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's pastare still fighting for justice. As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late.
+Source: NPR Politics
+Headline: Greensboro, NC students protest the absence of early voting sites on campus
+Summary: NPR's Ayesha Rascoe talks to North Carolina A&amp;T student Shia Rozier about disappointment with early voting sites in Greensboro.
 ---
-Source: NPR World
-Headline: Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital
-Summary: Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own — and on the street.
+Source: NPR Politics
+Headline: What role does the White House Press Secretary play in the Trump era?
+Summary: NPR's Ayesha Rascoe asks Adm. John Kirby, who had spokesperson roles in the Obama and Biden administrations, about the utility of the role of the White House Press Secretary.
 ---
-Source: NPR World
-Headline: Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks
-Summary: Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for The Washington Post.
+Source: NPR Politics
+Headline: Politics chat: Zelenskyy on Trump, Democrats bring in the money for midterms
+Summary: From Russia to AI to Iran, President Trump has taken political stances that put him at odds with much of the electorate.
 ---
-Source: NPR World
-Headline: Crowds throng New Delhi and wave Indian flags amid escalating protests
-Summary: Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations.
+Source: NPR Politics
+Headline: Trump defers federal diesel taxes to help farmers, but states issue warnings
+Summary: President Trump's executive order deferring federal taxes on diesel is aimed at helping farmers but it's more complicated than it sounds and states are warning drivers they may owe taxes later.
+---
+Source: NPR Politics
+Headline: With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters
+Summary: Rep. María Elvira Salazar filmed an ad warning the president that he's "gone too far" on immigration. It reflected concern among some Republicans that their gains with Latino voters could be at risk.
 ---
 Source: NPR Politics
 Headline: Fraud, affordability and Trump policies drive friction in Minnesota Senate debate
@@ -61,24 +81,4 @@ Summary: The major party candidates for Minnesota's U.S. Senate seat faced off i
 Source: NPR Politics
 Headline: Week in Politics: Trump's Russian diesel deal update; why the DOJ is suing California
 Summary: We look at where things are in the deal President Trump says he made to import Russian diesel, plus the reason why the Justice Department is suing California.
----
-Source: NPR Politics
-Headline: Trump promised a swing district blitz. He's going to a lot of very red states
-Summary: President Trump's midterm travel blitz ahead of Election Day includes several red states he won easily 2 years ago, showing the electoral landscape is more challenging for Republicans.
----
-Source: NPR Politics
-Headline: Katie Zacharia is out as press secretary, White House says
-Summary: Katie Zacharia is "transitioning out" of her role as press secretary, according to a White House official not authorized to speak on the record, marking a stunning turn of events for the spokeswoman.
----
-Source: NPR Politics
-Headline: Katie Zacharia is 'transitioning out' as press secretary, White House says
-Summary: Katie Zacharia's first official day was on Monday.
----
-Source: NPR Politics
-Headline: Amid talk of public execution, public opinion on death penalty is split
-Summary: A majority of Americans support the death penalty for people convicted of murder, but support becomes more divided when questions vary.
----
-Source: NPR Politics
-Headline: Sally Rooney's books will no longer be sold in U.K. after support for pro-Palestinian group
-Summary: The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.
 ---

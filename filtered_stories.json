@@ -1,32 +1,32 @@
 [
   {
-    "headline": "US Pauses Russian National Sanctions",
-    "event": "The United States executive branch temporarily suspended multiple Congressionally mandated sanctions against Russia, citing national security interests.",
-    "context": "The action follows ongoing military conflict in Ukraine and heightened political friction between Washington and Ukrainian leadership regarding military support.",
-    "scope": "The decision impacts international trade sanctions compliance, diplomatic protocols, and populations affected by the Eastern European conflict."
+    "headline": "US Temporarily Waives Russia Sanctions",
+    "event": "United States President Donald Trump issued a temporary waiver on several congressional sanctions against Russia, citing national security interests.",
+    "context": "The decision follows intensified disagreements between the United States administration and Ukrainian President Volodymyr Zelenskyy regarding wartime policy.",
+    "scope": "The policy shift affects diplomatic relations and economic sanctions enforcement between the United States, Russia, and Ukraine."
+  },
+  {
+    "headline": "French Police Arrest 1,800 Protesters",
+    "event": "French law enforcement arrested approximately 1,800 individuals across the country following violent clashes and looting during nationwide demonstrations.",
+    "context": "The demonstrations originated as student protests before expanding into broader social unrest across major French cities.",
+    "scope": "The civil disruption affects urban residents, commercial businesses, and municipal security forces throughout France."
+  },
+  {
+    "headline": "Overnight Strike Hits St. Petersburg Facilities",
+    "event": "An overnight attack on St. Petersburg targeted oil facilities and a commercial data center, resulting in at least one fatality.",
+    "context": "The strike represents a continuation of targeted infrastructure attacks within Russian territory amidst ongoing regional conflict.",
+    "scope": "The incident impacts regional energy infrastructure, commercial data services, and local civilian safety in St. Petersburg."
   },
   {
     "headline": "Pope Discharged Following Cancer Surgery",
-    "event": "Pope Leo XIV was discharged from a hospital in Rome following a surgical procedure that removed the lower lobe of his right lung.",
-    "context": "The operation occurred ahead of scheduled international papal travel commitments, including a planned trip to Latin America in November.",
-    "scope": "The pontiff's health directly impacts the administrative leadership of the Vatican and the global population of 1.4 billion Roman Catholics."
+    "event": "Pope Leo XIV left Rome's Gemelli Hospital following surgery to remove the lower lobe of his right lung due to cancer.",
+    "context": "The medical procedure required a temporary hospitalization prior to a scheduled international papal visit to Latin America in November.",
+    "scope": "The head of the Catholic Church and the administration of the Holy See are directly affected during his gradual recovery."
   },
   {
-    "headline": "Protests Escalate Across France",
-    "event": "Demonstrators and student groups staged nationwide rallies in France to protest the rising cost of living.",
-    "context": "The public mobilization coincides with a deepening national fiscal crisis and government efforts to address sovereign debt burdens.",
-    "scope": "The economic conditions and resulting civil disruptions directly affect residents, students, and commercial enterprises throughout France."
-  },
-  {
-    "headline": "Brazil Amazon Deforestation Rates Decline",
-    "event": "Government data confirmed a record reduction in deforestation levels within the Brazilian Amazon rainforest.",
-    "context": "The decline follows a period of expanded land clearing under previous administrative policies that prioritized agricultural development over conservation.",
-    "scope": "The change affects global climate regulation mechanisms and indigenous populations residing within the Amazon basin."
-  },
-  {
-    "headline": "Protests Worsen Over Indian Electoral Lists",
-    "event": "Mass demonstrations occurred in New Delhi opposing an ongoing administrative review of official voter registration rolls.",
-    "context": "Critics allege the verification process is politically motivated to alter voter eligibility, while the Election Commission maintains the review is standard administrative procedure.",
-    "scope": "The voter list audit directly affects the voting eligibility of citizens across India's electorate."
+    "headline": "European Diplomats Attacked in West Bank",
+    "event": "Israeli settlers attacked a delegation of European diplomats present in the West Bank.",
+    "context": "The incident occurred amid ongoing territorial disputes and escalating violence involving civilian settlements in the region.",
+    "scope": "The attack directly affects the involved diplomatic personnel and impacts international relations between European governments and Israel."
   }
 ]
