@@ -27,6 +27,10 @@ Headline: Search for Amelia Earhart's plane resumes after stormy weather
 Summary: An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.
 ---
 Source: NPR World
+Headline: Ukraine and the U.S. are at odds over Starshield. Here's what to know
+Summary: Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military.
+---
+Source: NPR World
 Headline: Pope Leo says he will gradually resume duties after cancer surgery
 Summary: Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.
 ---
@@ -49,10 +53,6 @@ Summary: Police arrested at least 1,800 people across France after violent group
 Source: NPR World
 Headline: Pope Leo XIV leaves hospital days after lung cancer surgery
 Summary: The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November.
----
-Source: NPR World
-Headline: Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold
-Summary: Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.
 ---
 Source: NPR Politics
 Headline: Greensboro, NC students protest the absence of early voting sites on campus
