@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Kenyan Cult Leader Convicted of Murder",
-    "event": "A Kenyan court found cult leader Paul Mackenzie guilty of 191 counts of murder, primarily involving children.",
-    "context": "The convictions follow the 2023 discovery of mass graves in the Shakahola forest linked to a doomsday religious group.",
-    "scope": "Directly affects the families of the 191 victims and religious oversight policies within Kenya."
+    "headline": "Kenyan cult leader convicted of murder",
+    "event": "A Kenyan court found cult leader Paul Mackenzie guilty of 191 counts of murder.",
+    "context": "Mackenzie instructed followers to starve themselves and their children to achieve religious salvation.",
+    "scope": "The verdict directly concerns the families of the 191 victims and establishes legal precedent in Kenya."
   },
   {
-    "headline": "Houthi Missile Attack Kills Fifty Recruits",
-    "event": "A Houthi missile strike targeted a military training center in Yemen's Shabwa province, killing 50 security recruits.",
-    "context": "The attack occurs amid the sustained conflict between Houthi forces and the internationally recognized Yemeni government.",
-    "scope": "Directly affects the families of the 50 recruits and government security forces in southern Yemen."
+    "headline": "Houthi strike kills 50 in Yemen",
+    "event": "A Houthi missile strike on a military training camp in Yemen's Shabwa province killed 50 security recruits.",
+    "context": "The strike targets forces aligned with the internationally recognized Yemeni government amid the ongoing civil conflict.",
+    "scope": "The attack directly caused 50 fatalities and affects regional military recruitment operations."
   },
   {
-    "headline": "US Waives Economic Sanctions on Russia",
-    "event": "The United States executive branch issued an order exempting Russia from targeted economic sanctions.",
-    "context": "The measure comes during shifts in bilateral communications and intelligence sharing policy regarding the ongoing conflict in Ukraine.",
-    "scope": "Statistically impacts international trade networks, Russian financial institutions, and diplomatic allies."
+    "headline": "Alberta votes on independence referendum proposal",
+    "event": "Voters in Alberta participated in a vote to determine whether to proceed with a future referendum on separating from Canada.",
+    "context": "The western province has experienced prolonged political disputes with the federal government regarding energy regulation and resource revenues.",
+    "scope": "The outcome affects the 4.8 million residents of Alberta and the territorial integrity of Canada."
   },
   {
-    "headline": "Alberta Votes on Canadian Separation Proposal",
-    "event": "Voters in Alberta cast ballots to decide whether to advance a future referendum on separating from Canada.",
-    "context": "Disagreements regarding federal energy regulations and provincial jurisdiction have sustained sovereignty movements in western Canada.",
-    "scope": "Directly affects the 4.7 million residents of Alberta and the federal structure of Canada."
+    "headline": "Macron condemns nationwide protests in France",
+    "event": "French President Emmanuel Macron issued a public statement condemning violent demonstrations occurring across France.",
+    "context": "France has seen recurring civil unrest linked to political opposition over domestic policy reforms and economic conditions.",
+    "scope": "The protests impact urban infrastructure, public safety, and residents across multiple French metropolitan areas."
   },
   {
-    "headline": "French President Condemns Violent Protests",
-    "event": "French President Emmanuel Macron publicly condemned violent demonstrations taking place in multiple cities across France.",
-    "context": "The nationwide disruptions follow ongoing political disputes regarding domestic economic policies and governance.",
-    "scope": "Statistically impacts urban populations across France and national security personnel."
+    "headline": "Australian lawmaker injured in targeted attack",
+    "event": "An Australian independent federal lawmaker was critically injured after being hit by a motor vehicle in an intentional attack.",
+    "context": "Law enforcement arrested the driver following statements from the prime minister classifying the collision as deliberate.",
+    "scope": "The event directly affects the injured representative, her parliamentary constituency, and federal security protocols."
   }
 ]
