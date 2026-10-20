@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Sudanese Military Drones Kill 300",
-    "event": "Sudanese military drone strikes targeted a funeral procession and a fuel market, resulting in more than 300 deaths.",
-    "context": "The attack occurred amid the ongoing civil war between the Sudanese Armed Forces and the paramilitary Rapid Support Forces.",
-    "scope": "Civilians and local merchants in the targeted Sudanese localities are directly affected by the casualties."
+    "headline": "Sudanese Drone Strikes Kill 300",
+    "event": "Sudanese military drone strikes targeted a funeral procession and a fuel market, resulting in over 300 deaths.",
+    "context": "The attacks occurred amidst ongoing armed conflict between the Sudanese Armed Forces and the Rapid Support Forces.",
+    "scope": "The local population in targeted regions of Sudan and regional humanitarian networks are directly affected."
   },
   {
-    "headline": "Alberta Votes to Remain Canadian",
-    "event": "Voters in Alberta overwhelmingly rejected a referendum proposal to take steps toward separating from Canada.",
-    "context": "The vote follows sustained political friction over energy policy and federal jurisdiction between the province and Ottawa.",
-    "scope": "The 4.8 million residents of Alberta and the governance structure of the Canadian federation are directly affected."
+    "headline": "Alberta Rejects Independence From Canada",
+    "event": "Voters in Alberta overwhelmingly rejected a referendum measure to initiate separation from Canada.",
+    "context": "The referendum follows years of political disagreement between the provincial government and federal authorities over energy policy.",
+    "scope": "The population of Alberta and the governance structure of Canada are directly affected."
   },
   {
-    "headline": "Civil Unrest Escalates Across France",
-    "event": "Demonstrations across several French cities, including Marseille, resulted in property destruction and police clashes.",
-    "context": "The violence prompted formal condemnation from French President Emmanuel Macron as public demonstrations expanded nationwide.",
-    "scope": "Urban residents and municipal authorities in affected French cities are directly impacted by the disruption."
+    "headline": "Widespread Protests Prompt French Disorder",
+    "event": "Protests across multiple French municipalities resulted in civil disorder and clashes with police.",
+    "context": "The unrest follows public dissatisfaction with national economic policy, drawing condemnation from the presidency.",
+    "scope": "Urban residents, business owners, and municipal services across France are directly affected."
   },
   {
-    "headline": "Australian Lawmaker Injured in Vehicle Attack",
-    "event": "Australian independent lawmaker Helen Haines was critically injured after being struck by a motor vehicle in a deliberate act.",
-    "context": "Police arrested a suspect known to the victim's family and filed formal criminal charges.",
-    "scope": "The parliamentary constituency of Helen Haines and Australian federal legislative security protocols are directly affected."
+    "headline": "Australian Lawmaker Critically Injured In Attack",
+    "event": "Australian Member of Parliament Helen Haines was critically injured in a deliberate vehicle collision, leading to an arrest.",
+    "context": "Incidents of targeted physical violence against federal politicians in Australia are statistically uncommon.",
+    "scope": "Members of the Australian Parliament and the electorate of Indi are directly affected."
   },
   {
-    "headline": "US Charges 28 With Election Crimes",
-    "event": "The United States Department of Justice charged 28 individuals in California with federal voting offenses ahead of the midterm elections.",
-    "context": "The indictments accompany an emergency federal court request to pause the processing of specific voter registration rolls.",
-    "scope": "The 28 indicted defendants and state election administrators in California are directly affected by the legal action."
+    "headline": "US Charges 28 With Election Offenses",
+    "event": "The United States Department of Justice charged 28 individuals in California with voting crimes.",
+    "context": "The charges coincide with federal court motions concerning state voter roll administration ahead of midterm elections.",
+    "scope": "Voters and election authorities in the state of California are directly affected."
   }
 ]
