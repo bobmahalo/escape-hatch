@@ -1,30 +1,50 @@
 Source: BBC World
-Headline: Australian MP critically injured after being hit by car in apparent attack
-Summary: The independent politician is in hospital after what the prime minister says may have been a deliberate attack.
+Headline: Marseille braces for more unrest after protests give way to 'apocalyptic' disorder
+Summary: France's second city saw some of the worst violence as chaos gripped the country on Saturday.
 ---
 Source: BBC World
-Headline: Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
-Summary: Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.
+Headline: Man charged with attack on Australian MP as suspect's father says she is family friend
+Summary: Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.
 ---
 Source: BBC World
-Headline: Kenya cult leader who told parents to starve children guilty of 191 murders
-Summary: Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.
+Headline: Sudan army drones hit mourners and fuel market killing more than 300 people, sources say
+Summary: A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.
 ---
 Source: BBC World
-Headline: Ex-OpenAI worker accused of planting device had Saudi support, says court filing
-Summary: The Saudi government did not immediately respond to BBC requests for comment.
+Headline: 'Great result for Canada', says Carney as Alberta votes to reject separatism
+Summary: The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.
 ---
 Source: BBC World
-Headline: Alberta heads to polls to decide whether to hold vote on separation from Canada
-Summary: Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.
+Headline: North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?
+Summary: North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.
 ---
 Source: BBC World
-Headline: Exiled critic of Rwandan president found beheaded
-Summary: Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.
+Headline: Why Israeli Gen Z voters are drawn to the far right
+Summary: More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.
 ---
 Source: BBC World
-Headline: Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say
-Summary: Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.
+Headline: Swimmer, 65, killed in shark attack off South Africa's east coast
+Summary: Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.
+---
+Source: NPR World
+Headline: DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns
+Summary: The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.
+---
+Source: NPR World
+Headline: Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine
+Summary: President Trump's up and down relationship with Russia is back on as he presses to find an end to the war in Ukraine amid high energy costs ahead of the U.S. midterms.
+---
+Source: NPR World
+Headline: Former U.S. ambassador on Trump's recent moves to embrace Russia
+Summary: NPR's Steve Inskeep speaks with former U.S. Ambassador to Russia Michael McFaul about President Trump's latest embrace of Russia and what it means for Ukraine and any hopes of peace.
+---
+Source: NPR World
+Headline: Alberta voters reject a move toward independence in referendum backing Canadian unity
+Summary: Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push for national unity.
+---
+Source: NPR World
+Headline: Alberta voters decide whether to take a step toward separating from Canada
+Summary: In Canada, the oil-rich province of Alberta votes in a referendum that could set it on a path toward separation, as Prime Minister Mark Carney warns of threats to Canadian unity.
 ---
 Source: NPR World
 Headline: Australian prime minister says lawmaker critically injured by car is 'no accident'
@@ -34,25 +54,25 @@ Source: NPR World
 Headline: 2026 midterms could be the most expensive on record. And, Macron condemns protests
 Summary: More than $15 billion has been raised in this year's midterm elections. And, France's president is condemning the violent protests erupting across the country.
 ---
-Source: NPR World
-Headline: Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour
-Summary: Ukraine carried out a massive drone strikes on Russia, which launched deadly attacks on its smaller neighbor over the weekend.
+Source: NPR Politics
+Headline: DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns
+Summary: The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.
 ---
-Source: NPR World
-Headline: Solar power is changing agriculture in Pakistan, but some fear it could cause issues
-Summary: Solar power is transforming agriculture in Pakistan. But in a country already facing water scarcity and extreme weather, some fear their widespread use could cause problems.
+Source: NPR Politics
+Headline: A new poll shows what voters are thinking 2 weeks out from Election Day
+Summary: Midterm election day is just over two weeks away. What are some numbers on the mind of voters?
 ---
-Source: NPR World
-Headline: Alberta voters weigh future in Canada
-Summary: On Monday voters in the oil-rich Canadian province of Alberta are deciding whether to take the first step toward a future referendum on independence.
+Source: NPR Politics
+Headline: DOJ charges 28 in California with voting crimes as election tensions escalate
+Summary: The DOJ also filed an emergency request in federal court to stop California from processing ballots returned by people on the voter rolls the federal government says are "likely noncitizens."
 ---
-Source: NPR World
-Headline: Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
-Summary: Trump said in a post on social media that Netanyahu "has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran."
+Source: NPR Politics
+Headline: Judge chastises Trump administration plan to push ahead overhaul of DC golf course
+Summary: The Trump administration wants to turn a historic public golf course into championship links. Despite a judge's order, hundreds of trees were cut down to make way for the renovation.
 ---
-Source: NPR World
-Headline: Political rivals implicated under Pakistan's anti-terror law
-Summary: Pakistan's political showdown continues as more opposition figures are implicated under Pakistan's anti-terror law.
+Source: NPR Politics
+Headline: Between the coasts, populist Democrats see room to reclaim lost ground in red states
+Summary: In parts of the Great Plains and Midwest, Democrats are betting that harnessing anger at corporate power and both parties might succeed when voters believe the economy and government are not working.
 ---
 Source: NPR Politics
 Headline: 2026 midterms could be the most expensive on record. And, Macron condemns protests
@@ -61,24 +81,4 @@ Summary: More than $15 billion has been raised in this year's midterm elections.
 Source: NPR Politics
 Headline: Rep. Don Beyer, D-Va., on Trump waiving sanctions on Russia
 Summary: NPR's Leila Fadel asks Democratic Rep. Don Beyer of Virginia  about President Trump's decision to waive new sanctions on Russia.
----
-Source: NPR Politics
-Headline: The real reason it's going to take a while to know who won in some midterm races
-Summary: Hint: It's not only because California counts slowly.
----
-Source: NPR Politics
-Headline: Michigan's Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold
-Summary: Michigan's Democratic U.S. Senate candidate Abdul El-Sayed is campaigning in the GOP stronghold of Michigan's Upper Peninsula, an area that hasn't voted for a Democrat in Congress in over a decade.
----
-Source: NPR Politics
-Headline: What does a White House press secretary do?
-Summary: Katie Zacharia's short time as White House press secretary has brought renewed attention to the high-profile role.
----
-Source: NPR Politics
-Headline: Congress reacts to executive order exempting Russia from economic sanctions
-Summary: NPR's Eric McDaniel reports on how Congress has reacted to President Trump's executive order exempting Russia from economic sanctions.
----
-Source: NPR Politics
-Headline: Greensboro, NC students protest the absence of early voting sites on campus
-Summary: NPR's Ayesha Rascoe talks to North Carolina A&amp;T student Shia Rozier about disappointment with early voting sites in Greensboro.
 ---
