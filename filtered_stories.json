@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Sudanese Drone Strikes Kill 300",
-    "event": "Sudanese military drone strikes targeted a funeral procession and a fuel market, resulting in over 300 deaths.",
-    "context": "The attacks occurred amidst ongoing armed conflict between the Sudanese Armed Forces and the Rapid Support Forces.",
-    "scope": "The local population in targeted regions of Sudan and regional humanitarian networks are directly affected."
+    "headline": "US and Israel Plan Iran Strategy",
+    "event": "Officials from the United States and Israel are formulating joint contingency plans for potential military strikes targeting Iranian positions.",
+    "context": "The planning follows heightened regional warfare and unresolved diplomatic disputes regarding Iranian nuclear capabilities and proxy activities.",
+    "scope": "Government leadership, military forces, and civilian populations across the Middle East are directly affected."
   },
   {
-    "headline": "Alberta Rejects Independence From Canada",
-    "event": "Voters in Alberta overwhelmingly rejected a referendum measure to initiate separation from Canada.",
-    "context": "The referendum follows years of political disagreement between the provincial government and federal authorities over energy policy.",
-    "scope": "The population of Alberta and the governance structure of Canada are directly affected."
+    "headline": "Critical Vulnerabilities Discovered in PHP Software",
+    "event": "Software maintainers identified critical security flaws in the PHP programming language, forcing administrators to take affected web services offline for patching.",
+    "context": "PHP serves as the underlying server-side code for a significant percentage of global web infrastructure, making unpatched systems vulnerable to remote exploitation.",
+    "scope": "System administrators, enterprise organizations, and internet users accessing PHP-based web services worldwide are affected."
   },
   {
-    "headline": "Widespread Protests Prompt French Disorder",
-    "event": "Protests across multiple French municipalities resulted in civil disorder and clashes with police.",
-    "context": "The unrest follows public dissatisfaction with national economic policy, drawing condemnation from the presidency.",
-    "scope": "Urban residents, business owners, and municipal services across France are directly affected."
+    "headline": "Germany Arrests Suspected Russian Spy",
+    "event": "German law enforcement officers detained a Ukrainian national on suspicion of conducting intelligence operations on behalf of Russia.",
+    "context": "European counter-intelligence agencies have intensified security measures following a series of state-backed espionage and sabotage incidents linked to Russia.",
+    "scope": "State security agencies, diplomatic services, and military infrastructure within Germany and the European Union are affected."
   },
   {
-    "headline": "Australian Lawmaker Critically Injured In Attack",
-    "event": "Australian Member of Parliament Helen Haines was critically injured in a deliberate vehicle collision, leading to an arrest.",
-    "context": "Incidents of targeted physical violence against federal politicians in Australia are statistically uncommon.",
-    "scope": "Members of the Australian Parliament and the electorate of Indi are directly affected."
+    "headline": "Federal Judge Restricts DHS Voter Inspections",
+    "event": "A federal judge issued an injunction limiting Department of Homeland Security field operations focused on identifying noncitizen voters.",
+    "context": "The court found that the active field operations likely violated federal provisions of the Voting Rights Act designed to prohibit voter intimidation.",
+    "scope": "Department of Homeland Security field officers and registered voters across the United States are directly affected."
   },
   {
-    "headline": "US Charges 28 With Election Offenses",
-    "event": "The United States Department of Justice charged 28 individuals in California with voting crimes.",
-    "context": "The charges coincide with federal court motions concerning state voter roll administration ahead of midterm elections.",
-    "scope": "Voters and election authorities in the state of California are directly affected."
+    "headline": "El Salvador Deploys Military to Haiti",
+    "event": "President Nayib Bukele authorized a targeted military mission into Haiti to rescue four Salvadoran aviation technicians detained by armed gangs.",
+    "context": "Haiti has experienced a severe breakdown in state control following years of gang violence and the 2021 assassination of its president.",
+    "scope": "Salvadoran armed forces personnel, the abducted technicians, and Haitian local security forces are directly affected."
   }
 ]
