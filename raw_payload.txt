@@ -55,6 +55,10 @@ Headline: Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty
 Summary: Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.
 ---
 Source: NPR Politics
+Headline: The Pentagon's guidelines for "responsible AI" aren't always followed, report shows
+Summary: The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October.
+---
+Source: NPR Politics
 Headline: Ohio could decide control of the Senate. Its rural voters might decide the winner
 Summary: Ohio has been a reliably red state for several elections but it's competitive this year. If Democrats want to prevail, they'll have to win people who have backed Republicans, like rural voters.
 ---
@@ -77,8 +81,4 @@ Summary: Republicans are facing a tough fight in Iowa. President Trump's campaig
 Source: NPR Politics
 Headline: Gen Z is 'in the thick' of high housing costs. These candidates aim to solve it
 Summary: Young candidates who rent or live with parents say their generation is "in the thick" of the country's housing affordability crisis. They argue this gives them new energy to solve it for everyone.
----
-Source: NPR Politics
-Headline: What's behind the early voting surge? It's more than voter enthusiasm, expert says
-Summary: Nearly 21 million Americans have voted early in the midterms. MIT political scientist Charles Stewart explains what's driving the surge and why it may not mean higher overall turnout.
 ---
