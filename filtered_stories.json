@@ -1,32 +1,32 @@
 [
   {
-    "headline": "United States Military Reinforces Middle East",
-    "event": "The United States military has deployed additional forces and assets to the Middle East while relocating select personnel.",
-    "context": "The move follows heightened diplomatic and military tensions involving potential military action against Iran.",
-    "scope": "The deployment directly impacts military personnel in the region and international diplomatic posture."
+    "headline": "Ebola Virus Spreads to Nigeria",
+    "event": "Nigeria reported its first confirmed case of Ebola in an outbreak originating in the Democratic Republic of the Congo.",
+    "context": "The current Ebola outbreak has expanded across multiple African nations since originating in Central Africa.",
+    "scope": "The population of Nigeria and surrounding regional transit hubs face direct risk of viral transmission."
   },
   {
-    "headline": "Ebola Outbreak Reaches Nigeria and Kenya",
-    "event": "Health authorities confirmed Nigeria's first case in the current Ebola outbreak, which originated in the Democratic Republic of the Congo.",
-    "context": "The virus has expanded beyond its initial epicenter, prompting cross-border contact tracing across multiple African nations.",
-    "scope": "Populations across central and western African nations face heightened public health risk and monitoring."
+    "headline": "Gunmen Kill Seven in Jordan",
+    "event": "Three gunmen opened fire on a Greek Orthodox church during a funeral in Karak, Jordan, killing seven people and wounding forty.",
+    "context": "Jordan has experienced sporadic violent attacks linked to regional security destabilization.",
+    "scope": "Forty-seven direct casualties and the civilian population of Karak are directly impacted."
   },
   {
-    "headline": "Starlink Service Restored in Ukraine",
-    "event": "Ukrainian officials reported that full operating speeds for Starlink satellite communications have been restored after over a week of disruptions.",
-    "context": "The temporary network degradation had affected Ukrainian operational logistics and communications infrastructure.",
-    "scope": "Ukrainian defense personnel and civilian operators reliant on satellite internet connectivity."
+    "headline": "Israel Prepares West Bank Operation",
+    "event": "The Israeli government announced a military operation in the West Bank and demolished homes in Hebron following the deaths of two soldiers.",
+    "context": "The action follows a fatal attack by Palestinian gunmen at an Israeli military checkpoint.",
+    "scope": "Civilian residents of Hebron and military personnel active in the West Bank are directly affected."
   },
   {
-    "headline": "Israel Operations Announced in West Bank",
-    "event": "Israeli authorities announced plans for a large-scale military operation in the West Bank following home demolitions in Hebron.",
-    "context": "The action follows an attack on an Israeli military checkpoint that resulted in the deaths of two soldiers.",
-    "scope": "Residents of the West Bank and Israeli security forces operating in the territory."
+    "headline": "Starlink Restores Service to Ukraine",
+    "event": "Satellite internet provider Starlink restored standard operating speeds in Ukraine following more than a week of service disruptions.",
+    "context": "The service degradation impacted Ukrainian military communications and unmanned aerial vehicle operations.",
+    "scope": "Ukrainian defense forces utilizing satellite data networks are directly affected by the restoration."
   },
   {
-    "headline": "Fatal Attack on Church in Jordan",
-    "event": "Gunmen opened fire during a funeral service at a Greek Orthodox church in Karak, killing seven people and wounding forty others.",
-    "context": "The attack marks a rare violent assault on a religious institution within the municipality of Karak.",
-    "scope": "The local population of Karak, regional security forces, and the impacted religious community."
+    "headline": "Houthi Blockade Restricts Yemeni Water",
+    "event": "Houthi forces tightened their blockade around the Yemeni city of Taiz, further reducing available municipal drinking water supplies.",
+    "context": "The city of Taiz has experienced acute water scarcity and siege conditions for over a decade.",
+    "scope": "The civilian residents of Taiz are directly affected by the restriction of basic water access."
   }
 ]

@@ -3,7 +3,7 @@ Headline: Ukraine says Starlink connection 'now stable' after network limits
 Summary: The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.
 ---
 Source: BBC World
-Headline: Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say
+Headline: Palestinian families displaced as Israeli forces demolish Hebron homes
 Summary: The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.
 ---
 Source: BBC World
