@@ -1,34 +1,50 @@
 Source: BBC World
-Headline: Deadly shooting near Paris is a 'racist terrorist attack', Macron says
-Summary: One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.
+Headline: Ukraine says Starlink connection 'now stable' after network limits
+Summary: The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.
 ---
 Source: BBC World
-Headline: Seven shot dead by gunmen at church funeral in Jordan, officials say
-Summary: Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.
+Headline: Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say
+Summary: The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.
 ---
 Source: BBC World
-Headline: Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say
-Summary: Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.
+Headline: Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat
+Summary: Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.
 ---
 Source: BBC World
-Headline: Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead
-Summary: The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.
+Headline: Father who killed Oregon school gunman describes anguish over children he couldn't save
+Summary: Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.
 ---
 Source: BBC World
-Headline: White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'
-Summary: Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.
+Headline: British woman dies after trying to rescue sons swept away at sea in the Bahamas
+Summary: Nathan Gregory says the loss of childhood sweetheart Leanne "is unimaginable for our family".
 ---
 Source: BBC World
-Headline: Ukraine says Starlink still restricted after Trump says limits lifted
-Summary: The network is used by the Ukrainian military, sources say, and Trump says "if there is a problem, I'll get it straightened out".
+Headline: Vanessa Trump says she is cancer-free six months after revealing diagnosis
+Summary: The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.
 ---
 Source: BBC World
-Headline: Oil spill washes up on UAE beaches after tanker strike
-Summary: Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife
+Headline: Three released without charge after fatal arson attack in Ireland
+Summary: Three people - two women and one man - have been released, and one person remains in custody, gardaí say.
 ---
 Source: NPR World
-Headline: Europe's Ukraine dilemma
-Summary: European leaders are grappling with how best to support Ukraine, balancing their fraught relationships with the Trump administration and the imperatives of European security.
+Headline: Ukraine says Starlink is back to normal after disruptions
+Summary: Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.
+---
+Source: NPR World
+Headline: Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40
+Summary: Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.
+---
+Source: NPR World
+Headline: European student protests take aim at Serbia's elections
+Summary: Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic.
+---
+Source: NPR World
+Headline: Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels
+Summary: Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks.
+---
+Source: NPR World
+Headline: Israeli PM pledges massive military operation after West Bank checkpoint attack
+Summary: Israel's Prime Minister is vowing to launch a major military operation in the West Bank in response to an attack by two Palestinian gunmen on an Israeli military checkpoint that killed two soldiers.
 ---
 Source: NPR World
 Headline: Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths
@@ -38,21 +54,25 @@ Source: NPR World
 Headline: Military reinforcements move to Mideast. And, millions of Americans vote early
 Summary: Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.
 ---
-Source: NPR World
-Headline: Retired general discusses the U.S. and Israeli plan for possible attack on Iran
-Summary: NPR'S Leila Fadel speaks with retired four-star Gen. Joseph Votel about the war in Iran and the U.S. and Israeli objectives for a potential post-election bombing campaign.
+Source: NPR Politics
+Headline: The rise of the economic populist: What voters want from both parties this year
+Summary: A new kind of economic populism is surging in both parties this year as voters search for a political party that can solve growing concerns about financial stability.
 ---
-Source: NPR World
-Headline: Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack
-Summary: Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning. At least five people were injured, including some critically.
+Source: NPR Politics
+Headline: Week in Politics: Ramaswamy's Ohio ad; Trump greenlights DOJ to sue over Alaska Senate
+Summary: Ohio GOP gubernatorial candidate Vivek Ramaswamy refuses to withdrawal an explosive attack ad, and President Trump greenlights the DOJ to file a lawsuit about Alaska's senate race.
 ---
-Source: NPR World
-Headline: Hacking attempts rise after flaws found in program affecting 70% of websites
-Summary: Governments around the world are rushing to implement safety measures after AI technology found "severe" vulnerabilities in a key programming language called PHP.
+Source: NPR Politics
+Headline: This decade has been missing its big-impact midterm
+Summary: Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly.
 ---
-Source: NPR World
-Headline: Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty
-Summary: Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.
+Source: NPR Politics
+Headline: At a Texas high school football game, fans offer a glimpse into evolving politics
+Summary: We talk with voters at a Texas high school football game at the tailgate, in line at the concession booth and in the stands to hear about the issues that matter to Texans this cycle.
+---
+Source: NPR Politics
+Headline: Russia steps up election influence efforts in final stretch of midterms
+Summary: Researchers who track online influence operations say Kremlin-backed groups are renewing tactics they've used to sow distrust and discord in previous elections in the U.S. and around the world.
 ---
 Source: NPR Politics
 Headline: The Pentagon's guidelines for "responsible AI" aren't always followed, report shows
@@ -61,24 +81,4 @@ Summary: The Pentagon is building weapons and projects with AI capabilities that
 Source: NPR Politics
 Headline: Ohio could decide control of the Senate. Its rural voters might decide the winner
 Summary: Ohio has been a reliably red state for several elections but it's competitive this year. If Democrats want to prevail, they'll have to win people who have backed Republicans, like rural voters.
----
-Source: NPR Politics
-Headline: A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that
-Summary: Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.
----
-Source: NPR Politics
-Headline: Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries
-Summary: Republicans have long accused the FBI of mishandling the laptop and the investigations into the younger Biden.
----
-Source: NPR Politics
-Headline: Military reinforcements move to Mideast. And, millions of Americans vote early
-Summary: Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.
----
-Source: NPR Politics
-Headline: Trump's midterm campaign tour stops in Iowa
-Summary: Republicans are facing a tough fight in Iowa. President Trump's campaign tour stopped in the state in hopes of rallying voters.
----
-Source: NPR Politics
-Headline: Gen Z is 'in the thick' of high housing costs. These candidates aim to solve it
-Summary: Young candidates who rent or live with parents say their generation is "in the thick" of the country's housing affordability crisis. They argue this gives them new energy to solve it for everyone.
 ---
