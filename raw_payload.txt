@@ -1,58 +1,78 @@
 Source: BBC World
-Headline: Ukraine says Starlink connection 'now stable' after network limits
-Summary: The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.
+Headline: Musk says SpaceX restricted Ukraine's Starlink connection as service restored
+Summary: The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.
 ---
 Source: BBC World
-Headline: Palestinian families displaced as Israeli forces demolish Hebron homes
-Summary: The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.
+Headline: Venezuelan opposition leader María Machado returns after months in exile
+Summary: Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.
 ---
 Source: BBC World
-Headline: Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat
-Summary: Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.
+Headline: Early reports suggest record high turnout in Serbia elections
+Summary: Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.
 ---
 Source: BBC World
-Headline: Father who killed Oregon school gunman describes anguish over children he couldn't save
-Summary: Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.
+Headline: Suspect in deadly Paris suburb shooting sent for psychiatric observation
+Summary: He will be observed to evaluate whether his "psychiatric health is compatible with pursuing his interrogation", authorities said.
 ---
 Source: BBC World
-Headline: British woman dies after trying to rescue sons swept away at sea in the Bahamas
-Summary: Nathan Gregory says the loss of childhood sweetheart Leanne "is unimaginable for our family".
+Headline: Israel to close West Bank crossings on election day as crackdown escalates
+Summary: The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.
 ---
 Source: BBC World
-Headline: Vanessa Trump says she is cancer-free six months after revealing diagnosis
-Summary: The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.
+Headline: Gabon says access to social media restored after eight-month ban
+Summary: The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.
 ---
 Source: BBC World
-Headline: Three released without charge after fatal arson attack in Ireland
-Summary: Three people - two women and one man - have been released, and one person remains in custody, gardaí say.
+Headline: El Salvador president says bodies found in Haiti are not those of hostages
+Summary: Nayib Bukele says bodies delivered to soldiers are "not our men" amid search for Salvadorans abducted last week.
 ---
 Source: NPR World
-Headline: Ukraine says Starlink is back to normal after disruptions
-Summary: Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.
+Headline: Venezuela's opposition leader María Corina Machado returns after months in exile
+Summary: Machado announced her arrival on social media, writing "I am here. With you."
 ---
 Source: NPR World
-Headline: Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40
-Summary: Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.
+Headline: Israelis have changed. Will they change their leadership?
+Summary: Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.
 ---
 Source: NPR World
-Headline: European student protests take aim at Serbia's elections
-Summary: Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic.
+Headline: This College of Magic turns ordinary kids into cool magicians
+Summary: The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.
 ---
 Source: NPR World
-Headline: Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels
-Summary: Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks.
+Headline: Soldiers guard center of Milan as thousands of protesters march in cities across Europe
+Summary: While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.
 ---
 Source: NPR World
-Headline: Israeli PM pledges massive military operation after West Bank checkpoint attack
-Summary: Israel's Prime Minister is vowing to launch a major military operation in the West Bank in response to an attack by two Palestinian gunmen on an Israeli military checkpoint that killed two soldiers.
+Headline: Protests roil France once again as police seek to quell violence
+Summary: Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's violence.
 ---
 Source: NPR World
-Headline: Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths
-Summary: Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries.
+Headline: Why a far-right cabinet minister in Israel has Netanyahu's ear
+Summary: Israel's most far-right cabinet minister helped dictate hardline policies toward Palestinians in recent years. Benjamin Netanyahu vows to give him a senior position if Netanyahu is reelected next week.
 ---
 Source: NPR World
-Headline: Military reinforcements move to Mideast. And, millions of Americans vote early
-Summary: Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.
+Headline: Musk says SpaceX did restrict Starlink, as Ukraine says the tech has been restored
+Summary: Musk said Ukraine had been violating Starlink's terms by using it for military activity, as Ukrainian President Volodymyr Zelenskyy said normal operating speeds have returned.
+---
+Source: NPR Politics
+Headline: Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses
+Summary: Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN.
+---
+Source: NPR Politics
+Headline: Politics chat: The polls show a Democratic sweep in the midterms. Can you trust them?
+Summary: If you look at the few truly competitive seats, polls show a more complicated picture of momentum toward the Democratic Party in midterm House races. For the Senate, Republicans are on defense.
+---
+Source: NPR Politics
+Headline: Democrats see an opportunity to tilt Pennsylvania's state legislature their way
+Summary: Statehouse elections this fall could swing the balance of power in state capitals. In Pennsylvania, Democrats could take control of what has been a divided legislature.
+---
+Source: NPR Politics
+Headline: Independent candidates sense a moment. Some Democrats hope they're right.
+Summary: As they look to win the Senate, Democrats are hoping that independent candidates in Nebraska and Montana can help them topple Republicans in a part of the country where their own brand is hurting.
+---
+Source: NPR Politics
+Headline: In Arkansas, Democrats see an opening at the edge of the competitive midterms map
+Summary: In a sign of the potentially dire midterm political environment, Republicans have spent millions of dollars playing defense in Arkansas, one of the most conservative states in the country.
 ---
 Source: NPR Politics
 Headline: The rise of the economic populist: What voters want from both parties this year
@@ -61,24 +81,4 @@ Summary: A new kind of economic populism is surging in both parties this year as
 Source: NPR Politics
 Headline: Week in Politics: Ramaswamy's Ohio ad; Trump greenlights DOJ to sue over Alaska Senate
 Summary: Ohio GOP gubernatorial candidate Vivek Ramaswamy refuses to withdrawal an explosive attack ad, and President Trump greenlights the DOJ to file a lawsuit about Alaska's senate race.
----
-Source: NPR Politics
-Headline: This decade has been missing its big-impact midterm
-Summary: Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly.
----
-Source: NPR Politics
-Headline: At a Texas high school football game, fans offer a glimpse into evolving politics
-Summary: We talk with voters at a Texas high school football game at the tailgate, in line at the concession booth and in the stands to hear about the issues that matter to Texans this cycle.
----
-Source: NPR Politics
-Headline: Russia steps up election influence efforts in final stretch of midterms
-Summary: Researchers who track online influence operations say Kremlin-backed groups are renewing tactics they've used to sow distrust and discord in previous elections in the U.S. and around the world.
----
-Source: NPR Politics
-Headline: The Pentagon's guidelines for "responsible AI" aren't always followed, report shows
-Summary: The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October.
----
-Source: NPR Politics
-Headline: Ohio could decide control of the Senate. Its rural voters might decide the winner
-Summary: Ohio has been a reliably red state for several elections but it's competitive this year. If Democrats want to prevail, they'll have to win people who have backed Republicans, like rural voters.
 ---
