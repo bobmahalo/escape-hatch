@@ -27,6 +27,10 @@ Headline: Venezuelan opposition leader María Machado returns after months in ex
 Summary: Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.
 ---
 Source: NPR World
+Headline: Tens of thousands of Israeli expats expected to fly home to vote in critical election
+Summary: Tens of thousands of Israeli citizens living abroad have flown to Israel to vote in person in Tuesday's election. NPR's Ruth Sherlock reports from the airport.
+---
+Source: NPR World
 Headline: Australian judge rejects prisoner's human rights challenge to Vegemite ban
 Summary: Andre McKechnie, 55, is serving a life sentence for murder. He took his battle for the salty, sticky, black-brown byproduct of brewing beer to the court last year. He argued being refused Vegemite breached the Charter of Human Rights and Responsibilities Act.
 ---
@@ -49,10 +53,6 @@ Summary: Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bo
 Source: NPR World
 Headline: U.S. influence in Latin America at stake in runoff election in Brazil
 Summary: A polarizing presidential election runoff in Latin America's largest economy and biggest democracy pits leftist Lula da Silva's legacy against Trump ally Flavio Bolsonaro, son of the former Brazilian president.
----
-Source: NPR World
-Headline: This center-right former general could unseat Netanyahu as Prime Minister in Israel
-Summary: A former Israeli general is the main center-right challenger hoping to unseat Prime Minister Benjamin Netanyahu in Israeli elections this week.
 ---
 Source: NPR Politics
 Headline: Judge says DOJ illegally fired the daughter of former FBI director Comey
