@@ -1,32 +1,32 @@
 [
   {
-    "headline": "SpaceX Restricts Ukraine Starlink Access",
-    "event": "SpaceX restricted Ukrainian access to the Starlink satellite network over alleged terms of service violations.",
-    "context": "Ukrainian forces depend on satellite connectivity for communications and command operations during the war with Russia.",
-    "scope": "The decision affects military communication networks and service availability in active conflict zones."
+    "headline": "Lula Wins Brazil Presidential Runoff",
+    "event": "Luiz In\u00e1cio Lula da Silva defeated Fl\u00e1vio Bolsonaro in a presidential runoff election to secure a fourth term.",
+    "context": "Lula had previously lost the first round of voting to Bolsonaro before securing a majority in the final vote.",
+    "scope": "The election outcome directly determines federal policy for Brazil's population of 215 million citizens."
   },
   {
-    "headline": "Machado Returns to Venezuela Post-Exile",
-    "event": "Venezuelan opposition leader Mar\u00eda Corina Machado returned to Venezuela after several months in exile.",
-    "context": "Her return occurred one month after United States authorities seized Venezuelan President Nicol\u00e1s Maduro.",
-    "scope": "The event directly impacts the political structure and opposition leadership within Venezuela."
+    "headline": "Serbian Opposition Wins Parliamentary Election",
+    "event": "A student-led coalition won Serbia's parliamentary election, defeating the incumbent ruling party.",
+    "context": "President Aleksandar Vu\u010di\u0107 and his populist coalition had held executive and legislative power in Serbia for twelve years.",
+    "scope": "The political realignment impacts Serbia's 6.6 million residents and alters governance structures across the nation."
   },
   {
-    "headline": "Mass Demonstrations Occur Across Europe",
-    "event": "Public demonstrations occurred across major European cities including Paris, Milan, Rome, and Madrid.",
-    "context": "Citizens organized the protests to express grievances regarding public funding allocations and economic inequality.",
-    "scope": "The demonstrations directly involve hundreds of thousands of protesters and alter municipal infrastructure across multiple countries."
+    "headline": "China Convenes Key Governance Plenum",
+    "event": "The Communist Party of China opened a closed-door plenum to implement stricter internal party discipline.",
+    "context": "The gathering takes place one year ahead of planned personnel adjustments and General Secretary Xi Jinping's anticipated fourth term.",
+    "scope": "The resulting policy directives apply to the 98 million members of the ruling party and influence administrative rule over 1.4 billion citizens."
   },
   {
-    "headline": "Israel Restricts West Bank Border Crossings",
-    "event": "The Israeli Defense Forces announced restrictions on West Bank border crossings ahead of the upcoming election.",
-    "context": "The measure accompanies intensified security enforcement following years of regional conflict.",
-    "scope": "The closures directly impact Palestinian daily commuters and voters participating in the Israeli general election."
+    "headline": "Venezuelan Opposition Leader Ends Exile",
+    "event": "Opposition political figure Mar\u00eda Corina Machado returned to Venezuela after spending months in exile.",
+    "context": "Her return follows the extrajudicial seizure of Venezuelan President Nicol\u00e1s Maduro by United States authorities.",
+    "scope": "The leadership change affects Venezuela's 28 million residents and influences international diplomatic relations across Latin America."
   },
   {
-    "headline": "Gabon Lifts Eight Month Media Ban",
-    "event": "Gabonese authorities restored public access to social media platforms following an eight-month prohibition.",
-    "context": "The government initially imposed the block to control online communication during political tensions.",
-    "scope": "The restoration affects all internet users and digital communication networks within Gabon."
+    "headline": "Anthropic Prepares Public Stock Listing",
+    "event": "Artificial intelligence developer Anthropic initiated preparations for an initial public offering while publishing risk warnings regarding advanced models.",
+    "context": "The transaction will mark the first public listing of a pure-play artificial intelligence software firm.",
+    "scope": "The public listing directly impacts financial market investors and firms operating within the global technology sector."
   }
 ]

@@ -1,58 +1,78 @@
 Source: BBC World
-Headline: Musk says SpaceX restricted Ukraine's Starlink connection as service restored
-Summary: The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.
+Headline: Lula wins fourth term in dramatic Brazil election comeback
+Summary: The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.
+---
+Source: BBC World
+Headline: Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement
+Summary: The populist right-wing leader of 12 years says it is "clear" his party has lost the vote billed as a referendum on the country's future.
+---
+Source: BBC World
+Headline: Trump administration illegally fired James Comey's daughter, judge rules
+Summary: Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.
+---
+Source: BBC World
+Headline: Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing
+Summary: The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.
+---
+Source: BBC World
+Headline: Catholic bishops apologise for 'exploited' Trump meeting
+Summary: Two bishops in images that show them praying with Trump have said they believed the meeting was private.
+---
+Source: BBC World
+Headline: US Marine indicted for murder and robbery of woman in Japan
+Summary: Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.
 ---
 Source: BBC World
 Headline: Venezuelan opposition leader María Machado returns after months in exile
 Summary: Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.
 ---
-Source: BBC World
-Headline: Early reports suggest record high turnout in Serbia elections
-Summary: Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.
----
-Source: BBC World
-Headline: Suspect in deadly Paris suburb shooting sent for psychiatric observation
-Summary: He will be observed to evaluate whether his "psychiatric health is compatible with pursuing his interrogation", authorities said.
----
-Source: BBC World
-Headline: Israel to close West Bank crossings on election day as crackdown escalates
-Summary: The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.
----
-Source: BBC World
-Headline: Gabon says access to social media restored after eight-month ban
-Summary: The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.
----
-Source: BBC World
-Headline: El Salvador president says bodies found in Haiti are not those of hostages
-Summary: Nayib Bukele says bodies delivered to soldiers are "not our men" amid search for Salvadorans abducted last week.
+Source: NPR World
+Headline: Australian judge rejects prisoner's human rights challenge to Vegemite ban
+Summary: Andre McKechnie, 55, is serving a life sentence for murder. He took his battle for the salty, sticky, black-brown byproduct of brewing beer to the court last year. He argued being refused Vegemite breached the Charter of Human Rights and Responsibilities Act.
 ---
 Source: NPR World
-Headline: Venezuela's opposition leader María Corina Machado returns after months in exile
-Summary: Machado announced her arrival on social media, writing "I am here. With you."
+Headline: What to know about China's plenum as Xi seeks stronger party discipline
+Summary: This closed-door gathering that started Monday comes about a year before Xi is expected to secure a fourth term and personnel changes to key leadership bodies.
 ---
 Source: NPR World
-Headline: Israelis have changed. Will they change their leadership?
-Summary: Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.
+Headline: Russia says it will open humanitarian corridor to Ukrainian town
+Summary: Russia says it will open a humanitarian corridor to the occupied Ukrainian town of Oleshky, where people have been eating weeds and pickles to survive while trapped by minefields, shelling and drones.
 ---
 Source: NPR World
-Headline: This College of Magic turns ordinary kids into cool magicians
-Summary: The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.
+Headline: 'The smell of freedom': Serbia's student movement celebrates election triumph
+Summary: A political earthquake has occurred in Serbia as a student-backed movement wins the parliamentary election, ending more than a decade of dominance by a Moscow-backed populist leader.
 ---
 Source: NPR World
-Headline: Soldiers guard center of Milan as thousands of protesters march in cities across Europe
-Summary: While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.
+Headline: Brazil's left-wing President Lula elected for fourth term
+Summary: Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.
 ---
 Source: NPR World
-Headline: Protests roil France once again as police seek to quell violence
-Summary: Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's violence.
+Headline: U.S. influence in Latin America at stake in runoff election in Brazil
+Summary: A polarizing presidential election runoff in Latin America's largest economy and biggest democracy pits leftist Lula da Silva's legacy against Trump ally Flavio Bolsonaro, son of the former Brazilian president.
 ---
 Source: NPR World
-Headline: Why a far-right cabinet minister in Israel has Netanyahu's ear
-Summary: Israel's most far-right cabinet minister helped dictate hardline policies toward Palestinians in recent years. Benjamin Netanyahu vows to give him a senior position if Netanyahu is reelected next week.
+Headline: This center-right former general could unseat Netanyahu as Prime Minister in Israel
+Summary: A former Israeli general is the main center-right challenger hoping to unseat Prime Minister Benjamin Netanyahu in Israeli elections this week.
 ---
-Source: NPR World
-Headline: Musk says SpaceX did restrict Starlink, as Ukraine says the tech has been restored
-Summary: Musk said Ukraine had been violating Starlink's terms by using it for military activity, as Ukrainian President Volodymyr Zelenskyy said normal operating speeds have returned.
+Source: NPR Politics
+Headline: Judge says DOJ illegally fired the daughter of former FBI director Comey
+Summary: Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ.
+---
+Source: NPR Politics
+Headline: Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term
+Summary: Republicans are spending millions on the midterms, and they still may not win districts drawn to favor them. And, Brazil's Luiz Inácio Lula da Silva won a fourth term in a stunning political comeback.
+---
+Source: NPR Politics
+Headline: Political consultant on the impact of Republicans' gerrymandering efforts
+Summary: NPR's Leila Fadel speaks with political consultant Mike Madrid about how Republicans' gerrymandering efforts have backfired.
+---
+Source: NPR Politics
+Headline: Trump escalates anti-Muslim attacks against El-Sayed in Michigan
+Summary: President Trump intensified his anti-Muslim rhetoric against Michigan Senate candidate Abdul El-Sayed on Sunday, portraying him as a threat to national security and questioning his loyalty to the United States.
+---
+Source: NPR Politics
+Headline: Republicans are spending millions and still may not win districts drawn to favor them
+Summary: Republicans redrew congressional district lines to try to tilt the midterms in their favor. But now they are facing expensive and competitive races they had hoped to outmaneuver.
 ---
 Source: NPR Politics
 Headline: Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses
@@ -61,24 +81,4 @@ Summary: Attorney General Todd Blanche defended the Justice Department's suit ov
 Source: NPR Politics
 Headline: Politics chat: The polls show a Democratic sweep in the midterms. Can you trust them?
 Summary: If you look at the few truly competitive seats, polls show a more complicated picture of momentum toward the Democratic Party in midterm House races. For the Senate, Republicans are on defense.
----
-Source: NPR Politics
-Headline: Democrats see an opportunity to tilt Pennsylvania's state legislature their way
-Summary: Statehouse elections this fall could swing the balance of power in state capitals. In Pennsylvania, Democrats could take control of what has been a divided legislature.
----
-Source: NPR Politics
-Headline: Independent candidates sense a moment. Some Democrats hope they're right.
-Summary: As they look to win the Senate, Democrats are hoping that independent candidates in Nebraska and Montana can help them topple Republicans in a part of the country where their own brand is hurting.
----
-Source: NPR Politics
-Headline: In Arkansas, Democrats see an opening at the edge of the competitive midterms map
-Summary: In a sign of the potentially dire midterm political environment, Republicans have spent millions of dollars playing defense in Arkansas, one of the most conservative states in the country.
----
-Source: NPR Politics
-Headline: The rise of the economic populist: What voters want from both parties this year
-Summary: A new kind of economic populism is surging in both parties this year as voters search for a political party that can solve growing concerns about financial stability.
----
-Source: NPR Politics
-Headline: Week in Politics: Ramaswamy's Ohio ad; Trump greenlights DOJ to sue over Alaska Senate
-Summary: Ohio GOP gubernatorial candidate Vivek Ramaswamy refuses to withdrawal an explosive attack ad, and President Trump greenlights the DOJ to file a lawsuit about Alaska's senate race.
 ---
