@@ -3,8 +3,8 @@ Headline: Norway and Finland leaders hold rare call with Putin
 Summary: An end to the conflict in Ukraine "will not be achieved through silence," Finland's President Alexander Stubb said.
 ---
 Source: BBC World
-Headline: Truce begins in Ukraine city where residents ate weeds to survive
-Summary: The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.
+Headline: Ceasefire extended across Ukraine's Kherson region, officials say
+Summary: The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.
 ---
 Source: BBC World
 Headline: Mbappé sorry for 'ill-judged' Mao remark after backlash in China
@@ -19,12 +19,16 @@ Headline: Dutch zookeeper dies after being mauled in leopard enclosure
 Summary: The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.
 ---
 Source: BBC World
-Headline: Ghanaian twin brothers and US woman plead guilty to $9m romance scam
-Summary: The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.
+Headline: Alexander brothers each sentenced to 30 years in prison for sex trafficking case
+Summary: The three brothers were found guilty of drugging and raping several women over the course of decades.
 ---
 Source: BBC World
-Headline: Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria
-Summary: He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.
+Headline: Egypt court fines journalist Lina Attalah and orders news site's closure
+Summary: Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented "a crushing blow to press freedom".
+---
+Source: NPR World
+Headline: Israelis vote in their highest numbers in decades in pivotal elections
+Summary: Israelis voted in their highest numbers in decades in a tense national election on Tuesday to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition or change course.
 ---
 Source: NPR World
 Headline: The Ebola outbreak is breaking records -- and just marked a grim milestone
@@ -49,10 +53,6 @@ Summary: A localized ceasefire between Ukraine and Russia took effect early Tues
 Source: NPR World
 Headline: A quick guide to Israel's high-stakes election
 Summary: Israel is holding its first elections since the Hamas-led attacks of 2023 triggered a chain of conflicts across the region — a quick guide the key players, issues and when to expect a result.
----
-Source: NPR World
-Headline: Australian judge rejects prisoner's human rights challenge to Vegemite ban
-Summary: Andre McKechnie, 55, is serving a life sentence for murder. He took his battle for the salty, sticky, black-brown byproduct of brewing beer to the court last year. He argued being refused Vegemite breached the Charter of Human Rights and Responsibilities Act.
 ---
 Source: NPR Politics
 Headline: A judge halted D.C. golf course renovations. Trump says they'll still start next month
