@@ -59,8 +59,8 @@ Headline: Israel's election too close to call. And, the Ebola outbreak reaches g
 Summary: Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.
 ---
 Source: NPR Politics
-Headline: How a lifelong Republican came to lead the data center battle in Ohio
-Summary: In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.
+Headline: Senate candidates built up massive campaign war chests with out-of-state donations
+Summary: In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home.
 ---
 Source: NPR Politics
 Headline: Why many student voters have a right to choose where to register to vote
@@ -71,8 +71,8 @@ Headline: Here's how Democrats in Congress are preparing for election fraud clai
 Summary: Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud.
 ---
 Source: NPR Politics
-Headline: Senate candidates built up massive campaign war chests with out-of-state donations
-Summary: In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home.
+Headline: How a lifelong Republican came to lead the data center battle in Ohio
+Summary: In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.
 ---
 Source: NPR Politics
 Headline: Minnesota becomes battleground as political clashes shape Senate race
