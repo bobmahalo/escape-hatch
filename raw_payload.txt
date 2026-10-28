@@ -1,4 +1,12 @@
 Source: BBC World
+Headline: High-speed train crash kills at least 68 people in Spain
+Summary: The crash, between a moving train and another that was stopped further up the track, was caused by an "inexplicable" error, the transport minister said.
+---
+Source: BBC World
+Headline: Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain
+Summary: Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.
+---
+Source: BBC World
 Headline: Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election
 Summary: Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.
 ---
@@ -17,14 +25,6 @@ Summary: The Villa Vie Odyssey suspended its voyage and is working with passenge
 Source: BBC World
 Headline: Serbian shot dead after attacking officer outside Israeli embassy, minister says
 Summary: Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.
----
-Source: BBC World
-Headline: Tanzania celebrates first natural gas discovery in more than 10 years
-Summary: The energy minister described it as a "major milestone" for the East African nation.
----
-Source: BBC World
-Headline: Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman
-Summary: No official reason has been given for postponing next month’s hearing to May 2027, the family says.
 ---
 Source: NPR World
 Headline: Israel's election too close to call. And, the Ebola outbreak reaches grim milestone
@@ -55,12 +55,16 @@ Headline: Flávio Bolsonaro arrives in Florida after fleeing Brazil
 Summary: Brazil's defeated candidate Flávio Bolsonaro arrives in the U.S. after a multi-country journey as Washington says it will issue him a visa.
 ---
 Source: NPR Politics
+Headline: Trump's Department of Justice is wading into elections in unprecedented ways
+Summary: Under President Trump, the Justice Department has taken numerous steps to wade into elections. This includes new and unprecedented lawsuits filed in California and Alaska.
+---
+Source: NPR Politics
 Headline: Israel's election too close to call. And, the Ebola outbreak reaches grim milestone
 Summary: Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.
 ---
 Source: NPR Politics
-Headline: Senate candidates built up massive campaign war chests with out-of-state donations
-Summary: In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home.
+Headline: How a lifelong Republican came to lead the data center battle in Ohio
+Summary: In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.
 ---
 Source: NPR Politics
 Headline: Why many student voters have a right to choose where to register to vote
@@ -71,14 +75,10 @@ Headline: Here's how Democrats in Congress are preparing for election fraud clai
 Summary: Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud.
 ---
 Source: NPR Politics
-Headline: How a lifelong Republican came to lead the data center battle in Ohio
-Summary: In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.
+Headline: Senate candidates built up massive campaign war chests with out-of-state donations
+Summary: In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home.
 ---
 Source: NPR Politics
 Headline: Minnesota becomes battleground as political clashes shape Senate race
 Summary: Minnesota has become a flashpoint in the political dispute between President Trump and Democrats. Clashes over immigration and recent accusations of fraud are spilling into the U.S. Senate race.
----
-Source: NPR Politics
-Headline: A judge halted D.C. golf course renovations. Trump says they'll still start next month
-Summary: A federal judge has barred the government from clearing more trees or making other alterations to D.C.'s East Potomac Park without proper notice. Trump says his administration will appeal.
 ---
