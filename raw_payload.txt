@@ -1,30 +1,42 @@
 Source: BBC World
-Headline: Israeli opposition accuses Netanyahu of trying to 'delegitimise' election
-Summary: The PM's Likud party has alleged foreign interference and said Arab-led parties "stole" the election after his coalition lost its majority.
+Headline: Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+Summary: The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.
 ---
 Source: BBC World
-Headline: Audio reveals exchanges between Spain train operators and drivers moments before deadly crash
-Summary: The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.
+Headline: US inmate Christa Pike says she woke up 'confused and in pain' after failed execution
+Summary: It is Pike's first public statement since she survived an execution attempt by lethal injection in September.
 ---
 Source: BBC World
-Headline: 'The city is alive': A brief peace in Kherson, but residents fear what comes next
-Summary: A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.
+Headline: Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire
+Summary: Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.
 ---
 Source: BBC World
-Headline: Russian drone attack on Ukrainian train station kills at least 14, officials say
-Summary: At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.
+Headline: Prominent Russian newspaper shuts down under pressure from authorities
+Summary: Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.
 ---
 Source: BBC World
-Headline: Flávio Bolsonaro calls himself 'leader of Brazil' after election loss
-Summary: The defeated presidential candidate says he will lead the opposition from the US.
+Headline: Spain transport minister says he won't resign over high-speed rail disaster
+Summary: Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.
 ---
 Source: BBC World
-Headline: Philippine police obtain warrant to search Thomas Markle's devices
-Summary: Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.
+Headline: Pope Leo XIV becomes first pontiff to vote in a US election
+Summary: The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.
 ---
 Source: BBC World
-Headline: EU chief lays out vision for new Canada partnership at Montreal summit
-Summary: Ursula von der Leyen continued to use the term "associate member" for Canada despite some opposition of the bloc's members, including Germany.
+Headline: US tech stocks see sharp falls as AI spending nears $1tn
+Summary: Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.
+---
+Source: NPR World
+Headline: Blockchain intelligence firms link North Korea to $6.3B hack on Binance
+Summary: The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.
+---
+Source: NPR World
+Headline: Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general
+Summary: Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran.
+---
+Source: NPR World
+Headline: Israel is in a political deadlock. What comes next?
+Summary: Israel's consequential election has ended in a deadlock, with neither side able to claim a majority, What happens now?
 ---
 Source: NPR World
 Headline: What killed 500-plus penguins? How scientists solved the mystery
@@ -42,43 +54,31 @@ Source: NPR World
 Headline: Greetings from Baghdad, where Agatha Christie's old home presents its own mystery
 Summary: The English writer visited Iraq multiple times in the first half of the 20th century and set some of her mystery novels there. The house in Baghdad where she once lived now sits abandoned and crumbling.
 ---
-Source: NPR World
-Headline: GDP report to give insight before Election Day. And, Israel's election is deadlocked
-Summary: Economists expect the GDP report to show economic growth, but say that growth is "fragile." And, after 90% of the votes in Israel have been counted, no clear winner has emerged.
----
-Source: NPR World
-Headline: How AI drones are influencing the course of the Ukraine war
-Summary: Artificial intelligence is making drones faster and more capable. Russia and Ukraine both use AI-powered drones, and Ukrainian President Volodymyr Zelenskyy has warned that AI could lead decisions on the battlefield as soon as next year.
----
-Source: NPR World
-Headline: Spain reckons with 2nd deadly train crash of the year ahead of national election
-Summary: Spain's second high-speed rail disaster this year, a crash in which one train struck another from behind, killing 68 people, has raised fresh concerns about the safety of the country's rail network.
+Source: NPR Politics
+Headline: NPR special: 5 takeaways from a year of listening to swing voters
+Summary: Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024.
 ---
 Source: NPR Politics
-Headline: On the campaign trail, Trump delivers his greatest political hits and mourns end of rallies
-Summary: President Trump is campaigning hard in the midterms. Supporters are showing up, in part because this could be the last chance to see him holding the large rallies that have been his trademark.
+Headline: Why is the Cheesecake Factory at the center of the latest culture war?
+Summary: A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week's midterm elections.
 ---
 Source: NPR Politics
-Headline: Fishing is a key issue in Alaska's tight U.S. Senate race
-Summary: Alaska's U.S. Senate race is embroiled in an emotional fight over fish. Many in the state rely upon salmon to feed their families but those fish and others are increasingly hard to find.
+Headline: Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general
+Summary: Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran.
 ---
 Source: NPR Politics
-Headline: GDP report to give insight before Election Day. And, Israel's election is deadlocked
-Summary: Economists expect the GDP report to show economic growth, but say that growth is "fragile." And, after 90% of the votes in Israel have been counted, no clear winner has emerged.
+Headline: Democrats seek to weaken the Republican lead in state legislatures
+Summary: Republicans control 10 more state legislatures than Democrats. That's where most laws on taxes, abortion, crime and schools are made.
 ---
 Source: NPR Politics
-Headline: State ballots let voters decide on abortion, taxes, transgender restrictions
-Summary: Missouri voters could ban abortion - after they just removed a ban two years ago. California voters could tax billionaires 5% of their wealth.
+Headline: For voters from immigrant families and new citizens, voting is bigger than themselves
+Summary: While many young voters are focused on the cost of living in the election, for some from immigrant families, the political calculation — and their votes — is often about even more than the economy.
 ---
 Source: NPR Politics
-Headline: These are the House races to watch in the 2026 midterm election on Nov. 3
-Summary: An NPR analysis finds 70 House districts where Democrats and Republicans are each investing more than six figures in advertising during the final few days of the election, including in deep red areas.
+Headline: Here are the Senate races to watch ahead of Election Day
+Summary: The competitive map for control of the U.S. Senate has expanded considerably in the final days before Election Day. Here's a ranking of those competitive races from most likely to flip to least likely.
 ---
 Source: NPR Politics
-Headline: Support for Trump among white evangelicals has plummeted, polls reveal
-Summary: Three new polls suggest that President Trump is losing ground among white evangelicals. What explains this drop — and will it affect the midterm elections?
----
-Source: NPR Politics
-Headline: Hackers expose the identities of more than 40,000 DHS employees
-Summary: A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government's lack of transparency.
+Headline: 'Affordability? For who?' Voters decide between helping homeowners or public services
+Summary: Candidates across the U.S. have paid lip service to affordability issues. In Florida, the question of how to save voters money, and at what cost, is literally on the ballot.
 ---
