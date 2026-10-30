@@ -11,7 +11,11 @@ Headline: Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine c
 Summary: Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.
 ---
 Source: BBC World
-Headline: Prominent Russian newspaper shuts down under pressure from authorities
+Headline: Police deployed during stand-off over control of Poland's top court
+Summary: It comes after the government suspended two senior justices and moved to bring criminal charges against them.
+---
+Source: BBC World
+Headline: They strangled us, says founder of Russian newspaper shut under pressure from authorities
 Summary: Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.
 ---
 Source: BBC World
@@ -21,10 +25,6 @@ Summary: Óscar Puente has been facing calls to resign after two high-speed trai
 Source: BBC World
 Headline: Pope Leo XIV becomes first pontiff to vote in a US election
 Summary: The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.
----
-Source: BBC World
-Headline: US tech stocks see sharp falls as AI spending nears $1tn
-Summary: Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.
 ---
 Source: NPR World
 Headline: Blockchain intelligence firms link North Korea to $6.3B hack on Binance
@@ -55,6 +55,10 @@ Headline: Greetings from Baghdad, where Agatha Christie's old home presents its 
 Summary: The English writer visited Iraq multiple times in the first half of the 20th century and set some of her mystery novels there. The house in Baghdad where she once lived now sits abandoned and crumbling.
 ---
 Source: NPR Politics
+Headline: Alaska voters react to allegations of a spoiler in the U.S. Senate race
+Summary: Alaska voters react to allegations that Democrats recruited  a spoiler in the U.S. Senate race there. But some say Republican groups promote spoilers too.
+---
+Source: NPR Politics
 Headline: NPR special: 5 takeaways from a year of listening to swing voters
 Summary: Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024.
 ---
@@ -67,16 +71,12 @@ Headline: Alaska's Senate race faces claims of spoiler candidate. And, Hegseth o
 Summary: Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran.
 ---
 Source: NPR Politics
-Headline: Democrats seek to weaken the Republican lead in state legislatures
-Summary: Republicans control 10 more state legislatures than Democrats. That's where most laws on taxes, abortion, crime and schools are made.
+Headline: 2026 midterm election voter guides: Find local resources in your community
+Summary: NPR member stations are gathering information for voters — from voter guides down to local races. Scroll through to find your state and the resources available from your local member station.
 ---
 Source: NPR Politics
-Headline: For voters from immigrant families and new citizens, voting is bigger than themselves
-Summary: While many young voters are focused on the cost of living in the election, for some from immigrant families, the political calculation — and their votes — is often about even more than the economy.
----
-Source: NPR Politics
-Headline: Here are the Senate races to watch ahead of Election Day
-Summary: The competitive map for control of the U.S. Senate has expanded considerably in the final days before Election Day. Here's a ranking of those competitive races from most likely to flip to least likely.
+Headline: Websites pretending to be local news are boosting Democratic candidates
+Summary: The websites of unknown origin are targeting key U.S. House races. They are getting picked up by ChatGPT's responses but Google's products avoid promoting them.
 ---
 Source: NPR Politics
 Headline: 'Affordability? For who?' Voters decide between helping homeowners or public services
