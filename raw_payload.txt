@@ -1,30 +1,38 @@
 Source: BBC World
-Headline: Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
-Summary: The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.
+Headline: Ukrainian evacuees reunite with family after years trapped in Russia-occupied city
+Summary: Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.
 ---
 Source: BBC World
-Headline: US inmate Christa Pike says she woke up 'confused and in pain' after failed execution
-Summary: It is Pike's first public statement since she survived an execution attempt by lethal injection in September.
+Headline: Crypto firm Binance covers 90% of losses after $6.3bn hack
+Summary: Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.
 ---
 Source: BBC World
-Headline: Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire
-Summary: Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.
+Headline: More than 5,000 die from Ebola in DR Congo's deadliest outbreak
+Summary: Government data shows that more than 10,000 people have contracted the rare virus.
 ---
 Source: BBC World
-Headline: Police deployed during stand-off over control of Poland's top court
-Summary: It comes after the government suspended two senior justices and moved to bring criminal charges against them.
+Headline: Police deployed during stand-off over control of top Poland court
+Summary: The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.
 ---
 Source: BBC World
-Headline: They strangled us, says founder of Russian newspaper shut under pressure from authorities
-Summary: Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.
+Headline: Ethiopian PM puts ministers through military training
+Summary: The prime minister has previously emphasised military preparedness as central to his government's ambitions.
 ---
 Source: BBC World
-Headline: Spain transport minister says he won't resign over high-speed rail disaster
-Summary: Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.
+Headline: Spain train disaster clouds Sánchez chances of re-election
+Summary: The Spanish PM is hit by a succession of crises just weeks before a snap general election.
 ---
 Source: BBC World
-Headline: Pope Leo XIV becomes first pontiff to vote in a US election
-Summary: The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.
+Headline: Global nature talks reach deal but money remains an issue
+Summary: Countries have been trying to get a global agreement to halt nature decline back on track.
+---
+Source: NPR World
+Headline: Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing
+Summary: The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.
+---
+Source: NPR World
+Headline: Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!
+Summary: The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground.
 ---
 Source: NPR World
 Headline: Blockchain intelligence firms link North Korea to $6.3B hack on Binance
@@ -46,39 +54,31 @@ Source: NPR World
 Headline: US and Japan agree to establish a Japanese facility for joint missile production
 Summary: The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.
 ---
-Source: NPR World
-Headline: China elevates a military general to the Politburo and seeks to strengthen party discipline
-Summary: This move comes about a year before President Xi Jinping is expected to secure his fourth five-year term.
----
-Source: NPR World
-Headline: Greetings from Baghdad, where Agatha Christie's old home presents its own mystery
-Summary: The English writer visited Iraq multiple times in the first half of the 20th century and set some of her mystery novels there. The house in Baghdad where she once lived now sits abandoned and crumbling.
+Source: NPR Politics
+Headline: Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate
+Summary: The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race.
 ---
 Source: NPR Politics
-Headline: Alaska voters react to allegations of a spoiler in the U.S. Senate race
-Summary: Alaska voters react to allegations that Democrats recruited  a spoiler in the U.S. Senate race there. But some say Republican groups promote spoilers too.
+Headline: The Healthcare Election: Florida
+Summary: When federal subsidies for Affordable Care Act health insurance expired last year, Florida was hit particularly hard. Now, as the election and open enrollment coincide, healthcare is a major issue.
+---
+Source: NPR Politics
+Headline: Politics, norms and the DOJ's unprecedented pre-election headlines
+Summary: The Justice Department, contrary to past norms, has stayed in the headlines in the run-up to the midterm election.
+---
+Source: NPR Politics
+Headline: Week in Politics: Trump's Midwest pivot; sharper Democratic messaging
+Summary: The president heads to the midwest for two rallies he previously said were cancelled. Has his message changed this campaign season and how have Democrats sharpened their messaging?
+---
+Source: NPR Politics
+Headline: Can I trust the polls? And other questions from listeners about the 2026 midterms
+Summary: Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress.
+---
+Source: NPR Politics
+Headline: Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case
+Summary: A federal judge is opening an formal inquiry into Trump officials' conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course.
 ---
 Source: NPR Politics
 Headline: NPR special: 5 takeaways from a year of listening to swing voters
 Summary: Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024.
----
-Source: NPR Politics
-Headline: Why is the Cheesecake Factory at the center of the latest culture war?
-Summary: A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week's midterm elections.
----
-Source: NPR Politics
-Headline: Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general
-Summary: Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran.
----
-Source: NPR Politics
-Headline: 2026 midterm election voter guides: Find local resources in your community
-Summary: NPR member stations are gathering information for voters — from voter guides down to local races. Scroll through to find your state and the resources available from your local member station.
----
-Source: NPR Politics
-Headline: Websites pretending to be local news are boosting Democratic candidates
-Summary: The websites of unknown origin are targeting key U.S. House races. They are getting picked up by ChatGPT's responses but Google's products avoid promoting them.
----
-Source: NPR Politics
-Headline: 'Affordability? For who?' Voters decide between helping homeowners or public services
-Summary: Candidates across the U.S. have paid lip service to affordability issues. In Florida, the question of how to save voters money, and at what cost, is literally on the ballot.
 ---

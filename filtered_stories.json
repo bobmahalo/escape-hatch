@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Binance reports $6.3 billion cyberattack",
-    "event": "Cryptocurrency exchange Binance experienced a cyberattack resulting in the loss of approximately $6.3 billion, attributed by blockchain intelligence firms to North Korea.",
-    "context": "State-aligned cyber entities have systematically targeted digital asset platforms to bypass international financial sanctions and generate revenue.",
-    "scope": "The breach impacts Binance account holders globally and affects liquidity across digital asset markets."
+    "headline": "North Korea Linked To Crypto Hack",
+    "event": "Analytics firms linked a $6.3 billion cyber theft targeting cryptocurrency exchange Binance to a North Korean state-backed group.",
+    "context": "The incident represents one of the largest recorded digital asset thefts, with Binance moving to cover 90 percent of user losses.",
+    "scope": "The breach affects global users of the exchange and international regulatory bodies monitoring state-sponsored cyber operations."
   },
   {
-    "headline": "US and Japan establish missile facility",
-    "event": "The United States and Japan agreed to build a joint missile production facility located on Japanese territory.",
-    "context": "The bilateral defense decision follows increased military activity and strategic competition involving China in the Indo-Pacific region.",
-    "scope": "The facility directly affects defense supply chains and military readiness for American and Japanese armed forces."
+    "headline": "Ebola Outbreak Kills Over 5,000",
+    "event": "Democratic Republic of Congo government data reports over 5,000 deaths from the country's ongoing Ebola outbreak.",
+    "context": "More than 10,000 individuals have contracted the virus in the nation's highest reported mortality event for this pathogen.",
+    "scope": "The health crisis directly affects residents of the Democratic Republic of Congo and regional healthcare organizations."
   },
   {
-    "headline": "Israeli general election ends in deadlock",
-    "event": "Israel's national election concluded with neither political bloc securing the parliamentary majority required to form a government.",
-    "context": "The outcome follows years of parliamentary instability and repeated legislative elections driven by deep political division.",
-    "scope": "The legislative deadlock affects governance and domestic policy execution for the entire population of Israel."
+    "headline": "US Japan Establish Joint Missile Facility",
+    "event": "The United States and Japan agreed to construct a joint missile production facility located in Japan.",
+    "context": "The security agreement follows increasing military assertiveness by China in the Asia-Pacific region.",
+    "scope": "The bilateral initiative directly impacts US and Japanese defense production capabilities and regional military posture."
   },
   {
-    "headline": "China promotes military general to Politburo",
-    "event": "The Chinese Communist Party elevated a military general to its decision-making Politburo body.",
-    "context": "The promotion occurs ahead of the expected confirmation of President Xi Jinping for a fourth consecutive term as party leader.",
-    "scope": "The appointment impacts internal party hierarchy, governance oversight, and military leadership across China."
+    "headline": "Police Deployed In Polish Court Standoff",
+    "event": "Polish authorities deployed police to the nation's top court amid a dispute over control of the judiciary.",
+    "context": "The deployment followed government actions to suspend two senior justices and pursue criminal charges against them.",
+    "scope": "The conflict affects the Polish judicial branch, state legal institutions, and European constitutional standards."
   },
   {
-    "headline": "Spanish high-speed train collision kills 69",
-    "event": "A collision between two high-speed passenger trains in Spain resulted in the deaths of at least 69 people.",
-    "context": "The disaster has raised public safety concerns regarding national rail automation, signal systems, and infrastructure maintenance.",
-    "scope": "The collision directly affects the victims' families, rail passengers, and regional high-speed transit operations in Spain."
+    "headline": "Global Deal Reached On Biodiversity Decline",
+    "event": "International negotiators established a global accord intended to halt environmental and biodiversity decline.",
+    "context": "Negotiations had stalled over resolving international funding allocations necessary to execute conservation targets.",
+    "scope": "The accord applies to signatory governments, international conservation authorities, and global environmental management frameworks."
   }
 ]
