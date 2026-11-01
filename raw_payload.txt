@@ -1,6 +1,6 @@
 Source: BBC World
-Headline: Shops looted as German cost-of-living protests turn violent
-Summary: The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.
+Headline: Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end
+Summary: A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.
 ---
 Source: BBC World
 Headline: Israeli strikes in Gaza kill eight including child, hospitals say
@@ -9,6 +9,10 @@ Summary: Five officers from the Hamas-run police have been killed in Khan Younis
 Source: BBC World
 Headline: University of Cambridge scientist among those who died in Spanish train crash
 Summary: Marta Shahbazi was an "inspiring, talented and passionate scientist", says the laboratory where she worked.
+---
+Source: BBC World
+Headline: Shops looted as German cost-of-living protests turn violent
+Summary: The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.
 ---
 Source: BBC World
 Headline: Armed police start patrols in Sydney after Bondi Beach attack
@@ -21,10 +25,6 @@ Summary: Haley Stevens, who lost out on the Democratic Senate nomination to Abdu
 Source: BBC World
 Headline: India's opposition holds mega rally seeking election chief's resignation
 Summary: Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.
----
-Source: BBC World
-Headline: Crypto firm Binance covers 90% of losses after $6.3bn hack
-Summary: The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.
 ---
 Source: NPR World
 Headline: They signed up for a lifetime at sea on an endless cruise. High gas prices intervened
