@@ -1,33 +1,49 @@
 Source: BBC World
-Headline: Ukrainian evacuees reunite with family after years trapped in Russia-occupied city
-Summary: Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.
+Headline: Shops looted as German cost-of-living protests turn violent
+Summary: The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.
+---
+Source: BBC World
+Headline: Israeli strikes in Gaza kill eight including child, hospitals say
+Summary: Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.
+---
+Source: BBC World
+Headline: University of Cambridge scientist among those who died in Spanish train crash
+Summary: Marta Shahbazi was an "inspiring, talented and passionate scientist", says the laboratory where she worked.
+---
+Source: BBC World
+Headline: Armed police start patrols in Sydney after Bondi Beach attack
+Summary: The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.
+---
+Source: BBC World
+Headline: Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates
+Summary: Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.
+---
+Source: BBC World
+Headline: India's opposition holds mega rally seeking election chief's resignation
+Summary: Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.
 ---
 Source: BBC World
 Headline: Crypto firm Binance covers 90% of losses after $6.3bn hack
-Summary: Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.
----
-Source: BBC World
-Headline: More than 5,000 die from Ebola in DR Congo's deadliest outbreak
-Summary: Government data shows that more than 10,000 people have contracted the rare virus.
----
-Source: BBC World
-Headline: Police deployed during stand-off over control of top Poland court
-Summary: The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.
----
-Source: BBC World
-Headline: Ethiopian PM puts ministers through military training
-Summary: The prime minister has previously emphasised military preparedness as central to his government's ambitions.
----
-Source: BBC World
-Headline: Spain train disaster clouds Sánchez chances of re-election
-Summary: The Spanish PM is hit by a succession of crises just weeks before a snap general election.
----
-Source: BBC World
-Headline: Global nature talks reach deal but money remains an issue
-Summary: Countries have been trying to get a global agreement to halt nature decline back on track.
+Summary: The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.
 ---
 Source: NPR World
-Headline: Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing
+Headline: They signed up for a lifetime at sea on an endless cruise. High gas prices intervened
+Summary: A cruise ship suspended operations suddenly, citing soaring fuel costs. Passengers, including Randy Cassingham, had to disembark in Cambodia. NPR's Ayesha Rascoe talks to Cassingham about the ordeal.
+---
+Source: NPR World
+Headline: Secretary Rubio has a tough time getting officials at G20 on the same page
+Summary: U.S. Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.
+---
+Source: NPR World
+Headline: A new political era in the Southern Philippines
+Summary: A new local government has taken its seat in the southern Philippines, in a step that marks a milestone in the peace process  for a conflict that has lasted some 80 years.
+---
+Source: NPR World
+Headline: France seethes again as youth-led protests sweep Europe
+Summary: French Interior Minister Laurent Nuñez warned of a "very high risk" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.
+---
+Source: NPR World
+Headline: Key takeaways from this week's political meeting in Beijing
 Summary: The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.
 ---
 Source: NPR World
@@ -38,47 +54,31 @@ Source: NPR World
 Headline: Blockchain intelligence firms link North Korea to $6.3B hack on Binance
 Summary: The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.
 ---
-Source: NPR World
-Headline: Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general
-Summary: Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran.
----
-Source: NPR World
-Headline: Israel is in a political deadlock. What comes next?
-Summary: Israel's consequential election has ended in a deadlock, with neither side able to claim a majority, What happens now?
----
-Source: NPR World
-Headline: What killed 500-plus penguins? How scientists solved the mystery
-Summary: The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found.
----
-Source: NPR World
-Headline: US and Japan agree to establish a Japanese facility for joint missile production
-Summary: The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.
+Source: NPR Politics
+Headline: Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed
+Summary: Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers.
 ---
 Source: NPR Politics
-Headline: Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate
-Summary: The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race.
+Headline: Connecticut Senator Chris Murphy is hospitalized with a stroke
+Summary: Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.
 ---
 Source: NPR Politics
-Headline: The Healthcare Election: Florida
-Summary: When federal subsidies for Affordable Care Act health insurance expired last year, Florida was hit particularly hard. Now, as the election and open enrollment coincide, healthcare is a major issue.
+Headline: How to think about the midterms — and the political moment the country is in
+Summary: Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in.
 ---
 Source: NPR Politics
-Headline: Politics, norms and the DOJ's unprecedented pre-election headlines
-Summary: The Justice Department, contrary to past norms, has stayed in the headlines in the run-up to the midterm election.
+Headline: Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses
+Summary: A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.
 ---
 Source: NPR Politics
-Headline: Week in Politics: Trump's Midwest pivot; sharper Democratic messaging
-Summary: The president heads to the midwest for two rallies he previously said were cancelled. Has his message changed this campaign season and how have Democrats sharpened their messaging?
+Headline: The midterms will test the nation's political direction and confidence
+Summary: At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come.
 ---
 Source: NPR Politics
-Headline: Can I trust the polls? And other questions from listeners about the 2026 midterms
-Summary: Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress.
+Headline: Politics chat: Data centers are on everyone's minds going into Election Day
+Summary: With days until Election Day, polls show momentum for Democratic candidates and bipartisan distaste for data centers.
 ---
 Source: NPR Politics
-Headline: Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case
-Summary: A federal judge is opening an formal inquiry into Trump officials' conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course.
----
-Source: NPR Politics
-Headline: NPR special: 5 takeaways from a year of listening to swing voters
-Summary: Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024.
+Headline: What NPR's senior political correspondent is watching for on Election Night
+Summary: An NPR senior political editor/correspondent tells us what he will be looking out for as results roll in on Election Day.
 ---
