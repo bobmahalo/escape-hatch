@@ -1,30 +1,50 @@
 Source: BBC World
-Headline: Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
-Summary: A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.
+Headline: Russian bombing kills 26 people at Ukraine aid centre, Kyiv says
+Summary: Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an "utterly horrific" attack.
 ---
 Source: BBC World
-Headline: Israeli strikes in Gaza kill eight including child, hospitals say
-Summary: Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.
+Headline: Copilot in deadly Florida jet crash identified in reports as 20-year-old
+Summary: In air traffic audio, a crew member can be heard shouting: "We are going to crash into the ground!"
 ---
 Source: BBC World
-Headline: University of Cambridge scientist among those who died in Spanish train crash
-Summary: Marta Shahbazi was an "inspiring, talented and passionate scientist", says the laboratory where she worked.
+Headline: Shop freezers in seven European countries hit by cyber-attack
+Summary: The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.
 ---
 Source: BBC World
-Headline: Shops looted as German cost-of-living protests turn violent
-Summary: The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.
+Headline: Fighting returns to Kherson region after longest Ukraine war ceasefire
+Summary: Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.
 ---
 Source: BBC World
-Headline: Armed police start patrols in Sydney after Bondi Beach attack
-Summary: The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.
+Headline: Legal challenge to Australia's social media ban to start in High Court
+Summary: A rights group will argue the world-leading policy robs under-16s of their right to free communication.
 ---
 Source: BBC World
-Headline: Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates
-Summary: Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.
+Headline: Man guilty of stealing cash from farm owned by South African president
+Summary: The case, part of the "Farmgate" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.
 ---
 Source: BBC World
-Headline: India's opposition holds mega rally seeking election chief's resignation
-Summary: Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.
+Headline: Dutch police offer record €2m reward in hunt for drug lord
+Summary: Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.
+---
+Source: NPR World
+Headline: Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran
+Summary: Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.
+---
+Source: NPR World
+Headline: Hundreds evacuate city during temporary ceasefire between Russia and Ukraine
+Summary: The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.
+---
+Source: NPR World
+Headline: UN's peacekeeping mission in disputed Western Sahara ends after 35 years
+Summary: The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front.
+---
+Source: NPR World
+Headline: This legendary board game could take decades to complete
+Summary: Andy Taeger & James Purcell are trying to become the first people ever complete the board game Campaign for North Africa. The is so complex it could take decades to finish.
+---
+Source: NPR World
+Headline: Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks
+Summary: Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.
 ---
 Source: NPR World
 Headline: They signed up for a lifetime at sea on an endless cruise. High gas prices intervened
@@ -34,51 +54,31 @@ Source: NPR World
 Headline: Secretary Rubio has a tough time getting officials at G20 on the same page
 Summary: U.S. Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.
 ---
-Source: NPR World
-Headline: A new political era in the Southern Philippines
-Summary: A new local government has taken its seat in the southern Philippines, in a step that marks a milestone in the peace process  for a conflict that has lasted some 80 years.
----
-Source: NPR World
-Headline: France seethes again as youth-led protests sweep Europe
-Summary: French Interior Minister Laurent Nuñez warned of a "very high risk" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.
----
-Source: NPR World
-Headline: Key takeaways from this week's political meeting in Beijing
-Summary: The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.
----
-Source: NPR World
-Headline: Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!
-Summary: The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground.
----
-Source: NPR World
-Headline: Blockchain intelligence firms link North Korea to $6.3B hack on Binance
-Summary: The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.
+Source: NPR Politics
+Headline: AI chatbots are becoming political advisers. Their answers can mislead voters
+Summary: Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.
 ---
 Source: NPR Politics
-Headline: Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed
-Summary: Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers.
+Headline: Is America really that polarized? The answer might be a surprise
+Summary: The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.
 ---
 Source: NPR Politics
-Headline: Connecticut Senator Chris Murphy is hospitalized with a stroke
-Summary: Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.
+Headline: Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials
+Summary: The judge said he was "deeply troubled" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.
 ---
 Source: NPR Politics
-Headline: How to think about the midterms — and the political moment the country is in
-Summary: Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in.
+Headline: The Supreme Court rejects a DOJ push to separate California ballots
+Summary: The U.S. Supreme Court has denied a last-minute request from the Department of Justice to wade into its unprecedented feud with California over the state's voter rolls.
 ---
 Source: NPR Politics
-Headline: Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses
-Summary: A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.
+Headline: Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran
+Summary: Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.
 ---
 Source: NPR Politics
-Headline: The midterms will test the nation's political direction and confidence
-Summary: At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come.
+Headline: Two economists studied California's billionaire tax. They reached wildly different conclusions
+Summary: What happens in California could shape how America taxes the superrich. But will its billionaire tax fill state coffers — or drain them?
 ---
 Source: NPR Politics
-Headline: Politics chat: Data centers are on everyone's minds going into Election Day
-Summary: With days until Election Day, polls show momentum for Democratic candidates and bipartisan distaste for data centers.
----
-Source: NPR Politics
-Headline: What NPR's senior political correspondent is watching for on Election Night
-Summary: An NPR senior political editor/correspondent tells us what he will be looking out for as results roll in on Election Day.
+Headline: When it comes to election pressure, this year's Georgia or Michigan could be anywhere
+Summary: The districts that will decide control of the House and Senate next year are spread across the country. Voting officials in those places may face scrutiny and pressure they've never experienced.
 ---
