@@ -1,30 +1,46 @@
 Source: BBC World
-Headline: Russian bombing kills 26 people at Ukraine aid centre, Kyiv says
-Summary: Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an "utterly horrific" attack.
+Headline: Spanish transport minister resigns days after deadly train crash
+Summary: At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.
 ---
 Source: BBC World
-Headline: Copilot in deadly Florida jet crash identified in reports as 20-year-old
-Summary: In air traffic audio, a crew member can be heard shouting: "We are going to crash into the ground!"
+Headline: Seven flights across Europe targeted by suspected bomb threats
+Summary: Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.
 ---
 Source: BBC World
-Headline: Shop freezers in seven European countries hit by cyber-attack
-Summary: The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.
+Headline: Binance says fake job interviews used as part of $6.3bn crypto hack
+Summary: An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.
 ---
 Source: BBC World
-Headline: Fighting returns to Kherson region after longest Ukraine war ceasefire
-Summary: Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.
+Headline: Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
+Summary: At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.
 ---
 Source: BBC World
-Headline: Legal challenge to Australia's social media ban to start in High Court
-Summary: A rights group will argue the world-leading policy robs under-16s of their right to free communication.
+Headline: Libya's top religious authority rules against wearing Nike clothes
+Summary: The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.
 ---
 Source: BBC World
-Headline: Man guilty of stealing cash from farm owned by South African president
-Summary: The case, part of the "Farmgate" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.
+Headline: Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries
+Summary: Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.
 ---
 Source: BBC World
-Headline: Dutch police offer record €2m reward in hunt for drug lord
-Summary: Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.
+Headline: US strikes Iranian island ahead of midterm elections
+Summary: US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.
+---
+Source: NPR World
+Headline: For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life
+Summary: In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. "The city seems alive," said one resident, "just like it used to be."
+---
+Source: NPR World
+Headline: Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia
+Summary: he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.
+---
+Source: NPR World
+Headline: Control of Congress is at stake today. And, judge to consider motion in Clancy case
+Summary: Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.
+---
+Source: NPR World
+Headline: Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
+Summary: Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.
 ---
 Source: NPR World
 Headline: Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran
@@ -38,47 +54,31 @@ Source: NPR World
 Headline: UN's peacekeeping mission in disputed Western Sahara ends after 35 years
 Summary: The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front.
 ---
-Source: NPR World
-Headline: This legendary board game could take decades to complete
-Summary: Andy Taeger & James Purcell are trying to become the first people ever complete the board game Campaign for North Africa. The is so complex it could take decades to finish.
----
-Source: NPR World
-Headline: Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks
-Summary: Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.
----
-Source: NPR World
-Headline: They signed up for a lifetime at sea on an endless cruise. High gas prices intervened
-Summary: A cruise ship suspended operations suddenly, citing soaring fuel costs. Passengers, including Randy Cassingham, had to disembark in Cambodia. NPR's Ayesha Rascoe talks to Cassingham about the ordeal.
----
-Source: NPR World
-Headline: Secretary Rubio has a tough time getting officials at G20 on the same page
-Summary: U.S. Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.
+Source: NPR Politics
+Headline: Republican Rep. Don Bacon on what a potential blue wave could mean for the GOP
+Summary: NPR's Ailsa Chang talks with Republican Congressman Don Bacon of Nebraska about what a Blue Wave would mean for Republicans.
 ---
 Source: NPR Politics
-Headline: Trump offered a closing message to voters by touting his D.C. renovations
-Summary: In Washington, President Trump delivered his last expected public address, pushing a weaving message to the public about why they should support Republicans.
+Headline: Control of Congress is at stake today. And, judge to consider motion in Clancy case
+Summary: Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.
 ---
 Source: NPR Politics
-Headline: AI chatbots are becoming political advisers. Their answers can mislead voters
-Summary: Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.
+Headline: Four types of House races to watch on election night to know how it might go
+Summary: As polls close on Election Day and results start rolling in, these are some of the House races that will help explain how the midterms are unfolding.
 ---
 Source: NPR Politics
-Headline: Is America really that polarized? The answer might be a surprise
-Summary: The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.
+Headline: How NPR makes race calls in the 2026 election
+Summary: Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls. Here's how we do it.
 ---
 Source: NPR Politics
-Headline: Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials
-Summary: The judge said he was "deeply troubled" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.
+Headline: From 'model minority' to target, anti-Indian hate on the rise
+Summary: A massacre allegedly targeting Hindu Americans was recently thwarted, but researchers say it helps to illustrate a growing and increasingly mainstream hate directed at South Asians in the U.S.
 ---
 Source: NPR Politics
-Headline: The Supreme Court rejects a DOJ push to separate California ballots
-Summary: The U.S. Supreme Court has denied a last-minute request from the Department of Justice to wade into its unprecedented feud with California over the state's voter rolls.
+Headline: A new cold war: hackers target fridges across the globe
+Summary: NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.
 ---
 Source: NPR Politics
-Headline: Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran
-Summary: Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.
----
-Source: NPR Politics
-Headline: Two economists studied California's billionaire tax. They reached wildly different conclusions
-Summary: What happens in California could shape how America taxes the superrich. But will its billionaire tax fill state coffers — or drain them?
+Headline: 'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day
+Summary: One last check in with the Swing Shift voters before Election Day. All of them voted for President Trump. Now, they're rating his presidency and deciding who to support when he's not on the ballot.
 ---
