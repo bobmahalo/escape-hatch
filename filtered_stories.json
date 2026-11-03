@@ -1,32 +1,32 @@
 [
   {
-    "headline": "United States Strikes Iranian Island",
-    "event": "The United States military executed airstrikes against targets on Qeshm Island in Iran.",
-    "context": "The action follows escalating military readiness among Persian Gulf states anticipating potential armed conflict.",
-    "scope": "Military personnel, regional populations in the Persian Gulf, and commercial maritime operations in the region are directly affected."
+    "headline": "US Strikes Iranian Military Targets",
+    "event": "The United States military executed targeted strikes against Qeshm Island in Iran.",
+    "context": "The operation follows escalating military posture and international warnings regarding security in the Persian Gulf.",
+    "scope": "Persian Gulf military personnel, regional civil aviation, and commercial maritime traffic are directly impacted."
   },
   {
-    "headline": "Cyberattacks Disrupt European Refrigeration Infrastructure",
-    "event": "Cyberattacks targeted operational systems controlling supermarket freezers in ten European countries, causing food spoilage.",
-    "context": "Industrial control devices linked to digital networks have increasingly become targets for remote security breaches.",
-    "scope": "Supermarket chains, retail workers, and food consumers across ten European nations are directly impacted."
+    "headline": "Russian Missile Barrage Hits Ukraine",
+    "event": "Russian forces launched a barrage of over 300 drones and missiles targeting infrastructure across nine Ukrainian regions, killing at least 38 people.",
+    "context": "The attack represents a continuation of armed hostilities following the 2022 Russian invasion of Ukraine.",
+    "scope": "Civilian populations, hospital patients, and local energy infrastructure across nine Ukrainian regions are directly affected."
   },
   {
-    "headline": "Russian Strikes Target Ukrainian Infrastructure",
-    "event": "Russian military forces launched missiles and drones targeting municipal facilities and medical centers in Ukraine, resulting in at least 38 fatalities.",
-    "context": "The offensive is part of the ongoing armed conflict initiated by Russia's full-scale invasion of Ukraine in 2022.",
-    "scope": "Civilian populations in nine Ukrainian regions experience loss of life, infrastructure damage, and emergency disruptions."
+    "headline": "Cyberattacks Disrupt European Food Supply",
+    "event": "Cyberattacks targeted digital control systems for industrial supermarket freezers across ten European countries, forcing mass food disposal.",
+    "context": "Vulnerabilities in connected operational technology have increasingly exposed critical retail and cold-chain infrastructure to remote network intrusions.",
+    "scope": "Supermarket chains, agricultural supply distributors, and food consumers in ten European nations are directly affected."
   },
   {
-    "headline": "United States Conducts Midterm Elections",
-    "event": "Voters in the United States are casting ballots to select representatives and determine party control of Congress.",
-    "context": "Federal elections occur biennially to determine the composition of the Senate and the House of Representatives.",
-    "scope": "The American electorate and institutions governed by federal policy are directly affected by the outcome."
+    "headline": "UN Concludes Western Sahara Mission",
+    "event": "The United Nations peacekeeping mission in Western Sahara officially ceased all operations after 35 years of deployment.",
+    "context": "The territory has remained contested between Morocco and the pro-independence Polisario Front since Spanish colonial forces withdrew in 1975.",
+    "scope": "The local population of Western Sahara, Moroccan administrative personnel, and regional diplomatic bodies are directly affected."
   },
   {
-    "headline": "United Nations Concludes Western Sahara Mission",
-    "event": "The United Nations officially ceased its peacekeeping mission in Western Sahara after 35 years of operation.",
-    "context": "Territorial governance of Western Sahara has been disputed between Morocco and the Polisario Front following Spain's withdrawal in 1975.",
-    "scope": "Populations residing within Western Sahara and governmental entities in North Africa are subject to the changed monitoring status."
+    "headline": "Spanish Transport Minister Resigns Post",
+    "event": "Spain's transport minister submitted his resignation following a rail collision near Madrid that resulted in 69 fatalities.",
+    "context": "The resignation follows public and parliamentary scrutiny regarding government oversight of national railway safety and maintenance.",
+    "scope": "The Spanish Ministry of Transport, national rail commuters, and families of the crash victims are directly affected."
   }
 ]
