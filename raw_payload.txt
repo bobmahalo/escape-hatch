@@ -11,8 +11,8 @@ Headline: Binance says fake job interviews used as part of $6.3bn crypto hack
 Summary: An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.
 ---
 Source: BBC World
-Headline: Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
-Summary: At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.
+Headline: NTSB says crucial plane parts found three miles from Florida crash site
+Summary: The NTSB said because the parts were found far from the accident site, they fell off before the crash.
 ---
 Source: BBC World
 Headline: Libya's top religious authority rules against wearing Nike clothes
@@ -23,8 +23,8 @@ Headline: Europe on alert after supermarket freezers hit by cyber-attacks in 10 
 Summary: Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.
 ---
 Source: BBC World
-Headline: US strikes Iranian island ahead of midterm elections
-Summary: US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.
+Headline: Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
+Summary: At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.
 ---
 Source: NPR World
 Headline: For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life
@@ -67,6 +67,10 @@ Headline: Four types of House races to watch on election night to know how it mi
 Summary: As polls close on Election Day and results start rolling in, these are some of the House races that will help explain how the midterms are unfolding.
 ---
 Source: NPR Politics
+Headline: 'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day
+Summary: One last check in with the Swing Shift voters before Election Day. All of them voted for President Trump. Now, they're rating his presidency and deciding who to support when he's not on the ballot.
+---
+Source: NPR Politics
 Headline: How NPR makes race calls in the 2026 election
 Summary: Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls. Here's how we do it.
 ---
@@ -77,8 +81,4 @@ Summary: A massacre allegedly targeting Hindu Americans was recently thwarted, b
 Source: NPR Politics
 Headline: A new cold war: hackers target fridges across the globe
 Summary: NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.
----
-Source: NPR Politics
-Headline: 'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day
-Summary: One last check in with the Swing Shift voters before Election Day. All of them voted for President Trump. Now, they're rating his presidency and deciding who to support when he's not on the ballot.
 ---
