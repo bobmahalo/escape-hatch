@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Russian Airstrike Hits Ukrainian Aid Centre",
-    "event": "A Russian aerial bombardment struck an aid distribution centre in southern Ukraine, resulting in 26 recorded fatalities.",
-    "context": "The attack occurred immediately following the expiration of an unprecedented six-day temporary ceasefire in the region.",
-    "scope": "Directly affects civilian populations and humanitarian distribution networks in southern Ukraine."
+    "headline": "Russian Strike Hits Ukrainian Aid Center",
+    "event": "A Russian aerial bombardment struck an aid distribution center in a southern Ukrainian village, resulting in 26 confirmed fatalities.",
+    "context": "The strike occurred following the conclusion of a six-day ceasefire that temporarily halted active hostilities in the Kherson region.",
+    "scope": "Civilians residing in southern Ukrainian conflict zones and active regional humanitarian logistics operations."
   },
   {
     "headline": "UN Ends Western Sahara Peacekeeping Mission",
-    "event": "The United Nations terminated its 35-year peacekeeping operation in the disputed territory of Western Sahara.",
-    "context": "The territory remains subject to competing sovereignty claims by Morocco and the pro-independence Polisario Front following the end of Spanish colonial administration.",
-    "scope": "Impacts diplomatic relations, regional stability, and residents within the contested Western Sahara area."
+    "event": "The United Nations officially concluded its peacekeeping operations in the disputed territory of Western Sahara after 35 years.",
+    "context": "The region has remained contested between Morocco and the pro-independence Polisario Front since the termination of Spanish colonial rule.",
+    "scope": "The resident population of Western Sahara and diplomatic relations between North African sovereign states."
   },
   {
-    "headline": "Cyber Attack Disrupts European Retail Infrastructure",
-    "event": "A cyber attack targeted commercial freezer systems in retail stores across seven European nations, forcing internal temperatures up to 50 degrees Celsius.",
-    "context": "The incident represents an expansion of digital network targeting directed at civilian commercial infrastructure in Europe.",
-    "scope": "Affects retail store operators, food supply chains, and consumers across seven European countries."
+    "headline": "Cyber Attack Disrupts European Commercial Freezers",
+    "event": "A cyber attack compromised climate control systems in retail stores across seven European nations, raising commercial freezer temperatures to 50 degrees Celsius.",
+    "context": "European commercial logistics and digital enterprise systems face rising vulnerabilities to critical infrastructure cyber intrusion.",
+    "scope": "Grocery store operators, food supply chains, and retail consumers across seven European countries."
   },
   {
-    "headline": "Qatar Mediates US and Iran Tensions",
-    "event": "Qatari officials initiated diplomatic talks with Iranian representatives to avert potential United States military strikes in the region.",
-    "context": "Gulf nations elevated security readiness due to anticipated changes in United States defense posture following midterm elections.",
-    "scope": "Statistically impacts regional security and economic stability for populations across the Persian Gulf."
+    "headline": "High Court Hears Social Media Ban",
+    "event": "A civil rights organization initiated legal proceedings in Australia's High Court to overturn a federal ban on social media access for minors.",
+    "context": "Australia enacted legislation prohibiting individuals under the age of 16 from maintaining social media accounts.",
+    "scope": "Australian residents under 16 years of age and international digital platform corporations operating in Australia."
   },
   {
-    "headline": "High Court Hears Australian Tech Challenge",
-    "event": "The High Court of Australia commenced hearings on a legal challenge against national legislation restricting social media access for individuals under age 16.",
-    "context": "Rights advocacy groups contend that the federal policy unlawfully restricts constitutional protections regarding free communication.",
-    "scope": "Applies to Australian citizens under 16 years of age and multinational digital platform operators."
+    "headline": "Qatar Mediates Iran US Conflict Risk",
+    "event": "Qatari diplomats conducted emergency mediation talks with Iranian officials to prevent potential military strikes by the United States.",
+    "context": "Persian Gulf state governments elevated security measures in response to anticipated changes in United States military posture following midterm elections.",
+    "scope": "Sovereign entities, commercial maritime routes, and populations throughout the Persian Gulf region."
   }
 ]

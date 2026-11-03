@@ -55,6 +55,10 @@ Headline: Secretary Rubio has a tough time getting officials at G20 on the same 
 Summary: U.S. Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.
 ---
 Source: NPR Politics
+Headline: Trump offered a closing message to voters by touting his D.C. renovations
+Summary: In Washington, President Trump delivered his last expected public address, pushing a weaving message to the public about why they should support Republicans.
+---
+Source: NPR Politics
 Headline: AI chatbots are becoming political advisers. Their answers can mislead voters
 Summary: Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.
 ---
@@ -77,8 +81,4 @@ Summary: Democrats in Michigan are considering their options after Haley Stevens
 Source: NPR Politics
 Headline: Two economists studied California's billionaire tax. They reached wildly different conclusions
 Summary: What happens in California could shape how America taxes the superrich. But will its billionaire tax fill state coffers — or drain them?
----
-Source: NPR Politics
-Headline: When it comes to election pressure, this year's Georgia or Michigan could be anywhere
-Summary: The districts that will decide control of the House and Senate next year are spread across the country. Voting officials in those places may face scrutiny and pressure they've never experienced.
 ---
