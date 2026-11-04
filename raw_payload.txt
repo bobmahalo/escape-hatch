@@ -1,30 +1,46 @@
 Source: BBC World
-Headline: Spanish transport minister resigns days after deadly train crash
-Summary: At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.
+Headline: 'This is a disaster': Angry Republicans blame Trump for midterms defeat
+Summary: Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.
 ---
 Source: BBC World
-Headline: Seven flights across Europe targeted by suspected bomb threats
-Summary: Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.
+Headline: US midterm results a 'victory' for Canadians hopeful of tariff relief
+Summary: With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.
 ---
 Source: BBC World
-Headline: Binance says fake job interviews used as part of $6.3bn crypto hack
-Summary: An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.
+Headline: Ukraine says bodycam video shows deadly Russian double-tap bombing
+Summary: At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.
 ---
 Source: BBC World
-Headline: NTSB says crucial plane parts found three miles from Florida crash site
-Summary: The NTSB said because the parts were found far from the accident site, they fell off before the crash.
+Headline: French blood storage impacted by freezer hacks as theories swirl about culprits
+Summary: The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.
 ---
 Source: BBC World
-Headline: Libya's top religious authority rules against wearing Nike clothes
-Summary: The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.
+Headline: 'Most difficult days of my life' for keeper Owono
+Summary: FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.
 ---
 Source: BBC World
-Headline: Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries
-Summary: Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.
+Headline: Israel's president begins consultations with parties after election deadlock
+Summary: Herzog warns politicians that "not every commitment and promise can be fulfilled" if they want to avoid another election.
 ---
 Source: BBC World
-Headline: Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
-Summary: At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.
+Headline: Delhi air quality worsens ahead of Diwali as firework restrictions enter force
+Summary: On Wednesday morning, Delhi's air quality index reading stood at 377, in the "very poor" category.
+---
+Source: NPR World
+Headline: Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales
+Summary: Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.
+---
+Source: NPR World
+Headline: The world is reacting to the Democrats' sweeping midterm elections victory
+Summary: From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats' big win as foreign powers weigh how a flipped Congress will affect international relations.
+---
+Source: NPR World
+Headline: Democrats seize full control of Congress. And, which candidates made history last night
+Summary: Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.
+---
+Source: NPR World
+Headline: Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors
+Summary: As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.
 ---
 Source: NPR World
 Headline: For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life
@@ -38,47 +54,31 @@ Source: NPR World
 Headline: Control of Congress is at stake today. And, judge to consider motion in Clancy case
 Summary: Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.
 ---
-Source: NPR World
-Headline: Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
-Summary: Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.
----
-Source: NPR World
-Headline: Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran
-Summary: Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.
----
-Source: NPR World
-Headline: Hundreds evacuate city during temporary ceasefire between Russia and Ukraine
-Summary: The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.
----
-Source: NPR World
-Headline: UN's peacekeeping mission in disputed Western Sahara ends after 35 years
-Summary: The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front.
+Source: NPR Politics
+Headline: Elon Musk will face scrutiny from Democrats in Washington and Texas after midterms
+Summary: Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts
 ---
 Source: NPR Politics
-Headline: Republican Rep. Don Bacon on what a potential blue wave could mean for the GOP
-Summary: NPR's Ailsa Chang talks with Republican Congressman Don Bacon of Nebraska about what a Blue Wave would mean for Republicans.
+Headline: Democratic leaders reflect on midterm results and what's next for the party
+Summary: Democratic party leaders and political analysts spoke with Morning Edition about the results of the midterm elections, the effects of mid-decade redistricting efforts, and the next steps for the party.
 ---
 Source: NPR Politics
-Headline: Control of Congress is at stake today. And, judge to consider motion in Clancy case
-Summary: Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.
+Headline: It was a big night for doctors to win seats in Congress, riding the blue wave
+Summary: Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains.
 ---
 Source: NPR Politics
-Headline: Four types of House races to watch on election night to know how it might go
-Summary: As polls close on Election Day and results start rolling in, these are some of the House races that will help explain how the midterms are unfolding.
+Headline: Navajo voters hop tractors, make extraordinary efforts to vote after widespread flooding
+Summary: Four weeks of flooding washed out roads and sent thousands fleeing their homes on the Navajo Reservation. But many worked hard to get to polling places and voting day became part of the recovery process.
 ---
 Source: NPR Politics
-Headline: 'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day
-Summary: One last check in with the Swing Shift voters before Election Day. All of them voted for President Trump. Now, they're rating his presidency and deciding who to support when he's not on the ballot.
+Headline: Chuck Schumer heralds Democrats' 'generational remake' of Senate
+Summary: In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver.
 ---
 Source: NPR Politics
-Headline: How NPR makes race calls in the 2026 election
-Summary: Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls. Here's how we do it.
+Headline: Mike Johnson will step aside as top House Republican next Congress
+Summary: After Tuesday's bruising defeat for Republicans, House Speaker Mike Johnson will not stay on as minority leader come January.
 ---
 Source: NPR Politics
-Headline: From 'model minority' to target, anti-Indian hate on the rise
-Summary: A massacre allegedly targeting Hindu Americans was recently thwarted, but researchers say it helps to illustrate a growing and increasingly mainstream hate directed at South Asians in the U.S.
----
-Source: NPR Politics
-Headline: A new cold war: hackers target fridges across the globe
-Summary: NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.
+Headline: Back in the majority, Democrats have plans for a long list of Trump investigations
+Summary: Democrats will have the ability to subpoena records and compel individuals to testify. The Epstein files, Elon Musk, the Iran war and Trump's business interests may all come under the microscope.
 ---
