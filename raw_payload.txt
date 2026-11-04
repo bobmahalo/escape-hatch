@@ -55,30 +55,30 @@ Headline: Control of Congress is at stake today. And, judge to consider motion i
 Summary: Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.
 ---
 Source: NPR Politics
-Headline: Elon Musk will face scrutiny from Democrats in Washington and Texas after midterms
+Headline: Democrats win big in Texas
+Summary: Democrats didn't just win the U.S. Senate and governor races in Texas. They won every statewide contest and will take control of the Texas House, making the state a blue one, at least for now.
+---
+Source: NPR Politics
+Headline: What's the future of the Democratic party in Texas, amid historic midterm wins?
+Summary: NPR's Ailsa Chang talks with former Texas state Sen. Wendy Davis, a Democrat, about Texas flipping blue and what it means for future elections.
+---
+Source: NPR Politics
+Headline: South Carolina winner Annie Andrews talks about her win and the path ahead
+Summary: NPR's Ailsa Chang talks with Democrat Dr. Annie Andrews, who bested Republican candidate Darline Graham, the incumbent and sister of the late Sen. Lindsey Graham.
+---
+Source: NPR Politics
+Headline: Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns
+Summary: Voters in dozens of states considered 146 statewide ballot measures this midterm cycle, on topics spanning LGBTQ rights, wealth taxes, abortion, redistricting, guns and more.
+---
+Source: NPR Politics
+Headline: Rahm Emanuel maps out a vision for what Democrats can achieve after taking Congress
+Summary: NPR's Ailsa Chang talks with former congressman and Obama advisor Rahm Emanuel about what Democrats' strategy should be, now that they'll soon control both houses of Congress.
+---
+Source: NPR Politics
+Headline: Democrats sweeping victories mean big changes for Trump's final two years in office
+Summary: Democrats' wins in the House and Senate mean a new power dynamic is coming to Washington.
+---
+Source: NPR Politics
+Headline: Elon Musk will face scrutiny from Democrats after midterms
 Summary: Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts
----
-Source: NPR Politics
-Headline: Democratic leaders reflect on midterm results and what's next for the party
-Summary: Democratic party leaders and political analysts spoke with Morning Edition about the results of the midterm elections, the effects of mid-decade redistricting efforts, and the next steps for the party.
----
-Source: NPR Politics
-Headline: It was a big night for doctors to win seats in Congress, riding the blue wave
-Summary: Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains.
----
-Source: NPR Politics
-Headline: Navajo voters hop tractors, make extraordinary efforts to vote after widespread flooding
-Summary: Four weeks of flooding washed out roads and sent thousands fleeing their homes on the Navajo Reservation. But many worked hard to get to polling places and voting day became part of the recovery process.
----
-Source: NPR Politics
-Headline: Chuck Schumer heralds Democrats' 'generational remake' of Senate
-Summary: In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver.
----
-Source: NPR Politics
-Headline: Mike Johnson will step aside as top House Republican next Congress
-Summary: After Tuesday's bruising defeat for Republicans, House Speaker Mike Johnson will not stay on as minority leader come January.
----
-Source: NPR Politics
-Headline: Back in the majority, Democrats have plans for a long list of Trump investigations
-Summary: Democrats will have the ability to subpoena records and compel individuals to testify. The Epstein files, Elon Musk, the Iran war and Trump's business interests may all come under the microscope.
 ---
