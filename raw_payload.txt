@@ -23,7 +23,7 @@ Headline: Eight killed in series of shootings in western Turkey
 Summary: Victims are found in several locations in three separate vehicles, according to local reports.
 ---
 Source: BBC World
-Headline: Nvidia and SpaceX lose billions in market value as tech and AI stocks plummet
+Headline: Major tech stocks plunge as US midterms add to fears of AI slowdown
 Summary: The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms
 ---
 Source: NPR World
@@ -39,6 +39,10 @@ Headline: What's next for Democrats after the midterms. And, a look at the outst
 Summary: Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority.
 ---
 Source: NPR World
+Headline: Three ways Democrats could reshape U.S. foreign policy after the midterms
+Summary: On Morning Edition, Pulitzer Prize-winning historian Anne Applebaum breaks down what a Democratic Congress could change about Trump's foreign policy and what remains beyond its power.
+---
+Source: NPR World
 Headline: Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican
 Summary: The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.
 ---
@@ -49,10 +53,6 @@ Summary: Wong was sentenced for his second conviction under a Beijing-imposed na
 Source: NPR World
 Headline: Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales
 Summary: Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.
----
-Source: NPR World
-Headline: The world is reacting to the Democrats' sweeping midterm elections victory
-Summary: From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats' big win as foreign powers weigh how a flipped Congress will affect international relations.
 ---
 Source: NPR Politics
 Headline: Head of Justice Department office on Civil Rights resigns

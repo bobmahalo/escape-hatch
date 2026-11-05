@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Paraguayan President Resigns Following Bank Collapse",
-    "event": "Paraguay's lower house voted to impeach President Santiago Pe\u00f1a minutes after he submitted his resignation following the failure of a government-tied digital bank.",
-    "context": "The political crisis resulted from systemic financial insolvency that froze public savings across the nation.",
-    "scope": "The event directly alters executive leadership in Paraguay and impacts citizens whose financial accounts were frozen."
+    "headline": "Paraguayan President Resigns Amid Impeachment",
+    "event": "Paraguay President Santiago Pe\u00f1a resigned and was subsequently impeached by lawmakers following the failure of a government-linked digital bank.",
+    "context": "The lower house of congress initiated impeachment proceedings after the financial collapse froze savings across the country.",
+    "scope": "The action directly impacts the executive leadership of Paraguay and citizens whose funds were frozen in the collapsed institution."
   },
   {
-    "headline": "Democrats Win Control of US Congress",
-    "event": "The Democratic Party secured a majority in the United States Congress following the midterm election results.",
-    "context": "Congressional majorities dictate legislative agendas, committee oversight authorities, and federal spending approvals in the United States.",
-    "scope": "The legislative shift impacts federal policy implementation affecting 330 million United States residents and international bilateral relations."
+    "headline": "California Commutes 548 Death Sentences",
+    "event": "The Governor of California commuted the sentences of 548 inmates currently on the state's death row.",
+    "context": "California previously maintained the largest death row population of any state in the United States.",
+    "scope": "The decision directly affects 548 convicted individuals on death row and the state judicial corrections system."
   },
   {
-    "headline": "Hong Kong Activist Receives Prison Sentence",
-    "event": "Activists Joshua Wong was sentenced to ten additional years in prison following a conviction under Hong Kong's national security law.",
-    "context": "The national security legislation was enacted by Beijing in 2020 to criminalize acts defined as subversion, secession, or collusion with foreign forces.",
-    "scope": "The judicial decision directly affects the named defendant and establishes legal standards for remaining political dissidents in Hong Kong."
+    "headline": "Joshua Wong Sentenced to Ten Years",
+    "event": "Hong Kong activist Joshua Wong received a ten-year prison sentence following his second conviction under the national security law.",
+    "context": "The sentence was imposed pursuant to national security legislation enacted by Beijing to curtail local political dissent.",
+    "scope": "The ruling impacts Wong, local political activists, and the legal framework governing political speech in Hong Kong."
   },
   {
-    "headline": "California Commutes All State Death Sentences",
-    "event": "The Governor of California commuted the capital punishment sentences of 548 inmates on the state's death row.",
-    "context": "California maintained the largest death row population in the United States despite an executive moratorium halting executions since 2019.",
-    "scope": "The executive order directly alters the legal sentencing status of 548 incarcerated individuals to life imprisonment without parole."
+    "headline": "Democrats Regain Control of US Congress",
+    "event": "The Democratic Party secured a majority in the United States Congress following the midterm elections.",
+    "context": "The shift in legislative power follows campaigns focused on economic costs and executive branch oversight.",
+    "scope": "The election outcome affects legislative operations in the United States and global diplomatic and policy posture."
   },
   {
-    "headline": "Mass Strikes Mobilize Across France",
-    "event": "Labor unions led nationwide strikes and street demonstrations across France, drawing an estimated minimum of 600,000 participants.",
-    "context": "The industrial action was organized to demand wage increases in response to sustained increases in the consumer cost of living.",
-    "scope": "The disruptions directly affect national transport networks, public services, and labor sectors across France."
+    "headline": "Protests and Strikes Disrupt France",
+    "event": "Hundreds of thousands of workers joined nationwide strikes and street demonstrations across France regarding inflation.",
+    "context": "Trade unions organized the coordinated labor action in response to rising national cost-of-living metrics.",
+    "scope": "The disruptions directly affect French public transportation, civil services, and hundreds of thousands of participating workers."
   }
 ]
