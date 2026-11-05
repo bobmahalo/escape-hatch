@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Democrats Win US Midterm Elections",
-    "event": "The Democratic Party secured majorities in both the United States House of Representatives and the Senate during the midterm elections.",
-    "context": "The outcome alters the balance of power in Washington following two years of Republican legislative control.",
-    "scope": "The population of the United States and global trade partners reliant on federal policy decisions are affected by the shift in legislative control."
+    "headline": "Paraguayan President Resigns Following Bank Collapse",
+    "event": "Paraguay's lower house voted to impeach President Santiago Pe\u00f1a minutes after he submitted his resignation following the failure of a government-tied digital bank.",
+    "context": "The political crisis resulted from systemic financial insolvency that froze public savings across the nation.",
+    "scope": "The event directly alters executive leadership in Paraguay and impacts citizens whose financial accounts were frozen."
   },
   {
-    "headline": "Russian Strike Kills 40 in Ukraine",
-    "event": "A Russian military attack on a Ukrainian village resulted in at least 40 confirmed deaths and left approximately 30 people trapped under debris.",
-    "context": "The strike occurred as part of the sustained armed conflict following the full-scale invasion of Ukraine by Russian forces in 2022.",
-    "scope": "Residents of the targeted Ukrainian village and local emergency response personnel are directly affected by the casualties and destruction."
+    "headline": "Democrats Win Control of US Congress",
+    "event": "The Democratic Party secured a majority in the United States Congress following the midterm election results.",
+    "context": "Congressional majorities dictate legislative agendas, committee oversight authorities, and federal spending approvals in the United States.",
+    "scope": "The legislative shift impacts federal policy implementation affecting 330 million United States residents and international bilateral relations."
   },
   {
-    "headline": "Israeli President Begins Coalition Consultations",
-    "event": "President Isaac Herzog initiated formal talks with political parties to address a parliamentary deadlock following inconclusive national election results.",
-    "context": "Israel has experienced recurrent legislative stalemates and short-lived coalition governments over recent electoral cycles.",
-    "scope": "The Israeli electorate and political party leadership are directly involved in and subject to the outcome of these governance negotiations."
+    "headline": "Hong Kong Activist Receives Prison Sentence",
+    "event": "Activists Joshua Wong was sentenced to ten additional years in prison following a conviction under Hong Kong's national security law.",
+    "context": "The national security legislation was enacted by Beijing in 2020 to criminalize acts defined as subversion, secession, or collusion with foreign forces.",
+    "scope": "The judicial decision directly affects the named defendant and establishes legal standards for remaining political dissidents in Hong Kong."
   },
   {
-    "headline": "Cyberattack Compromises French Blood Storage",
-    "event": "Unidentified hackers breached the infrastructure of the French Blood Establishment, disrupting temperature control systems in blood storage facilities.",
-    "context": "The incident follows a pattern of increasing digital target selection against critical healthcare infrastructure across Europe.",
-    "scope": "Medical facilities and patients relying on the French national blood supply system are directly impacted by the operational compromise."
+    "headline": "California Commutes All State Death Sentences",
+    "event": "The Governor of California commuted the capital punishment sentences of 548 inmates on the state's death row.",
+    "context": "California maintained the largest death row population in the United States despite an executive moratorium halting executions since 2019.",
+    "scope": "The executive order directly alters the legal sentencing status of 548 incarcerated individuals to life imprisonment without parole."
   },
   {
-    "headline": "Indian Navy Rescues Hijacked Vessel Crew",
-    "event": "Indian naval forces intercepted a hijacked Iranian fishing vessel off the coast of Somalia and rescued all 20 crew members.",
-    "context": "The operation follows a recent increase in armed piracy incidents across the Gulf of Aden and the western Indian Ocean.",
-    "scope": "The 20 rescued crew members and commercial maritime transport vessels operating along the East African shipping corridor are directly affected."
+    "headline": "Mass Strikes Mobilize Across France",
+    "event": "Labor unions led nationwide strikes and street demonstrations across France, drawing an estimated minimum of 600,000 participants.",
+    "context": "The industrial action was organized to demand wage increases in response to sustained increases in the consumer cost of living.",
+    "scope": "The disruptions directly affect national transport networks, public services, and labor sectors across France."
   }
 ]

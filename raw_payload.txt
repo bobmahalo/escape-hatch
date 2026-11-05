@@ -1,30 +1,50 @@
 Source: BBC World
-Headline: 'This is a disaster': Angry Republicans blame Trump for midterms defeat
-Summary: Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.
+Headline: Hoax bomb threats target European airlines and airports for second time in a week
+Summary: At least 21 flights across Europe are affected in what the UK government calls a "malicious hoax threat".
 ---
 Source: BBC World
-Headline: US midterm results a 'victory' for Canadians hopeful of tariff relief
-Summary: With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.
+Headline: Who could be behind hoax bomb threats to European air travel?
+Summary: There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.
 ---
 Source: BBC World
-Headline: Ukraine says bodycam video shows deadly Russian double-tap bombing
-Summary: At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.
+Headline: California governor commutes sentences for state's 548 death row inmates
+Summary: California has historically had the largest population of people on death row in the US.
 ---
 Source: BBC World
-Headline: French blood storage impacted by freezer hacks as theories swirl about culprits
-Summary: The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.
+Headline: French protests see numbers surge as unions join strikes over high cost of living
+Summary: The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.
 ---
 Source: BBC World
-Headline: 'Most difficult days of my life' for keeper Owono
-Summary: FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.
+Headline: Paraguay President Santiago Peña resigns after bank collapse
+Summary: The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.
 ---
 Source: BBC World
-Headline: Israel's president begins consultations with parties after election deadlock
-Summary: Herzog warns politicians that "not every commitment and promise can be fulfilled" if they want to avoid another election.
+Headline: Eight killed in series of shootings in western Turkey
+Summary: Victims are found in several locations in three separate vehicles, according to local reports.
 ---
 Source: BBC World
-Headline: Delhi air quality worsens ahead of Diwali as firework restrictions enter force
-Summary: On Wednesday morning, Delhi's air quality index reading stood at 377, in the "very poor" category.
+Headline: Nvidia and SpaceX lose billions in market value as tech and AI stocks plummet
+Summary: The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms
+---
+Source: NPR World
+Headline: Paraguay's president is impeached minutes after resigning following a bank collapse
+Summary: Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings.
+---
+Source: NPR World
+Headline: Russell Brand is convicted of rape, and judge says he'll get a prison term
+Summary: A prosecutor described Brand as a ruthless, calculating, manipulative "sexual predator." Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.
+---
+Source: NPR World
+Headline: What's next for Democrats after the midterms. And, a look at the outstanding races
+Summary: Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority.
+---
+Source: NPR World
+Headline: Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican
+Summary: The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.
+---
+Source: NPR World
+Headline: Hong Kong activist Joshua Wong is sentenced to 10 more years in prison
+Summary: Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.
 ---
 Source: NPR World
 Headline: Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales
@@ -34,51 +54,31 @@ Source: NPR World
 Headline: The world is reacting to the Democrats' sweeping midterm elections victory
 Summary: From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats' big win as foreign powers weigh how a flipped Congress will affect international relations.
 ---
-Source: NPR World
-Headline: Democrats seize full control of Congress. And, which candidates made history last night
-Summary: Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.
----
-Source: NPR World
-Headline: Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors
-Summary: As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.
----
-Source: NPR World
-Headline: For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life
-Summary: In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. "The city seems alive," said one resident, "just like it used to be."
----
-Source: NPR World
-Headline: Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia
-Summary: he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.
----
-Source: NPR World
-Headline: Control of Congress is at stake today. And, judge to consider motion in Clancy case
-Summary: Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.
+Source: NPR Politics
+Headline: Head of Justice Department office on Civil Rights resigns
+Summary: The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.
 ---
 Source: NPR Politics
-Headline: Democrats win big in Texas
-Summary: Democrats didn't just win the U.S. Senate and governor races in Texas. They won every statewide contest and will take control of the Texas House, making the state a blue one, at least for now.
+Headline: Russell Brand is convicted of rape, and judge says he'll get a prison term
+Summary: A prosecutor described Brand as a ruthless, calculating, manipulative "sexual predator." Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.
 ---
 Source: NPR Politics
-Headline: What's the future of the Democratic party in Texas, amid historic midterm wins?
-Summary: NPR's Ailsa Chang talks with former Texas state Sen. Wendy Davis, a Democrat, about Texas flipping blue and what it means for future elections.
+Headline: What's next for Democrats after the midterms. And, a look at the outstanding races
+Summary: Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority.
 ---
 Source: NPR Politics
-Headline: South Carolina winner Annie Andrews talks about her win and the path ahead
-Summary: NPR's Ailsa Chang talks with Democrat Dr. Annie Andrews, who bested Republican candidate Darline Graham, the incumbent and sister of the late Sen. Lindsey Graham.
+Headline: After sweeping midterm wins, here's what Democrats hope to get done in the majority
+Summary: Democrats ran on lowering costs and stamping out corruption. Now that they've won, party leaders will have to unite a sometimes fractious caucus to fulfill those pledges.
 ---
 Source: NPR Politics
-Headline: Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns
-Summary: Voters in dozens of states considered 146 statewide ballot measures this midterm cycle, on topics spanning LGBTQ rights, wealth taxes, abortion, redistricting, guns and more.
+Headline: Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?
+Summary: Sen. Kirsten Gillibrand spoke with Morning Edition about Democrats' priorities, from lowering costs to ending the Iran war. But questions remain about how they'll deliver.
 ---
 Source: NPR Politics
-Headline: Rahm Emanuel maps out a vision for what Democrats can achieve after taking Congress
-Summary: NPR's Ailsa Chang talks with former congressman and Obama advisor Rahm Emanuel about what Democrats' strategy should be, now that they'll soon control both houses of Congress.
+Headline: Trump's arch is on the verge of federal approval. But a judge could block construction
+Summary: A federal panel will meet to consider the arch for final approval on Thursday, and the government said it may begin construction later that same day. Critics hope a judge will intervene last-minute.
 ---
 Source: NPR Politics
-Headline: Democrats sweeping victories mean big changes for Trump's final two years in office
-Summary: Democrats' wins in the House and Senate mean a new power dynamic is coming to Washington.
----
-Source: NPR Politics
-Headline: Elon Musk will face scrutiny from Democrats after midterms
-Summary: Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts
+Headline: The South flexes political power in midterms, sets regional influence in 2028 election
+Summary: Tuesday's dramatic midterm results have transformed the electoral map, ensuring the path to future power for Democrats and Republicans must run through the South and its diverse voting population.
 ---
