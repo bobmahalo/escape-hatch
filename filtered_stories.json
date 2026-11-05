@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Paraguayan President Resigns Amid Impeachment",
-    "event": "Paraguay President Santiago Pe\u00f1a resigned and was subsequently impeached by lawmakers following the failure of a government-linked digital bank.",
-    "context": "The lower house of congress initiated impeachment proceedings after the financial collapse froze savings across the country.",
-    "scope": "The action directly impacts the executive leadership of Paraguay and citizens whose funds were frozen in the collapsed institution."
+    "headline": "Paraguayan President Impeached After Resignation",
+    "event": "Paraguayan lawmakers voted to impeach President Santiago Pe\u00f1a minutes after he resigned following the collapse of a digital bank.",
+    "context": "The action occurred after the lower house of congress initiated proceedings due to financial instability and lost savings linked to the administration.",
+    "scope": "The governance shift directly affects the population of Paraguay and depositors whose savings were frozen during the bank failure."
+  },
+  {
+    "headline": "US Democrats Regain Congressional Majority",
+    "event": "The Democratic Party secured legislative majorities in the United States Congress following the recent midterm elections.",
+    "context": "The election results shift legislative authority, granting new oversight powers regarding executive branch policies and foreign affairs.",
+    "scope": "The outcome impacts national governance in the United States and alters the direction of federal policy implementation."
   },
   {
     "headline": "California Commutes 548 Death Sentences",
-    "event": "The Governor of California commuted the sentences of 548 inmates currently on the state's death row.",
-    "context": "California previously maintained the largest death row population of any state in the United States.",
-    "scope": "The decision directly affects 548 convicted individuals on death row and the state judicial corrections system."
+    "event": "The Governor of California commuted the prison sentences of 548 individuals on the state's death row.",
+    "context": "California historically maintained the largest population of individuals sentenced to execution in the United States.",
+    "scope": "The decree directly alters the penal status and sentences of 548 incarcerated individuals."
   },
   {
-    "headline": "Joshua Wong Sentenced to Ten Years",
-    "event": "Hong Kong activist Joshua Wong received a ten-year prison sentence following his second conviction under the national security law.",
-    "context": "The sentence was imposed pursuant to national security legislation enacted by Beijing to curtail local political dissent.",
-    "scope": "The ruling impacts Wong, local political activists, and the legal framework governing political speech in Hong Kong."
+    "headline": "Mass Protests Disrupt French Infrastructure",
+    "event": "Hundreds of thousands of workers participated in nationwide strikes and demonstrations across France.",
+    "context": "Labor unions organized the coordinated actions in response to rising consumer costs and economic conditions.",
+    "scope": "The disruptions directly affect national transit, public services, and residents across French municipalities."
   },
   {
-    "headline": "Democrats Regain Control of US Congress",
-    "event": "The Democratic Party secured a majority in the United States Congress following the midterm elections.",
-    "context": "The shift in legislative power follows campaigns focused on economic costs and executive branch oversight.",
-    "scope": "The election outcome affects legislative operations in the United States and global diplomatic and policy posture."
-  },
-  {
-    "headline": "Protests and Strikes Disrupt France",
-    "event": "Hundreds of thousands of workers joined nationwide strikes and street demonstrations across France regarding inflation.",
-    "context": "Trade unions organized the coordinated labor action in response to rising national cost-of-living metrics.",
-    "scope": "The disruptions directly affect French public transportation, civil services, and hundreds of thousands of participating workers."
+    "headline": "Activists Sentenced Under Hong Kong Law",
+    "event": "Hong Kong activist Joshua Wong received an additional 10-year prison sentence following his conviction under a national security statute.",
+    "context": "The judicial ruling represents a second conviction under national security legislation established by Beijing.",
+    "scope": "The legal precedent impacts political dissidents, civil society organizations, and the judicial framework in Hong Kong."
   }
 ]

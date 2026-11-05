@@ -24,7 +24,7 @@ Summary: Victims are found in several locations in three separate vehicles, acco
 ---
 Source: BBC World
 Headline: Major tech stocks plunge as US midterms add to fears of AI slowdown
-Summary: The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms
+Summary: The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms
 ---
 Source: NPR World
 Headline: Paraguay's president is impeached minutes after resigning following a bank collapse
@@ -55,6 +55,14 @@ Headline: Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end 
 Summary: Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.
 ---
 Source: NPR Politics
+Headline: The reason why Tehran is paying attention to Republican midterm losses
+Summary: NPR's Mary Louise Kelly speaks with Pentagon correspondent Tom Bowman about how the Democrats might use their newly acquired power to curb the war in Iran.
+---
+Source: NPR Politics
+Headline: How Democrats plan to investigate the Trump administration after their midterm wins
+Summary: With their new majorities, Democrats will have at their disposal the full investigatory powers of the Congress, which include the ability to subpoena records and compel individuals to testify.
+---
+Source: NPR Politics
 Headline: Head of Justice Department office on Civil Rights resigns
 Summary: The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.
 ---
@@ -73,12 +81,4 @@ Summary: Democrats ran on lowering costs and stamping out corruption. Now that t
 Source: NPR Politics
 Headline: Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?
 Summary: Sen. Kirsten Gillibrand spoke with Morning Edition about Democrats' priorities, from lowering costs to ending the Iran war. But questions remain about how they'll deliver.
----
-Source: NPR Politics
-Headline: Trump's arch is on the verge of federal approval. But a judge could block construction
-Summary: A federal panel will meet to consider the arch for final approval on Thursday, and the government said it may begin construction later that same day. Critics hope a judge will intervene last-minute.
----
-Source: NPR Politics
-Headline: The South flexes political power in midterms, sets regional influence in 2028 election
-Summary: Tuesday's dramatic midterm results have transformed the electoral map, ensuring the path to future power for Democrats and Republicans must run through the South and its diverse voting population.
 ---
