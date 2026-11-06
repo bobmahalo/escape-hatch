@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Paraguayan President Impeached After Resignation",
-    "event": "Paraguayan lawmakers voted to impeach President Santiago Pe\u00f1a minutes after he resigned following the collapse of a digital bank.",
-    "context": "The action occurred after the lower house of congress initiated proceedings due to financial instability and lost savings linked to the administration.",
-    "scope": "The governance shift directly affects the population of Paraguay and depositors whose savings were frozen during the bank failure."
+    "headline": "Kenyan Cult Leader Sentenced For Murder",
+    "event": "A Kenyan court sentenced cult leader Paul Mackenzie to life imprisonment after convicting him in the deaths of 191 people.",
+    "context": "Mackenzie instructed members of his religious organization to undergo fatal starvation in a remote forest.",
+    "scope": "The ruling directly impacts the surviving family members of the 191 victims and remaining cult adherents."
   },
   {
-    "headline": "US Democrats Regain Congressional Majority",
-    "event": "The Democratic Party secured legislative majorities in the United States Congress following the recent midterm elections.",
-    "context": "The election results shift legislative authority, granting new oversight powers regarding executive branch policies and foreign affairs.",
-    "scope": "The outcome impacts national governance in the United States and alters the direction of federal policy implementation."
+    "headline": "Bomb Threats Disrupt European Aviation Infrastructure",
+    "event": "Multiple commercial airlines and media facilities across Europe received unconfirmed bomb threats resulting in security alerts.",
+    "context": "The threats follow a series of similar hoaxes earlier in the week that forced flight diversions despite no explosives being found.",
+    "scope": "The disruptions affect international air passengers, flight crews, and broadcast personnel within affected European regions."
   },
   {
-    "headline": "California Commutes 548 Death Sentences",
-    "event": "The Governor of California commuted the prison sentences of 548 individuals on the state's death row.",
-    "context": "California historically maintained the largest population of individuals sentenced to execution in the United States.",
-    "scope": "The decree directly alters the penal status and sentences of 548 incarcerated individuals."
+    "headline": "Macao Imposes First National Security Sentence",
+    "event": "A Macao court sentenced a former legislator to 12.5 years in prison under national security charges.",
+    "context": "The trial marks the initial enforcement action conducted under Macao's national security framework established in 2009.",
+    "scope": "The sentence establishes legal precedent affecting political figures, legal practitioners, and residents within Macao."
   },
   {
-    "headline": "Mass Protests Disrupt French Infrastructure",
-    "event": "Hundreds of thousands of workers participated in nationwide strikes and demonstrations across France.",
-    "context": "Labor unions organized the coordinated actions in response to rising consumer costs and economic conditions.",
-    "scope": "The disruptions directly affect national transit, public services, and residents across French municipalities."
+    "headline": "Cyberattack Targets French Medical Storage Facilities",
+    "event": "A cyberattack compromised cold storage systems at a French blood bank, prompting global health security advisories.",
+    "context": "The incident follows increased warnings from health intelligence groups regarding vulnerabilities in critical medical infrastructure.",
+    "scope": "The attack directly affects French blood distribution operations and network-linked medical storage facilities."
   },
   {
-    "headline": "Activists Sentenced Under Hong Kong Law",
-    "event": "Hong Kong activist Joshua Wong received an additional 10-year prison sentence following his conviction under a national security statute.",
-    "context": "The judicial ruling represents a second conviction under national security legislation established by Beijing.",
-    "scope": "The legal precedent impacts political dissidents, civil society organizations, and the judicial framework in Hong Kong."
+    "headline": "Pope Begins Twelve Day South American Tour",
+    "event": "Pope Leo initiated a 12-day diplomatic visit encompassing Uruguay, Argentina, and Peru.",
+    "context": "This international journey is the pontiff's first travel itinerary following surgical treatment for lung cancer.",
+    "scope": "The tour impacts government delegations and religious communities across the three host nations."
   }
 ]
