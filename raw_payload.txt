@@ -1,34 +1,38 @@
 Source: BBC World
-Headline: AI stocks climb after trillions wiped from market values
-Summary: Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.
+Headline: What we know about Krakow mass shooting so far
+Summary: At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.
 ---
 Source: BBC World
-Headline: Four midterms takeaways for 2028 White House race
-Summary: The buzz about the presidential election is already under way - here's what we learned this week.
+Headline: No clear winner after tight New Zealand general election
+Summary: Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.
 ---
 Source: BBC World
-Headline: Two dead after bus crashes in France, officials say
-Summary: One child and one young adult were killed in the crash, local authorities say, with more injured.
+Headline: US offers $20m reward for information about Iran's nuclear programme
+Summary: Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.
 ---
 Source: BBC World
-Headline: New wave of bomb threats hit European airlines
-Summary: No link has been established between the threats against the airlines and those against the media outlets.
+Headline: Houthis say at least 25 killed in Saudi air strike
+Summary: Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.
 ---
 Source: BBC World
-Headline: Kenyan doomsday cult leader given life sentence for murdering 191 people
-Summary: Paul Mackenzie ordered his followers to starve their children to death in a forest so they could "meet Jesus".
+Headline: UK cannot 'cherry pick' EU single market deal, Barnier tells BBC
+Summary: The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules "a la carte".
 ---
 Source: BBC World
-Headline: Judge blocks construction of Trump's massive arch after federal agency approval
-Summary: The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.
+Headline: With Stephen Miller pick, Trump readies for a battle
+Summary: The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.
 ---
 Source: BBC World
-Headline: Russian extremist group denies sending hoax bomb threats
-Summary: Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.
+Headline: Paraguay's former president charged after bank collapse
+Summary: Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.
+---
+Source: NPR World
+Headline: Ousted Paraguayan president appears before prosecutors
+Summary: Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.
 ---
 Source: NPR World
 Headline: Israel's Arab-led parties in spotlight after inconclusive election
-Summary: Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key
+Summary: Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.
 ---
 Source: NPR World
 Headline: Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery
@@ -50,35 +54,31 @@ Source: NPR World
 Headline: Ex-lawmaker gets 12.5 years in Macao's first national security case
 Summary: Au's arrest last year was the first publicly known prosecution under Macao's national security law since it was enacted in 2009.
 ---
-Source: NPR World
-Headline: Judge halts construction of Trump's arch. And, Labor Department to release jobs report
-Summary: A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plunged.
+Source: NPR Politics
+Headline: Ousted Paraguayan president appears before prosecutors
+Summary: Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.
 ---
 Source: NPR Politics
-Headline: The incoming class of U.S. senators is full of historic firsts
-Summary: From the first Native American elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate's first Paralympian, voters elected historic candidates in the midterms.
+Headline: How the new Senate majority shifts control over the federal judiciary
+Summary: The change in the Senate's majority party means that starting Jan. 3, Democrats will run federal judicial appointments and may continue to until at least 2030.
 ---
 Source: NPR Politics
-Headline: No one knows how many ballots are outstanding in Mississippi's Senate race
-Summary: The razor-thin margin between GOP Sen. Cindy Hyde-Smith and Democrat Scott Colom is shining a light on an election process in Mississippi that is among the slowest and most decentralized in the U.S.
+Headline: GOP's lame-duck clock is ticking
+Summary: The current Congress, under its Republican majorities, must address the National Defense Authorization Act and a government funding bill as Democrats wait to take over.
 ---
 Source: NPR Politics
-Headline: Stephen Miller will replace Susie Wiles as Trump's chief of staff
-Summary: The change comes after sweeping Republican losses in the midterm elections.
+Headline: Border shift: Hispanic voters drive Texas' historic flip to blue
+Summary: Once reliably a red state, Texas will turn deep blue following this week's midterms. One of the most notable shifts was along the Texas-Mexico  border, where Hispanic voters had a big influence.
 ---
 Source: NPR Politics
-Headline: Health intel-sharing group warns industry in wake of cyberattack on French blood bank
-Summary: A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.
+Headline: Week in Politics: Trump taps Miller for chief of staff; doubles down on Trumpism
+Summary: President Trump's decision to make Stephen Miller his new chief of staff is a rebuke of the midterm results and a doubling-down on Trumpism.
 ---
 Source: NPR Politics
-Headline: Judge halts construction of Trump's arch. And, Labor Department to release jobs report
-Summary: A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plunged.
+Headline: Deb Haaland's New Mexico challenge
+Summary: Deb Haaland is the first Native American governor of New Mexico. She faces big expectations and challenges, but also opportunities in a deep blue state with abundant petroleum revenue.
 ---
 Source: NPR Politics
-Headline: 'He's got to go': Hakeem Jeffries calls for Hegseth's removal but stops short of impeachment
-Summary: Speaking with Morning Edition, Hakeem Jeffries discussed ending the Iran war, holding Trump accountable and calls for new Democratic leadership, but offered few specifics on how Democrats would deliver.
----
-Source: NPR Politics
-Headline: Dearborn, Michigan, mayor on city's record turnout and the election of Abdul El-Sayed
-Summary: NPR host Leila Fadel speaks with Abdullah Hammoud, the mayor of Dearborn, Michigan, about why his city turned out in record numbers to elect Abdul El-Sayed to the U.S. Senate.
+Headline: Defiance Mayor Mike McCann on how Republicans can regroup after midterm losses
+Summary: Republicans were routed in the midterm elections. NPR's Scott Simon talks to Mike McCann, the Mayor of Defiance, Ohio, about how the Republican party can win back support.
 ---
