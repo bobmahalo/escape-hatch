@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Paraguayan President Impeached After Bank Collapse",
-    "event": "Paraguayan President Santiago Pe\u00f1a was removed from office, placed under house arrest, and charged following the failure of a state-affiliated bank.",
-    "context": "The Paraguayan Senate voted to impeach Pe\u00f1a after the financial system failure prevented citizens from accessing deposited funds.",
-    "scope": "The political transition directly affects the governance of Paraguay and millions of depositors impacted by the bank failure."
+    "headline": "European Representatives Join Ukraine Talks",
+    "event": "European officials attended U.S.-mediated negotiations between Russia and Ukraine in Abu Dhabi.",
+    "context": "This meeting represents the first three-way negotiation round convened since February despite official Kremlin objections.",
+    "scope": "The diplomatic proceedings affect security protocols and populations across Ukraine, Russia, and European Union member states."
   },
   {
-    "headline": "Six Killed in Krakow Mass Shooting",
-    "event": "A gunman wearing military fatigues killed at least six people in Krakow, Poland.",
-    "context": "The shooting represents a major violent crime incident in Poland's second-largest municipality.",
-    "scope": "The event directly affects the victims, their families, and the general populace of Krakow."
+    "headline": "Israeli President Mandates New Coalition Government",
+    "event": "President Isaac Herzog granted opposition leader Gadi Eisenkot the mandate to form a new Israeli government.",
+    "context": "The assignment follows political realignments that challenged Prime Minister Benjamin Netanyahu's parliamentary coalition.",
+    "scope": "The executive decision directly affects the administration and voting public of Israel."
   },
   {
-    "headline": "Kenyan Cult Leader Receives Prison Sentence",
-    "event": "A Kenyan court sentenced cult leader Paul Mackenzie to 200 years in prison for the murder of 191 people.",
-    "context": "Mackenzie was prosecuted after instructing his followers to engage in forced self-starvation prior to his arrest.",
-    "scope": "The judicial ruling directly affects the defendant and concludes primary legal proceedings for the victims' families."
+    "headline": "Iran Executes Three Political Detainees",
+    "event": "Iranian judicial authorities executed Hassan Dioband, Hamid Kazemi, and Reza Zanganeh for alleged armed unrest.",
+    "context": "The executions follow state crackdowns on anti-government demonstrations conducted earlier this year.",
+    "scope": "The judicial actions directly affect political dissidents and civil rights conditions within Iran."
   },
   {
-    "headline": "Air Strike Kills Twenty-Five in Yemen",
-    "event": "An air strike in Yemen resulted in at least 25 fatalities, according to local Houthi officials.",
-    "context": "Saudi Arabia has maintained a military coalition conducting operations against Houthi forces in Yemen since 2015.",
-    "scope": "The kinetic strike directly impacts the population in the targeted area and adds to total military casualties in the region."
+    "headline": "Egyptian Train Collision Kills Seven",
+    "event": "Two passenger trains traveling in the same direction collided outside Giza, killing seven people and injuring over 100.",
+    "context": "Multiple carriages derailed during regular service along the regional Egyptian railway line.",
+    "scope": "The crash directly impacted over 107 rail passengers and local emergency services in Giza."
   },
   {
-    "headline": "US President Appoints Chief of Staff",
-    "event": "President Donald Trump appointed Stephen Miller to serve as the new White House Chief of Staff.",
-    "context": "The executive branch administrative change occurs following US midterm election outcomes that shifted Congressional control.",
-    "scope": "The appointment directly affects executive policy execution and administrative leadership across the United States federal government."
+    "headline": "New Zealand Election Mandates Coalition Talks",
+    "event": "General election results in New Zealand left no political party with an outright parliamentary majority.",
+    "context": "Prime Minister Christopher Luxon established a caretaker government to manage state affairs during multi-week party negotiations.",
+    "scope": "The political transition directly affects the administration and electorate of New Zealand."
   }
 ]
