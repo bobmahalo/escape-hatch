@@ -1,85 +1,84 @@
 Source: BBC World
-Headline: Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says
-Summary: Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.
+Headline: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
+Summary: The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.
 ---
 Source: BBC World
-Headline: Seven dead and more than 100 injured after trains collide in Egypt
-Summary: Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.
+Headline: Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy
+Summary: The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.
 ---
 Source: BBC World
-Headline: Homes and temples glow across India to mark Diwali
-Summary: Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.
+Headline: France accuses Iran of supermarket fridge hacking
+Summary: Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.
 ---
 Source: BBC World
-Headline: Iran executes three men for 'armed unrest' after January protests
-Summary: It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.
+Headline: Turkey steel factory blast kills at least 17 people
+Summary: Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.
 ---
 Source: BBC World
-Headline: Houthis say at least 33 killed in Saudi air strike
-Summary: Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.
+Headline: Judge denies motion to dismiss Lindsay Clancy's murder case
+Summary: The ruling means the case can move forward, possibly with reduced charges in a new trial.
 ---
 Source: BBC World
-Headline: 'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years
-Summary: The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.
+Headline: Republican congressman to force impeachment vote on Defence Secretary Hegseth
+Summary: The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.
 ---
 Source: BBC World
-Headline: Paraguay's former president charged after bank collapse
-Summary: Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.
+Headline: Russia's leading independent newspaper closes after eviction
+Summary: The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.
 ---
 Source: NPR World
-Headline: Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections
-Summary: France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.
+Headline: France accuses Iran of cyber 'sabotage' in fridge attacks
+Summary: France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.
 ---
 Source: NPR World
-Headline: No clear winner in New Zealand election, as leaders prepare for weeks of talks
-Summary: Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: "I think everyone's over politics so let's all have a bit of a break for the next three weeks".
+Headline: In northern Ethiopia, conflict pushes a strained healthcare system to the brink
+Summary: Ethiopia's health care system was once considered a model in the region. But in the northern Tigray region, ongoing conflict has left health facilities and medical workers vulnerable to attacks.
 ---
 Source: NPR World
-Headline: After a successful trip to Uruguay, Pope Leo heads to Argentina
-Summary: On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.
+Headline: Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution
+Summary: New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.
 ---
 Source: NPR World
-Headline: Russell Brand to learn sentence after being found guilty of rape and sexual assault
-Summary: Comedian Brand faces a "significant" prison sentence, which a London court judge is set to hand down on Monday.
+Headline: British comedian Russell Brand sentenced to over 10 years for rape and sexual assault
+Summary: Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women.
 ---
 Source: NPR World
-Headline: A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades
-Summary: El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.
+Headline: Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff
+Summary: Republicans have just weeks left of control of Congress. Here's what to expect. And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confront his opposition.
 ---
 Source: NPR World
-Headline: Israeli president invites Netanyahu's opposition leader to broker new government
-Summary: Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.
+Headline: Why a South Korean city is turning to a U.S. college to outsmart AI?
+Summary: Through civic participation and liberal education, South Korean educators hope to "quietly stitch the fabric of our democracy…before it unravels beyond repair."
 ---
 Source: NPR World
-Headline: A correspondent finds Cuba's people struggling
-Summary: Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages.
+Headline: How a bank collapse left millions in limbo and toppled Paraguay's president
+Summary: A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties.
 ---
 Source: NPR Politics
-Headline: No clear winner in New Zealand election, as leaders prepare for weeks of talks
-Summary: Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: "I think everyone's over politics so let's all have a bit of a break for the next three weeks".
+Headline: France accuses Iran of cyber 'sabotage' in fridge attacks
+Summary: France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.
 ---
 Source: NPR Politics
-Headline: NPR's Moscow and Beijing correspondents discuss the reaction to U.S. elections abroad
-Summary: The results of the U.S. midterms were closely followed overseas. NPR correspondents in Moscow and Beijing discuss how the elections are seen in the countries they cover.
+Headline: Stephen Miller is now chief of staff. What does that mean for Trump?
+Summary: NPR's Sacha Pfeiffer speaks with Chris Whipple, an expert on White House chiefs of staff who has written extensively about Susie Wiles, about Trump's appointment of Stephen Miller.
 ---
 Source: NPR Politics
-Headline: Republican consultant discusses what went wrong and what's next for the GOP
-Summary: NPR's Ayesha Rascoe speaks to Hogan Gidley, a Republican consultant and former White House Deputy Press Secretary during the first Trump administration, about the GOP's post-midterm strategy.
+Headline: Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth
+Summary: The articles accuse Hegseth of "high crimes and misdemeanors," including for waging war against Iran in violation of the War Powers Resolution.
 ---
 Source: NPR Politics
-Headline: Historically red state legislatures have flipped. Here's what's on their agenda
-Summary: Democrats made sweeping gains in state legislatures across the country. We look at North Carolina and Arizona to see what that could mean.
+Headline: British comedian Russell Brand sentenced to over 10 years for rape and sexual assault
+Summary: Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women.
 ---
 Source: NPR Politics
-Headline: Week in politics: Democrats plan for the next Congress, Trump's new Chief of Staff
-Summary: Democrats plans for the next Congress, where they'll hold significant majorities in both chambers.
-Meanwhile, President Trump signals his plans by promoting Stephen Miller as his new Chief of Staff.
+Headline: Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff
+Summary: Republicans have just weeks left of control of Congress. Here's what to expect. And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confront his opposition.
 ---
 Source: NPR Politics
-Headline: How Gen Z voters helped fuel a blue wave for Democrats
-Summary: Republicans made gains with young voters in 2024, but in this year's midterms Americans under 30 issued a strong rebuke of President Trump and his party, voting decisively for Democrats instead.
+Headline: After midterm losses, Trump makes changes to his inner circle
+Summary: President Trump is shaking up his closest advisers after Democrats made huge gains in the midterm elections.
 ---
 Source: NPR Politics
-Headline: UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary
-Summary: President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White.
+Headline: Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise
+Summary: The Supreme Court considers the case of a prisoner who suffered brutal injuries, only to be denied medical care behind bars. He wants to sue the prison nurse in a case that could change the law on holding federal officers accountable.
 ---
