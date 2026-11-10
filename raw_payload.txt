@@ -7,16 +7,16 @@ Headline: Nvidia shares tumble over investigation into Huang's affair with alleg
 Summary: The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.
 ---
 Source: BBC World
+Headline: Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say
+Summary: Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.
+---
+Source: BBC World
+Headline: Epstein associate who still runs model agency 'put me in danger' says abuse survivor
+Summary: A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.
+---
+Source: BBC World
 Headline: France accuses Iran of supermarket fridge hacking
 Summary: Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.
----
-Source: BBC World
-Headline: Turkey steel factory blast kills at least 17 people
-Summary: Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.
----
-Source: BBC World
-Headline: Judge denies motion to dismiss Lindsay Clancy's murder case
-Summary: The ruling means the case can move forward, possibly with reduced charges in a new trial.
 ---
 Source: BBC World
 Headline: Republican congressman to force impeachment vote on Defence Secretary Hegseth
@@ -29,10 +29,6 @@ Summary: The outlet has been evicted from its offices of three decades and says 
 Source: NPR World
 Headline: France accuses Iran of cyber 'sabotage' in fridge attacks
 Summary: France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.
----
-Source: NPR World
-Headline: In northern Ethiopia, conflict pushes a strained healthcare system to the brink
-Summary: Ethiopia's health care system was once considered a model in the region. But in the northern Tigray region, ongoing conflict has left health facilities and medical workers vulnerable to attacks.
 ---
 Source: NPR World
 Headline: Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution
@@ -53,6 +49,10 @@ Summary: Through civic participation and liberal education, South Korean educato
 Source: NPR World
 Headline: How a bank collapse left millions in limbo and toppled Paraguay's president
 Summary: A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties.
+---
+Source: NPR World
+Headline: The world's largest telecoms firm is on trial and the outcome has global implications
+Summary: Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.
 ---
 Source: NPR Politics
 Headline: France accuses Iran of cyber 'sabotage' in fridge attacks

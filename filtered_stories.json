@@ -1,32 +1,32 @@
 [
   {
+    "headline": "Trilateral Ukraine Peace Negotiations Resume",
+    "event": "Delegations from Ukraine, Russia, and the United States convened in the United Arab Emirates for diplomatic talks.",
+    "context": "The meeting represents the first formal trilateral negotiation session involving all three nations since February.",
+    "scope": "The outcome impacts the populations of Ukraine and Russia, as well as broader European security frameworks."
+  },
+  {
+    "headline": "France Attributes Infrastructure Cyberattack to Iran",
+    "event": "French authorities formally accused Iranian military hackers of compromising refrigeration control systems across approximately 700 retail sites.",
+    "context": "The targeted operation altered system temperatures overnight, resulting in the spoilage of commercial food supplies across the country.",
+    "scope": "The disruption affects French grocery retailers, supply chain operators, and domestic consumers."
+  },
+  {
     "headline": "FBI Investigates Nvidia Chief Executive",
-    "event": "United States officials confirmed an investigation into Nvidia Chief Executive Officer Jensen Huang regarding alleged relations with a Chinese intelligence operative.",
-    "context": "The inquiry occurs amid ongoing geopolitical tensions and regulatory restrictions on advanced semiconductor technology transfers between the United States and China.",
-    "scope": "Nvidia equity holders experienced a reduction of hundreds of billions of dollars in market valuation following the public disclosure."
+    "event": "The Federal Bureau of Investigation initiated an inquiry into Nvidia Chief Executive Jensen Huang regarding espionage concerns.",
+    "context": "Public acknowledgment of the inquiry caused a rapid reduction in the technology firm's market capitalization.",
+    "scope": "The investigation directly affects Nvidia shareholders, global semiconductor supply networks, and trade relations between the United States and China."
   },
   {
-    "headline": "France Accuses Iran of Cyberattack",
-    "event": "The French government formally attributed cyber breaches affecting commercial refrigeration systems at hundreds of retail locations to Iranian military hackers.",
-    "context": "The intrusions compromised industrial temperature controllers, causing systemic overheating across commercial food storage facilities.",
-    "scope": "Approximately 700 retail sites in France incurred financial losses from millions of dollars of spoiled food inventory."
+    "headline": "Federal Trial Begins Against Huawei",
+    "event": "Telecommunications firm Huawei entered trial in a New York federal court regarding allegations of corporate theft and sanctions violations.",
+    "context": "The United States government has spent years pursuing legal action against the company over national security and trade compliance concerns.",
+    "scope": "The proceedings influence regulatory frameworks for international telecommunications manufacturers and cross-border trade enforcement."
   },
   {
-    "headline": "Industrial Explosion Kills 17 in Turkey",
-    "event": "An explosion at the Habas Demir Celik steel plant in Aliaga, Turkey, caused at least 17 deaths.",
-    "context": "Heavy industrial facilities in the region operate under national workplace safety frameworks governing metallurgical manufacturing plants.",
-    "scope": "At least 17 plant personnel were killed, directly affecting local emergency response resources and industrial operations."
-  },
-  {
-    "headline": "Stephen Miller Named White House Chief",
-    "event": "United States President Donald Trump appointed Stephen Miller to serve as White House Chief of Staff.",
-    "context": "The personnel change follows opposition party electoral gains in recent federal midterm legislative contests.",
-    "scope": "The appointment directly alters executive branch administrative operations and federal agency oversight structures."
-  },
-  {
-    "headline": "Russell Brand Sentenced for Sexual Assault",
-    "event": "A British judge sentenced Russell Brand to more than 10 years in prison following convictions for rape and sexual assault.",
-    "context": "The trial resolved criminal indictments brought by six women detailing offenses committed during the early 2000s.",
-    "scope": "The ruling mandates immediate federal imprisonment for the defendant and concludes judicial proceedings for the six complainants."
+    "headline": "Paraguayan President Ousted After Bank Collapse",
+    "event": "The President of Paraguay was removed from office following the systemic failure of a major domestic banking institution.",
+    "context": "The insolvency froze public access to funds and uncovered operational links between political figures and financial executives.",
+    "scope": "The fallout directly affects millions of Paraguayan bank depositors and the institutional stability of the state."
   }
 ]
