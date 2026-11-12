@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Russia Ukraine Agree POW Exchange",
-    "event": "Russia and Ukraine agreed to a major exchange of prisoners of war following United States-mediated negotiations in Abu Dhabi.",
-    "context": "The agreement occurred during diplomatic discussions focused on post-war European security structures following the 2022 invasion.",
-    "scope": "The action directly impacts military detainees held by both nations."
+    "headline": "US Envoys Conduct Peace Diplomacy",
+    "event": "United States envoys met with Russian President Vladimir Putin in Moscow to discuss peace negotiation terms before proceeding to meet Ukrainian President Volodymyr Zelenskyy.",
+    "context": "The meetings follow diplomatic discussions held in Abu Dhabi focused on establishing a peace framework and arranging prisoner exchanges.",
+    "scope": "The outcome of the negotiations directly affects the populations of Ukraine and Russia and international European security."
   },
   {
-    "headline": "Spanish Workers Hold Nationwide Strike",
-    "event": "Millions of Spanish citizens participated in a general strike disrupting commercial operations and public transit across major cities.",
-    "context": "The action marks the first general strike in Spain in 14 years, organized by trade unions over housing costs.",
-    "scope": "The disruption directly affects urban transportation systems, businesses, and municipal services across Spain."
+    "headline": "Indonesian Vice President Resigns Over Credentials",
+    "event": "Indonesia's Vice President resigned following court rulings that his submitted educational credentials failed election requirements.",
+    "context": "Judicial bodies invalidated his qualification documents following legal challenges regarding his overseas degree documentation.",
+    "scope": "The executive vacancy affects national governance and the political administration representing the Indonesian populace."
   },
   {
-    "headline": "Congo Ebola Outbreak Tops Eleven Thousand",
-    "event": "The Democratic Republic of the Congo recorded more than 11,000 cases in its current Ebola outbreak.",
-    "context": "The central African nation has managed multiple viral outbreaks amid persistent health infrastructure constraints.",
-    "scope": "The viral transmission directly threatens populations across impacted provinces in the Democratic Republic of the Congo."
+    "headline": "Democrat Wins Mississippi Senate Election",
+    "event": "Democrat Scott Colom secured victory in the United States Senate election in Mississippi following the conclusion of ballot counting.",
+    "context": "The result represents the first Democratic Senate victory in Mississippi since 1980 and the state's first Black U.S. senator since the nineteenth century.",
+    "scope": "The outcome alters party composition within the United States Senate and legislative representation for Mississippi residents."
   },
   {
-    "headline": "Indonesian Vice President Resigns Office",
-    "event": "The Vice President of Indonesia resigned from office following escalating internal political disputes.",
-    "context": "The resignation reflects an eroding coalition between President Prabowo Subianto and former leadership factions.",
-    "scope": "The vacancy alters the executive leadership structure governing Indonesia's population."
+    "headline": "Israeli Strike Hits Southern Gaza Hospital",
+    "event": "An Israeli airstrike on Nasser Hospital in southern Gaza killed six Palestinians according to health ministry officials.",
+    "context": "The strike damaged surgical and intensive care units at the largest functional medical complex remaining in southern Gaza.",
+    "scope": "The attack impacts patients, healthcare personnel, and displaced civilians relying on the hospital facility."
   },
   {
-    "headline": "UK Charges Three In Military Plot",
-    "event": "British authorities charged three individuals for an alleged state-backed plan targeting a airbase housing United States forces.",
-    "context": "The arrests follow an increase in counter-terrorism investigations involving foreign intelligence operations in Western nations.",
-    "scope": "The security incident directly targets military personnel stationed at the specified base in the United Kingdom."
+    "headline": "Missing Funds Impair Ebola Response Effort",
+    "event": "M\u00e9decins Sans Fronti\u00e8res reported that millions of dollars allocated for Ebola outbreak containment remain missing while medical staff go unpaid.",
+    "context": "International aid funding serves as the primary operational resource for supply distribution and healthcare worker compensation during regional epidemics.",
+    "scope": "The financial shortage affects medical personnel and civilian populations at risk of infection in active transmission zones."
   }
 ]
