@@ -1,34 +1,46 @@
 Source: BBC World
-Headline: US envoys head to meet Zelensky after talks with Putin in Moscow
-Summary: US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.
+Headline: Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption
+Summary: Experts say the event is a "stark reminder" of how heavily the world relies on a small group of big tech providers.
 ---
 Source: BBC World
-Headline: Russian warship hit by Ukrainian drone in Gulf of Finland
-Summary: The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.
+Headline: Why is Microsoft's outage lasting so long and will emails be lost?
+Summary: Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.
 ---
 Source: BBC World
-Headline: Suspected bomb hoax threats force fresh evacuations of Italian schools
-Summary: Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.
+Headline: Watch: How a server outage took down Microsoft Teams and Outlook
+Summary: A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.
 ---
 Source: BBC World
-Headline: Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century
-Summary: In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.
+Headline: Rosenberg: Uncompromising Putin ups demands for peace with Ukraine
+Summary: The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.
 ---
 Source: BBC World
-Headline: Hegseth awards medal to war memorial guard who reprimanded him and group
-Summary: Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.
+Headline: Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague
+Summary: Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.
 ---
 Source: BBC World
-Headline: Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says
-Summary: Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns
+Headline: The Peruvian city that has embraced Pope Leo as one of its own
+Summary: Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.
 ---
 Source: BBC World
-Headline: Israeli strike on Gaza hospital kills six Palestinians, health ministry says
-Summary: Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.
+Headline: German spies handed new powers to tackle 'hybrid threats' from abroad
+Summary: German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.
 ---
 Source: NPR World
-Headline: U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi
-Summary: Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.
+Headline: What's Trump's strategy now with Iran? To keep things as they are
+Summary: Trump says "status quo" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure
+---
+Source: NPR World
+Headline: Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader
+Summary: Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.
+---
+Source: NPR World
+Headline: Nvidia's interim CEO inherits risky AI bets and a legal mess
+Summary: AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.
+---
+Source: NPR World
+Headline: U.S. envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin
+Summary: U.S. envoys have met with Russian President Vladimir Putin in the Kremlin and with Ukrainian President Volodymyr Zelenskyy in Ireland as Washington seeks new momentum in peace efforts.
 ---
 Source: NPR World
 Headline: Indonesia's VP resigns as his eligibility and academic credentials are questioned
@@ -42,43 +54,31 @@ Source: NPR World
 Headline: Former Ukrainian foreign minister discusses how to bridge gaps between Ukraine, Russia
 Summary: NPR's A Martinez asks Ukraine's former Foreign Minister Dmytro Kuleba for his proposals to close gaps in talks between Russia, Ukraine and Europe.
 ---
-Source: NPR World
-Headline: Former U.S. Ambassador William Taylor discusses the latest Russia-Ukraine talks
-Summary: NPR's A Martinez speaks with former U.S. ambassador to Ukraine, William Taylor, about the ongoing peace talks between the U.S., Russia and Ukraine.
----
-Source: NPR World
-Headline: U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks
-Summary: U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelenskyy on Friday.
----
-Source: NPR World
-Headline: Drought threatens Iraq's marshes, risking one of the oldest ways of life
-Summary: The unique marshes of southern Iraq are beginning to revive after five years of devastating drought. But challenges remain for one of the world's oldest ways of life.
+Source: NPR Politics
+Headline: Latino voters help fuel Kansas' blue wave
+Summary: In southwest Kansas, three majority-Latino counties shocked the political establishment by going blue for the first time in decades. Voters and activists say immigration enforcement was a big factor.
 ---
 Source: NPR Politics
-Headline: Democrats want to stop Trump's arch, golf course and more. What are their options?
-Summary: As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.
+Headline: DEM SENATE LEADER FIGHT
+Summary: Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.
 ---
 Source: NPR Politics
-Headline: Witnesses describe the D.C. shooting that left 1 dead, 4 injured
-Summary: A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.
+Headline: The Trump administration's voter roll crusade could continue
+Summary: Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.
 ---
 Source: NPR Politics
-Headline: Colom wins Mississippi Senate race. And, White House warns Dems over future probes
-Summary: After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.
+Headline: Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader
+Summary: Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.
 ---
 Source: NPR Politics
-Headline: Senators don't always share bill text online before votes. They should, advocates say
-Summary: The text of what lawmakers are considering isn't always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change.
+Headline: Hegseth awards medal to soldier who chastised him
+Summary: Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense hasgiven him a medal.
 ---
 Source: NPR Politics
-Headline: A blue wave helped offset for now a falling tally of Black members in the U.S. House
-Summary: A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now.
+Headline: These swing voters have low expectations for divided government
+Summary: Key voters in North Carolina are pessimistic the blue wave flipping control of Congress will solve their economic woes. Many say President Trump will be the chief obstacle.
 ---
 Source: NPR Politics
-Headline: At least 23 states considered laws governing ICE and schools this year
-Summary: When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.
----
-Source: NPR Politics
-Headline: How Scott Colom defied the odds to go from DA to Mississippi's Democratic U.S. senator
-Summary: In a state that hasn't had a Democrat in office since 1980 and hasn't sent a Black senator to Washington since the 1870s, Colom's win represents a massive upset in state politics.
+Headline: These two voter turnout trends explain what happened across the South in the election
+Summary: In six states across the Deep South, a drastic swing to the left this election was driven by high Black voter turnout and compounded by a sharp decline in voting rates across Republican-heavy areas.
 ---
