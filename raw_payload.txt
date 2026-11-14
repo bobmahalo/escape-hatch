@@ -1,34 +1,38 @@
 Source: BBC World
-Headline: Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption
-Summary: Experts say the event is a "stark reminder" of how heavily the world relies on a small group of big tech providers.
+Headline: Copper wire upgrade caused nationwide flight suspension, US transport secretary says
+Summary: The US government is trying to find out whether the chaos was caused by "incompetence" or faulty equipment.
 ---
 Source: BBC World
-Headline: Why is Microsoft's outage lasting so long and will emails be lost?
-Summary: Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.
+Headline: US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+Summary: The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.
 ---
 Source: BBC World
-Headline: Watch: How a server outage took down Microsoft Teams and Outlook
-Summary: A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.
+Headline: Italy fines Meta €805m over accessing users' photos
+Summary: The social media giant is accused of not informing 20 million users it had access to their photos.
 ---
 Source: BBC World
-Headline: Rosenberg: Uncompromising Putin ups demands for peace with Ukraine
-Summary: The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.
+Headline: Philippines wins first Eurovision Song Contest Asia
+Summary: Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.
 ---
 Source: BBC World
-Headline: Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague
-Summary: Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.
+Headline: Second catch attempt for SpaceX Starship rocket
+Summary: The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.
 ---
 Source: BBC World
-Headline: The Peruvian city that has embraced Pope Leo as one of its own
-Summary: Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.
+Headline: Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'
+Summary: Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.
 ---
 Source: BBC World
-Headline: German spies handed new powers to tackle 'hybrid threats' from abroad
-Summary: German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.
+Headline: Trump, Putin and Xi plan historic joint meeting in China next week, White House says
+Summary: Trump will discuss the "reduction of nuclear weapons" during the unprecedented talks, a spokeswoman says.
+---
+Source: NPR World
+Headline: Fuel crisis and protests pressure Chile's far-right president
+Summary: Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.
 ---
 Source: NPR World
 Headline: What's Trump's strategy now with Iran? To keep things as they are
-Summary: Trump says "status quo" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure
+Summary: President Trump says the "status quo" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.
 ---
 Source: NPR World
 Headline: Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader
@@ -50,35 +54,31 @@ Source: NPR World
 Headline: Colom wins Mississippi Senate race. And, White House warns Dems over future probes
 Summary: After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.
 ---
-Source: NPR World
-Headline: Former Ukrainian foreign minister discusses how to bridge gaps between Ukraine, Russia
-Summary: NPR's A Martinez asks Ukraine's former Foreign Minister Dmytro Kuleba for his proposals to close gaps in talks between Russia, Ukraine and Europe.
+Source: NPR Politics
+Headline: 'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead
+Summary: Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections.
 ---
 Source: NPR Politics
-Headline: Latino voters help fuel Kansas' blue wave
-Summary: In southwest Kansas, three majority-Latino counties shocked the political establishment by going blue for the first time in decades. Voters and activists say immigration enforcement was a big factor.
+Headline: Alaska voters aren't ditching ranked choice voting, top-four primaries
+Summary: This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.
 ---
 Source: NPR Politics
-Headline: DEM SENATE LEADER FIGHT
-Summary: Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.
+Headline: Week in Politics: Battle for Senate leader; young and independent midterm turnout
+Summary: The battle over the next majority leader in the U.S. Senate reflects the turnout by younger and independent voters in the midterm elections.
 ---
 Source: NPR Politics
-Headline: The Trump administration's voter roll crusade could continue
-Summary: Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.
+Headline: Legal scholar Stephen Vladeck on Texas' new Democratic AG and federal litigation
+Summary: NPR's Scott Simon speaks with legal scholar and Georgetown professor Stephen Vladeck about Texas Attorney General-elect Nathan Johnson, a Democrat, and what that could mean for federal litigation.
 ---
 Source: NPR Politics
-Headline: Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader
-Summary: Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.
+Headline: Trump faces bipartisan backlash over plan to sell public lands to states and tribes
+Summary: The Trump administration wants to sell some federal public lands to states, local governments and tribes, a plan that's once again drawing swift bi-partisan opposition.
 ---
 Source: NPR Politics
-Headline: Hegseth awards medal to soldier who chastised him
-Summary: Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense hasgiven him a medal.
+Headline: Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?
+Summary: Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests.
 ---
 Source: NPR Politics
-Headline: These swing voters have low expectations for divided government
-Summary: Key voters in North Carolina are pessimistic the blue wave flipping control of Congress will solve their economic woes. Many say President Trump will be the chief obstacle.
----
-Source: NPR Politics
-Headline: These two voter turnout trends explain what happened across the South in the election
-Summary: In six states across the Deep South, a drastic swing to the left this election was driven by high Black voter turnout and compounded by a sharp decline in voting rates across Republican-heavy areas.
+Headline: As Democrats win big, thirst traps of male candidates take social media by storm
+Summary: It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.
 ---

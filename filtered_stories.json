@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Global Microsoft Infrastructure Service Disruption",
-    "event": "A global server outage disrupted Microsoft cloud applications, including Outlook, Teams, and Copilot, for nearly 24 hours.",
-    "context": "Centralized enterprise cloud infrastructure providers maintain a high concentration of global digital communications management.",
-    "scope": "Enterprise organizations and digital communication network users worldwide were directly affected."
+    "headline": "Planned tri-lateral nuclear arms summit",
+    "event": "The leaders of the United States, Russia, and China scheduled a joint meeting in China to negotiate nuclear arms reductions.",
+    "context": "The planned meeting follows recent diplomatic engagements by United States envoys in Europe and Asia.",
+    "scope": "Global populations and international security institutions."
   },
   {
-    "headline": "Nvidia Chief Executive Steps Down",
-    "event": "Nvidia Chief Executive Officer Jensen Huang resigned from his post, transferring corporate leadership to an interim executive amid scrutiny over semiconductor export compliance.",
-    "context": "The United States government maintains regulatory restrictions regarding the international export of advanced artificial intelligence hardware to entities linked to China.",
-    "scope": "Global semiconductor markets, artificial intelligence developers, and international technology supply chains are directly affected."
+    "headline": "US proposes Ukraine peace terms",
+    "event": "United States envoys presented a diplomatic framework offering NATO membership to Ukraine in exchange for ceding the Donbas region to Russia.",
+    "context": "The proposal comes amid ongoing military conflict between Russian forces and Ukrainian defense troops.",
+    "scope": "The populations of Ukraine and Russia alongside member states of the NATO alliance."
   },
   {
-    "headline": "United States Envoys Conduct Peace Diplomacy",
-    "event": "United States diplomats held separate meetings with Russian President Vladimir Putin in Moscow and Ukrainian President Volodymyr Zelenskyy in Dublin to advance negotiations regarding the conflict in Ukraine.",
-    "context": "The bilateral meetings follow prolonged military stalemate and evolving security conditions across Eastern Europe.",
-    "scope": "Populations and military forces across Ukraine, the Russian Federation, and European security block member nations are directly affected."
+    "headline": "Nvidia chief executive officer resigns",
+    "event": "Jensen Huang stepped down as chief executive officer of Nvidia and was replaced by an interim successor.",
+    "context": "The leadership change occurs during ongoing legal proceedings and commercial expansion within the artificial intelligence hardware market.",
+    "scope": "Global financial markets, technology sector investors, and semiconductor supply chains."
   },
   {
-    "headline": "Vice President of Indonesia Resigns",
-    "event": "Indonesian Vice President Gibran Rakabuming Raka resigned following judicial rulings that declared his academic credentials invalid for legal election eligibility.",
-    "context": "Indonesian judicial bodies determined that prerequisite educational documentation submitted prior to the election failed to fulfill statutory requirements.",
-    "scope": "The state administration and the citizens of Indonesia are directly affected."
+    "headline": "Indonesian vice president resigns office",
+    "event": "The Vice President of Indonesia resigned after judicial rulings determined his educational documentation failed to satisfy election requirements.",
+    "context": "The Constitutional Court and Supreme Court established that credentials submitted regarding his overseas education were invalid.",
+    "scope": "The government administration and 275 million citizens of Indonesia."
   },
   {
-    "headline": "Germany Expands Intelligence Agency Authority",
-    "event": "Germany passed legislative reforms granting statutory powers to its domestic and foreign intelligence services to combat external espionage and sabotage.",
-    "context": "European national security agencies have registered an increase in foreign covert operations targeting critical infrastructure.",
-    "scope": "Foreign intelligence entities and security operations within German national jurisdiction are directly affected."
+    "headline": "Wiring upgrade causes flight suspension",
+    "event": "A nationwide suspension of air travel occurred in the United States following a technical failure linked to a copper wire infrastructure upgrade.",
+    "context": "Federal transportation officials launched an inquiry to evaluate equipment reliability and operational protocols.",
+    "scope": "Air passengers, flight operations staff, and logistics networks across the United States."
   }
 ]
