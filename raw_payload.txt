@@ -1,84 +1,84 @@
 Source: BBC World
-Headline: Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'
-Summary: The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.
+Headline: Five EU countries announce migrant deportation centre in Rwanda
+Summary: Germany, Denmark, Austria, Greece and the Netherlands have announced a "return hub" for failed asylum seekers.
 ---
 Source: BBC World
-Headline: Iran targets US military base in Bahrain with drone attack
-Summary: It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.
+Headline: Houthi rebel advance in Yemen may further destabilise global economy
+Summary: The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.
 ---
 Source: BBC World
-Headline: Three men sentenced to death in Jordan over fatal church mass shooting
-Summary: The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.
+Headline: Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO
+Summary: A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.
 ---
 Source: BBC World
-Headline: South Korea's top scorer in tax accountancy exam admits cheating
-Summary: Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.
+Headline: Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war
+Summary: Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.
 ---
 Source: BBC World
-Headline: Pope Leo rides in helicopter cockpit during Peru trip
-Summary: The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.
+Headline: When will we see Robert Pattinson as Bond in cinemas?
+Summary: Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.
 ---
 Source: BBC World
-Headline: Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
-Summary: The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.
+Headline: Forensic expert says his analysis of autopsy photos suggests Epstein was killed
+Summary: Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.
 ---
 Source: BBC World
-Headline: Czechs rally against plan to switch funding of public media
-Summary: Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.
+Headline: Lindsay Clancy to face retrial next year for deaths of her three children
+Summary: The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.
+---
+Source: NPR World
+Headline: U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow
+Summary: Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.
+---
+Source: NPR World
+Headline: FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia
+Summary: U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.
+---
+Source: NPR World
+Headline: Chris Van Hollen says he can beat Chuck Schumer. Here's his case
+Summary: Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.
+---
+Source: NPR World
+Headline: Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout
+Summary: The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.
+---
+Source: NPR World
+Headline: What to expect from Trump and Xi's upcoming meeting in China
+Summary: Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.
+---
+Source: NPR World
+Headline: What's the real cost of fast fashion? Ask the people making your jeans
+Summary: Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?
 ---
 Source: NPR World
 Headline: Fuel crisis and protests pressure Chile's far-right president
 Summary: Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.
 ---
-Source: NPR World
-Headline: What's Trump's strategy now with Iran? To keep things as they are
-Summary: President Trump says the "status quo" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.
----
-Source: NPR World
-Headline: Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader
-Summary: Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.
----
-Source: NPR World
-Headline: Nvidia's interim CEO inherits risky AI bets and a legal mess
-Summary: AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.
----
-Source: NPR World
-Headline: U.S. envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin
-Summary: U.S. envoys have met with Russian President Vladimir Putin in the Kremlin and with Ukrainian President Volodymyr Zelenskyy in Ireland as Washington seeks new momentum in peace efforts.
----
-Source: NPR World
-Headline: Indonesia's VP resigns as his eligibility and academic credentials are questioned
-Summary: Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.
----
-Source: NPR World
-Headline: Colom wins Mississippi Senate race. And, White House warns Dems over future probes
-Summary: After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.
+Source: NPR Politics
+Headline: Questions about FAA funding roil Capitol Hill after nationwide ground stop
+Summary: Three days after a communications meltdown led the FAA to ground planes, there are big questions about what happened and how much money is needed to upgrade the country's air traffic control system.
 ---
 Source: NPR Politics
-Headline: In calling for an end to the Iran War, Vance walks a fine line with Trump
-Summary: A rift is opening up between President Trump and Vice President Vance when it comes to the Iran War. NPR's Ayesha Rascoe talks to Susan Glasser, staff writer at the New Yorker.
+Headline: California sues OpenAI over hacking risks
+Summary: The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was "entirely foreseeable" due to OpenAI's poor security practices.
 ---
 Source: NPR Politics
-Headline: Politics chat: Duffy calls for more funding, Democrats plans for accountability
-Summary: Transportation Secretary Sean Duffy demands more money for the country's air travel control systems. Democrats plan for accountability, but not enough of them showed up for an impeachment vote.
+Headline: U.S. tightens controls on remote access to AI technology amid Nvidia fallout
+Summary: The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.
 ---
 Source: NPR Politics
-Headline: Midterm voters ended the long-running GOP dominance in state legislatures
-Summary: In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.
+Headline: U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow
+Summary: Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.
 ---
 Source: NPR Politics
-Headline: New Mexico wanted free childcare for all. This is what's worked — and what hasn't
-Summary: A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.
+Headline: Nearly two million people are behind bars in the US. How did we get here?
+Summary: Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America, goes inside the U.S. prison system and explores how our approach to criminals has changed over time.
 ---
 Source: NPR Politics
-Headline: Trump blasts judge for halting his Washington golf project and says he will appeal
-Summary: A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.
+Headline: Lindsay Clancy to face a new trial in spring of 2027 over children's killing
+Summary: A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children.
 ---
 Source: NPR Politics
-Headline: Florida city cancels St. Patrick's Day parade, citing new anti-DEI law
-Summary: A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run.
----
-Source: NPR Politics
-Headline: 'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead
-Summary: Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections.
+Headline: FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia
+Summary: U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.
 ---
