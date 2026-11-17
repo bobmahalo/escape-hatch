@@ -27,6 +27,10 @@ Headline: Lindsay Clancy to face retrial next year for deaths of her three child
 Summary: The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.
 ---
 Source: NPR World
+Headline: Africa: Trading in yuan
+Summary: The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.
+---
+Source: NPR World
 Headline: U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow
 Summary: Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.
 ---
@@ -49,14 +53,6 @@ Summary: Preview of what to expect as President Trump meets with Chinese leader 
 Source: NPR World
 Headline: What's the real cost of fast fashion? Ask the people making your jeans
 Summary: Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?
----
-Source: NPR World
-Headline: Fuel crisis and protests pressure Chile's far-right president
-Summary: Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.
----
-Source: NPR Politics
-Headline: Questions about FAA funding roil Capitol Hill after nationwide ground stop
-Summary: Three days after a communications meltdown led the FAA to ground planes, there are big questions about what happened and how much money is needed to upgrade the country's air traffic control system.
 ---
 Source: NPR Politics
 Headline: California sues OpenAI over hacking risks
@@ -81,4 +77,8 @@ Summary: A new trial is set in Massachusetts against Lindsay Clancy as prosecuto
 Source: NPR Politics
 Headline: FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia
 Summary: U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.
+---
+Source: NPR Politics
+Headline: Chris Van Hollen says he can beat Chuck Schumer. Here's his case
+Summary: Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.
 ---

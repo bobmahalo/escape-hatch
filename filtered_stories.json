@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Five EU Nations Partner With Rwanda",
-    "event": "Germany, Denmark, Austria, Greece, and the Netherlands announced plans to establish a joint deportation hub in Rwanda for rejected asylum applicants.",
-    "context": "European Union member states face ongoing domestic political pressure to reduce irregular migration and offshore asylum processing.",
-    "scope": "Individuals whose asylum applications are rejected by the five participating European nations are subject to transfer to the central facility."
+    "headline": "EU Nations Plan Offshore Deportation Hub",
+    "event": "Germany, Denmark, Austria, Greece, and the Netherlands announced a joint initiative to establish a return facility for failed asylum seekers in Rwanda.",
+    "context": "European governments have increasingly sought externalized processing protocols to manage illegal immigration and processing backlog.",
+    "scope": "The policy directly affects non-citizens whose asylum claims have been rejected by the five participating European states."
   },
   {
-    "headline": "Ukraine Attacks Crimean Infrastructure Via Drones",
-    "event": "Ukrainian forces launched over 2,000 unmanned aerial vehicles targeting Russian assets, striking the Crimea bridge while Kyiv experienced 17 air raid warnings.",
-    "context": "The military action represents an escalation in long-range aerial strike warfare between the two belligerents.",
-    "scope": "Civilian populations and military personnel across Eastern Europe, Ukraine, occupied Crimea, and western Russia are directly affected."
+    "headline": "Ukraine Conducts Mass Drone Attack",
+    "event": "Ukrainian military forces deployed over 2,000 unmanned aerial vehicles against Russian targets, including the Crimean Bridge.",
+    "context": "The targeted infrastructure strike follows ongoing regional conflict and aerial bombardments between Ukraine and the Russian Federation.",
+    "scope": "The operations disrupt strategic transportation corridors in Crimea and affect urban populations subject to retaliatory air alerts."
   },
   {
-    "headline": "US President Meets Chinese Russian Leaders",
-    "event": "US President Donald Trump arrived in Shenzhen, China, to conduct trilateral diplomatic talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
-    "context": "The meeting occurs amid ongoing trade disputes regarding semiconductor technology and international security discussions regarding active armed conflicts.",
-    "scope": "Global trade sectors and diplomatic relations encompassing the populations of the United States, China, and the Russian Federation are involved."
+    "headline": "UN Negotiates Autonomous Weapon Regulations",
+    "event": "Delegates from international nations convened in Geneva to negotiate regulatory constraints on lethal autonomous weapons systems.",
+    "context": "Advances in machine learning have enabled military hardware to identify and engage targets without required real-time human intervention.",
+    "scope": "The outcome establishes prospective operational parameters for global defense manufacturing sectors and international armed forces."
   },
   {
-    "headline": "UN Holds Autonomous Weapons Negotiations",
-    "event": "International delegates gathered in Geneva to negotiate binding regulatory frameworks governing lethal autonomous weapons systems.",
-    "context": "Rapid developments in artificial intelligence have enabled military hardware to identify and engage targets without real-time human command.",
-    "scope": "Defense manufacturers, military organizations, and international security framework signatories are affected by potential policy outcomes."
+    "headline": "US Restricts Remote AI Access",
+    "event": "The United States government instituted regulatory restrictions prohibiting foreign entities from remotely accessing domestic artificial intelligence computing hardware.",
+    "context": "The policy update closes operational loopholes left by previous export sanctions that targeted physical silicon chip shipments to China.",
+    "scope": "The rule impacts global cloud computing vendors and foreign technology firms reliant on advanced processing infrastructure."
   },
   {
-    "headline": "US Restricts Remote Access To AI",
-    "event": "The United States government enacted a rule preventing Chinese companies from remotely accessing advanced American artificial intelligence hardware through cloud services.",
-    "context": "The regulation closes a technological loophole in existing physical export bans on high-performance semiconductors.",
-    "scope": "Technology corporations, cloud service providers, and artificial intelligence developers in the United States and China are bound by the regulation."
+    "headline": "Leaders Convene at Asia Summit",
+    "event": "The heads of state of the United States, China, and Russia scheduled high-level talks at the Asia-Pacific Economic Cooperation meeting in Shenzhen.",
+    "context": "The trilateral discussions follow bilateral trade tensions and recent shifts in domestic legislative control within the United States.",
+    "scope": "The diplomatic outcomes affect global supply chain policies and international trade relations among the three participating economies."
   }
 ]
