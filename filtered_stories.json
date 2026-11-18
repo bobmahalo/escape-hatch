@@ -1,32 +1,32 @@
 [
   {
-    "headline": "EU Nations Plan Offshore Deportation Hub",
-    "event": "Germany, Denmark, Austria, Greece, and the Netherlands announced a joint initiative to establish a return facility for failed asylum seekers in Rwanda.",
-    "context": "European governments have increasingly sought externalized processing protocols to manage illegal immigration and processing backlog.",
-    "scope": "The policy directly affects non-citizens whose asylum claims have been rejected by the five participating European states."
+    "headline": "U.S., China, Russia Leaders Meet",
+    "event": "U.S. President Donald Trump arrived in Shenzhen to attend a trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+    "context": "The meeting marks the first joint summit involving the current executive leaders of these three nations.",
+    "scope": "The proceedings directly affect the bilateral and multilateral diplomatic relations of the United States, China, and the Russian Federation."
   },
   {
-    "headline": "Ukraine Conducts Mass Drone Attack",
-    "event": "Ukrainian military forces deployed over 2,000 unmanned aerial vehicles against Russian targets, including the Crimean Bridge.",
-    "context": "The targeted infrastructure strike follows ongoing regional conflict and aerial bombardments between Ukraine and the Russian Federation.",
-    "scope": "The operations disrupt strategic transportation corridors in Crimea and affect urban populations subject to retaliatory air alerts."
+    "headline": "Israeli Forces Launch Operation in Gaza",
+    "event": "The Israeli military conducted a ground operation beyond the Yellow Line in Gaza to target subterranean infrastructure.",
+    "context": "The operation was initiated after Israeli authorities stated that armed groups were operating a tunnel network across the designated boundary line.",
+    "scope": "The action directly affects military personnel and local residents in the specified region of the Gaza Strip."
   },
   {
-    "headline": "UN Negotiates Autonomous Weapon Regulations",
-    "event": "Delegates from international nations convened in Geneva to negotiate regulatory constraints on lethal autonomous weapons systems.",
-    "context": "Advances in machine learning have enabled military hardware to identify and engage targets without required real-time human intervention.",
-    "scope": "The outcome establishes prospective operational parameters for global defense manufacturing sectors and international armed forces."
+    "headline": "Underground Combat Reported in Kharkiv Region",
+    "event": "Ukrainian and Russian forces engaged in military operations within a Soviet-era underground tunnel network in the Kharkiv region.",
+    "context": "Ground forces shifted tactical operations below surface level to avoid detection and targeting by unmanned aerial vehicles.",
+    "scope": "The combat conditions directly affect active-duty personnel stationed along the front lines in eastern Ukraine."
   },
   {
-    "headline": "US Restricts Remote AI Access",
-    "event": "The United States government instituted regulatory restrictions prohibiting foreign entities from remotely accessing domestic artificial intelligence computing hardware.",
-    "context": "The policy update closes operational loopholes left by previous export sanctions that targeted physical silicon chip shipments to China.",
-    "scope": "The rule impacts global cloud computing vendors and foreign technology firms reliant on advanced processing infrastructure."
+    "headline": "Democratic Candidate Wins Alaska Senate Race",
+    "event": "Former Representative Mary Peltola secured victory in the election for Alaska's seat in the United States Senate.",
+    "context": "The result alters the party control of the seat, changing the political composition of the state's congressional delegation.",
+    "scope": "The outcome influences the legislative voting ratio within the United States Senate and the electorate of Alaska."
   },
   {
-    "headline": "Leaders Convene at Asia Summit",
-    "event": "The heads of state of the United States, China, and Russia scheduled high-level talks at the Asia-Pacific Economic Cooperation meeting in Shenzhen.",
-    "context": "The trilateral discussions follow bilateral trade tensions and recent shifts in domestic legislative control within the United States.",
-    "scope": "The diplomatic outcomes affect global supply chain policies and international trade relations among the three participating economies."
+    "headline": "Hakeem Jeffries Nominated for House Speaker",
+    "event": "House Democrats elected Representative Hakeem Jeffries as their official nominee for Speaker of the United States House of Representatives.",
+    "context": "The party vote establishes leadership candidates ahead of the formal House-wide election for the legislative leadership position.",
+    "scope": "The nomination directly impacts the organizational structure and leadership of the United States House of Representatives."
   }
 ]
