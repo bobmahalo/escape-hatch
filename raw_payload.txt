@@ -1,30 +1,50 @@
 Source: BBC World
-Headline: Inside the old gas pipeline where Ukraine is fighting an underground war with Russia
-Summary: Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.
+Headline: Anthropic becomes one of world's most valuable public companies in stock market debut
+Summary: Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.
 ---
 Source: BBC World
-Headline: 'The drones don't fly here' - BBC reports from Ukraine's new front line
-Summary: Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.
+Headline: Myanmar committed genocide against Rohingya minority, top UN court rules
+Summary: The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.
 ---
 Source: BBC World
-Headline: Trump shakes hands with Putin and Xi ahead of historic talks in China
-Summary: The three leaders will meet together for the first time on Thursday during a closely-watched summit.
+Headline: Trump, Putin and Xi release 'peace declaration' after historic meeting
+Summary: While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.
 ---
 Source: BBC World
-Headline: Israeli military launches rare ground operation in Gaza beyond Yellow Line
-Summary: Hamas condemns the incursion, which the Israeli military says is dismantling a "terror tunnel", as a "flagrant" ceasefire violation.
+Headline: Europe ready for talks with Russia on ending war in Ukraine, leaders say
+Summary: European allies of Ukraine say they have a "united" negotiating position at a summit in Berlin.
 ---
 Source: BBC World
-Headline: Grand Theft Auto 6 is a masterpiece, say critics
-Summary: Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.
+Headline: Dozens missing after boat carrying migrants sinks off Senegal's coast
+Summary: At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.
 ---
 Source: BBC World
-Headline: Parents jailed for torture and death of four-year-old girl found along French motorway in 1987
-Summary: Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.
+Headline: Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge
+Summary: The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.
 ---
 Source: BBC World
-Headline: William and Kate meet PM Modi as they wrap up India tour
-Summary: The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize
+Headline: Fiona the hippo dies after swallowing a hat at Cincinnati Zoo
+Summary: Fiona, who became an internet star after her premature birth in 2017, "fought until she couldn’t anymore", the zoo says.
+---
+Source: NPR World
+Headline: The U.N.'s top court rules Myanmar committed genocide against the Rohingya
+Summary: The International Court of Justice found that Myanmar security forces "acted with genocidal intent" against the Rohingya during military operations in the northern Rakhine state in 2017.
+---
+Source: NPR World
+Headline: Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker
+Summary: Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.
+---
+Source: NPR World
+Headline: Top House Democrat questions what Trump accomplished in Xi-Putin summit
+Summary: Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.
+---
+Source: NPR World
+Headline: Iran's attacks on ships in the Strait of Hormuz escalate
+Summary: Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.
+---
+Source: NPR World
+Headline: Trump, Xi and Putin meet as global alliances hang in the balance
+Summary: President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.
 ---
 Source: NPR World
 Headline: Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story
@@ -34,51 +54,31 @@ Source: NPR World
 Headline: Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang
 Summary: Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.
 ---
-Source: NPR World
-Headline: Trump to meet with Russia's Putin and China's Xi for historic joint meeting
-Summary: President Trump will meet with Russian President Vladimir Putin and Chinese President Xi on Thursday for a historic three-way meeting.
----
-Source: NPR World
-Headline: Former U.S. ambassador on Trump's joint summit with leaders of China and Russia
-Summary: NPR's Leila Fadel speaks to Nicholas Burns, former U.S. ambassador to China and NATO, about President Trump's planned meeting with the leaders of China and Russia.
----
-Source: NPR World
-Headline: Greetings from a Berlin square, where an artist's statue watches over children at play
-Summary: Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.
----
-Source: NPR World
-Headline: Trump lands in China with key meetings with Xi and Putin on the agenda
-Summary: Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.
----
-Source: NPR World
-Headline: They tried to torture him into leaving Iraq. He refused to abandon the nature he protects
-Summary: Iran-backed militias kidnapped and tortured him, but Jassim al-Asadi is still on a mission to save Iraq's marshes, and a way of life stretching back to the dawn of history.
+Source: NPR Politics
+Headline: Judges have put Trump's arch and golf course on hold, but only for a matter of days
+Summary: A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.
 ---
 Source: NPR Politics
-Headline: Democratic strategists think Montana House race could hold the secret to future wins
-Summary: Montana is sending a Democrat to the U.S. House for the first time in three decades. Many in the party think Sam Forstag's campaign may be a playbook for how Democrats can win again in rural America.
+Headline: 'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race
+Summary: Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his victory.
 ---
 Source: NPR Politics
-Headline: As overdose deaths fall, White House makes misleading claims about who deserves credit
-Summary: In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.
+Headline: The midterms were the largest win for either party in 50 years
+Summary: Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate.
 ---
 Source: NPR Politics
-Headline: Democrats formally nominate Hakeem Jeffries for speaker of the House
-Summary: The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him.
+Headline: The U.N.'s top court rules Myanmar committed genocide against the Rohingya
+Summary: The International Court of Justice found that Myanmar security forces "acted with genocidal intent" against the Rohingya during military operations in the northern Rakhine state in 2017.
 ---
 Source: NPR Politics
-Headline: House Democrat warns 13 Trump allies to save their records for upcoming investigations
-Summary: Among the recipients of letters from Robert Garcia, incoming chair of the House Oversight Committee, are Donald Trump Jr. and Eric Trump, Jared Kushner and White House Chief of Staff Stephen Miller.
+Headline: Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker
+Summary: Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.
 ---
 Source: NPR Politics
-Headline: Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang
-Summary: Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.
+Headline: Incoming House majority leader Katherine Clark stresses Democratic unity
+Summary: As Democrats prepare to take control of the House, incoming majority leader Katherine Clark discusses the party's ambitious agenda and divisions within its ranks.
 ---
 Source: NPR Politics
-Headline: Trump lands in China with key meetings with Xi and Putin on the agenda
-Summary: Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.
----
-Source: NPR Politics
-Headline: How the East Potomac golf course became a D.C. landmark — and what could happen to it
-Summary: A federal judge is keeping East Potomac Park open for now, but hasn't ordered the government to keep the municipal golf course operational.
+Headline: Top House Democrat questions what Trump accomplished in Xi-Putin summit
+Summary: Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.
 ---

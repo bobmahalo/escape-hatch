@@ -1,32 +1,32 @@
 [
   {
-    "headline": "U.S., China, Russia Leaders Meet",
-    "event": "U.S. President Donald Trump arrived in Shenzhen to attend a trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin.",
-    "context": "The meeting marks the first joint summit involving the current executive leaders of these three nations.",
-    "scope": "The proceedings directly affect the bilateral and multilateral diplomatic relations of the United States, China, and the Russian Federation."
+    "headline": "ICJ Rules Myanmar Committed Genocide",
+    "event": "The International Court of Justice ruled that Myanmar security forces committed genocide against the Rohingya minority during 2017 military operations.",
+    "context": "The ruling concludes years of international legal proceedings regarding the 2017 military crackdown in Rakhine State that resulted in thousands of deaths.",
+    "scope": "The decision directly affects the government of Myanmar, international legal precedents, and an estimated one million displaced Rohingya refugees."
   },
   {
-    "headline": "Israeli Forces Launch Operation in Gaza",
-    "event": "The Israeli military conducted a ground operation beyond the Yellow Line in Gaza to target subterranean infrastructure.",
-    "context": "The operation was initiated after Israeli authorities stated that armed groups were operating a tunnel network across the designated boundary line.",
-    "scope": "The action directly affects military personnel and local residents in the specified region of the Gaza Strip."
+    "headline": "US Russia China Hold Trilateral Summit",
+    "event": "Leaders of the United States, China, and Russia conducted a trilateral meeting in Shenzhen and issued a joint peace declaration.",
+    "context": "The meeting marks the first formal trilateral summit between the executive leaders of all three powers to address nuclear disarmament and regional conflicts.",
+    "scope": "The diplomatic outcomes affect global security frameworks, international trade policies, and alliance structures across Europe and Asia."
   },
   {
-    "headline": "Underground Combat Reported in Kharkiv Region",
-    "event": "Ukrainian and Russian forces engaged in military operations within a Soviet-era underground tunnel network in the Kharkiv region.",
-    "context": "Ground forces shifted tactical operations below surface level to avoid detection and targeting by unmanned aerial vehicles.",
-    "scope": "The combat conditions directly affect active-duty personnel stationed along the front lines in eastern Ukraine."
+    "headline": "Anthropic Raises 100 Billion In IPO",
+    "event": "Artificial intelligence company Anthropic completed an initial public offering raising over 100 billion dollars in capital.",
+    "context": "The transaction represents the first public market listing of a corporation operating exclusively in foundational artificial intelligence development.",
+    "scope": "The listing affects public equities markets, technology sector valuations, and institutional investors globally."
   },
   {
-    "headline": "Democratic Candidate Wins Alaska Senate Race",
-    "event": "Former Representative Mary Peltola secured victory in the election for Alaska's seat in the United States Senate.",
-    "context": "The result alters the party control of the seat, changing the political composition of the state's congressional delegation.",
-    "scope": "The outcome influences the legislative voting ratio within the United States Senate and the electorate of Alaska."
+    "headline": "Iran Escalates Strait Of Hormuz Attacks",
+    "event": "Iranian forces initiated maritime attacks against commercial vessels in the Strait of Hormuz alongside regional airstrikes in the Persian Gulf.",
+    "context": "The Strait of Hormuz functions as a critical international transit corridor for approximately one-fifth of global petroleum consumption.",
+    "scope": "The military actions directly affect commercial maritime shipping operations, international energy supply chains, and Persian Gulf regional stability."
   },
   {
-    "headline": "Hakeem Jeffries Nominated for House Speaker",
-    "event": "House Democrats elected Representative Hakeem Jeffries as their official nominee for Speaker of the United States House of Representatives.",
-    "context": "The party vote establishes leadership candidates ahead of the formal House-wide election for the legislative leadership position.",
-    "scope": "The nomination directly impacts the organizational structure and leadership of the United States House of Representatives."
+    "headline": "European Leaders Propose Russia Ukraine Negotiations",
+    "event": "European leaders convened in Berlin and declared a unified position to begin negotiations with Russia to end the war in Ukraine.",
+    "context": "The announcement follows continued military engagements, including recent strategic strikes against infrastructure on the Crimean Peninsula.",
+    "scope": "The initiative impacts the sovereign territory of Ukraine, European national defense strategies, and broader Eurasian geopolitical relations."
   }
 ]
