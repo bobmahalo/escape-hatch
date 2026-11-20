@@ -1,32 +1,32 @@
 [
   {
     "headline": "ICJ Rules Myanmar Committed Genocide",
-    "event": "The International Court of Justice ruled that Myanmar security forces committed genocide against the Rohingya minority during 2017 military operations.",
-    "context": "The ruling concludes years of international legal proceedings regarding the 2017 military crackdown in Rakhine State that resulted in thousands of deaths.",
-    "scope": "The decision directly affects the government of Myanmar, international legal precedents, and an estimated one million displaced Rohingya refugees."
+    "event": "The International Court of Justice ruled that Myanmar security forces committed genocide against the Rohingya population during 2017 military operations.",
+    "context": "The ruling resolves a multi-year international judicial proceeding regarding military actions conducted in northern Rakhine state.",
+    "scope": "Directly affects the legal standing of the government of Myanmar and approximately one million displaced Rohingya refugees."
   },
   {
-    "headline": "US Russia China Hold Trilateral Summit",
-    "event": "Leaders of the United States, China, and Russia conducted a trilateral meeting in Shenzhen and issued a joint peace declaration.",
-    "context": "The meeting marks the first formal trilateral summit between the executive leaders of all three powers to address nuclear disarmament and regional conflicts.",
-    "scope": "The diplomatic outcomes affect global security frameworks, international trade policies, and alliance structures across Europe and Asia."
+    "headline": "Russian Missile Hits Polish Territory",
+    "event": "A Russian missile landed inside Poland during military exercises conducted by Ukraine's allies, causing no recorded casualties.",
+    "context": "The strike occurred during an intensified Russian aerial campaign targeting strategic Ukrainian transit infrastructure.",
+    "scope": "Directly impacts defense protocols for NATO member states and military personnel operating along the eastern European border."
   },
   {
-    "headline": "Anthropic Raises 100 Billion In IPO",
-    "event": "Artificial intelligence company Anthropic completed an initial public offering raising over 100 billion dollars in capital.",
-    "context": "The transaction represents the first public market listing of a corporation operating exclusively in foundational artificial intelligence development.",
-    "scope": "The listing affects public equities markets, technology sector valuations, and institutional investors globally."
+    "headline": "UK and EU Sign Cooperation Agreement",
+    "event": "The United Kingdom and the European Union finalized a bilateral agreement covering agricultural exports, emissions trading systems, and youth mobility programs.",
+    "context": "The summit represents the first formal policy realignment between both parties since the UK's withdrawal from the bloc.",
+    "scope": "Applies to commercial exporters, energy traders, and mobile workers across the UK and the 27 EU member nations."
   },
   {
-    "headline": "Iran Escalates Strait Of Hormuz Attacks",
-    "event": "Iranian forces initiated maritime attacks against commercial vessels in the Strait of Hormuz alongside regional airstrikes in the Persian Gulf.",
-    "context": "The Strait of Hormuz functions as a critical international transit corridor for approximately one-fifth of global petroleum consumption.",
-    "scope": "The military actions directly affect commercial maritime shipping operations, international energy supply chains, and Persian Gulf regional stability."
+    "headline": "US Lawmakers Dispute Iran War Funding",
+    "event": "Congressional Democrats proposed legislation to restrict funding for military operations in Iran within the pending federal budget.",
+    "context": "United States lawmakers face an upcoming statutory deadline to pass government funding to prevent a federal shutdown.",
+    "scope": "Statistically affects United States federal agency operations, military resource allocations, and domestic taxpayers."
   },
   {
-    "headline": "European Leaders Propose Russia Ukraine Negotiations",
-    "event": "European leaders convened in Berlin and declared a unified position to begin negotiations with Russia to end the war in Ukraine.",
-    "context": "The announcement follows continued military engagements, including recent strategic strikes against infrastructure on the Crimean Peninsula.",
-    "scope": "The initiative impacts the sovereign territory of Ukraine, European national defense strategies, and broader Eurasian geopolitical relations."
+    "headline": "US Proposes Overseas AI Data Restrictions",
+    "event": "The US administration announced a policy proposal to prohibit domestic technology firms from building artificial intelligence data centers in foreign countries.",
+    "context": "The statement coincides with broader market volatility across international technology equities following major initial public offerings.",
+    "scope": "Directly impacts United States technology corporations, international infrastructure developers, and foreign capital markets."
   }
 ]

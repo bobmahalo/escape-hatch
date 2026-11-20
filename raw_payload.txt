@@ -1,30 +1,50 @@
 Source: BBC World
-Headline: Anthropic becomes one of world's most valuable public companies in stock market debut
-Summary: Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.
+Headline: UK to explore even closer ties with EU after agreeing deal, says Burnham
+Summary: The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.
 ---
 Source: BBC World
-Headline: Myanmar committed genocide against Rohingya minority, top UN court rules
-Summary: The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.
+Headline: Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk
+Summary: Nobody was hurt and no damage has been reported, but Warsaw described the incident as a "provocation" from Moscow.
 ---
 Source: BBC World
-Headline: Trump, Putin and Xi release 'peace declaration' after historic meeting
-Summary: While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.
+Headline: Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge
+Summary: Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.
 ---
 Source: BBC World
-Headline: Europe ready for talks with Russia on ending war in Ukraine, leaders say
-Summary: European allies of Ukraine say they have a "united" negotiating position at a summit in Berlin.
+Headline: Gérard Depardieu and French author investigated over sexual allegations
+Summary: A judicial investigation was launched after a complaint was filed last year over "allegations of a sexual nature".
 ---
 Source: BBC World
-Headline: Dozens missing after boat carrying migrants sinks off Senegal's coast
-Summary: At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.
+Headline: Anthropic shares fall after blockbuster opening as wider tech sell-off continues
+Summary: Other tech companies have also taken a hit as share markets broadly slump.
 ---
 Source: BBC World
-Headline: Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge
-Summary: The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.
+Headline: Trump threatens ban on US firms building AI data centres overseas
+Summary: The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.
 ---
 Source: BBC World
-Headline: Fiona the hippo dies after swallowing a hat at Cincinnati Zoo
-Summary: Fiona, who became an internet star after her premature birth in 2017, "fought until she couldn’t anymore", the zoo says.
+Headline: Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper
+Summary: The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.
+---
+Source: NPR World
+Headline: Another day of survival for a family in Ukraine
+Summary: On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.
+---
+Source: NPR World
+Headline: Trump touts meeting with Xi and Putin but offers little results
+Summary: At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.
+---
+Source: NPR World
+Headline: Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa
+Summary: Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.
+---
+Source: NPR World
+Headline: GOP Sen. Johnson rejects tying government funding to an end to the Iran war
+Summary: "We're not going to shut down the war," Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.
+---
+Source: NPR World
+Headline: The U.K. and EU hold a rare summit to strengthen ties
+Summary: A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.
 ---
 Source: NPR World
 Headline: The U.N.'s top court rules Myanmar committed genocide against the Rohingya
@@ -34,51 +54,31 @@ Source: NPR World
 Headline: Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker
 Summary: Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.
 ---
-Source: NPR World
-Headline: Top House Democrat questions what Trump accomplished in Xi-Putin summit
-Summary: Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.
----
-Source: NPR World
-Headline: Iran's attacks on ships in the Strait of Hormuz escalate
-Summary: Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.
----
-Source: NPR World
-Headline: Trump, Xi and Putin meet as global alliances hang in the balance
-Summary: President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.
----
-Source: NPR World
-Headline: Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story
-Summary: On NPR's Morning Edition, fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.
----
-Source: NPR World
-Headline: Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang
-Summary: Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.
+Source: NPR Politics
+Headline: The latest from Trump's press conference
+Summary: President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.
 ---
 Source: NPR Politics
-Headline: Judges have put Trump's arch and golf course on hold, but only for a matter of days
-Summary: A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.
+Headline: A second judge blocks Trump's arch, saying it's unlikely to succeed in court
+Summary: A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.
 ---
 Source: NPR Politics
-Headline: 'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race
-Summary: Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his victory.
+Headline: Trump initially accepted the midterm results, but most GOP voters doubt they were fair
+Summary: Less than half of Republicans nationwide considered the midterm elections "free and fair," according to new polling.
 ---
 Source: NPR Politics
-Headline: The midterms were the largest win for either party in 50 years
-Summary: Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate.
+Headline: Trump touts meeting with Xi and Putin but offers little results
+Summary: At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.
 ---
 Source: NPR Politics
-Headline: The U.N.'s top court rules Myanmar committed genocide against the Rohingya
-Summary: The International Court of Justice found that Myanmar security forces "acted with genocidal intent" against the Rohingya during military operations in the northern Rakhine state in 2017.
+Headline: Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain
+Summary: The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.
 ---
 Source: NPR Politics
-Headline: Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker
-Summary: Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.
+Headline: Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa
+Summary: Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.
 ---
 Source: NPR Politics
-Headline: Incoming House majority leader Katherine Clark stresses Democratic unity
-Summary: As Democrats prepare to take control of the House, incoming majority leader Katherine Clark discusses the party's ambitious agenda and divisions within its ranks.
----
-Source: NPR Politics
-Headline: Top House Democrat questions what Trump accomplished in Xi-Putin summit
-Summary: Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.
+Headline: GOP Sen. Johnson rejects tying government funding to an end to the Iran war
+Summary: "We're not going to shut down the war," Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.
 ---
