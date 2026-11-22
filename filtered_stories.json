@@ -1,32 +1,32 @@
 [
   {
-    "headline": "UN Fails to Regulate Autonomous Weapons",
-    "event": "United Nations talks in Geneva ended without establishing legally binding rules for autonomous weapons systems, extending discussions for two years.",
-    "context": "Humanitarian organizations have sought international diplomatic frameworks as military applications of artificial intelligence advance.",
-    "scope": "All United Nations member states and global defense technology sectors are directly affected by the regulatory status."
+    "headline": "COP31 Summit Ends Without Consensus Agreement",
+    "event": "Negotiations at the COP31 climate conference in Antalya concluded without a joint agreement following disputes regarding fossil fuel terminology.",
+    "context": "The annual United Nations summit brings together representatives from approximately 200 nations to establish international targets for reducing greenhouse gas emissions.",
+    "scope": "The outcome affects global regulatory climate policies and international emission targets for nearly 200 participating countries."
   },
   {
-    "headline": "COP31 Climate Negotiations Reach Deadlock",
-    "event": "Delegates from nearly 200 countries failed to reach consensus on a global climate agreement regarding fossil fuels at the COP31 summit.",
-    "context": "Participating nations remain divided over transition timelines and financial obligations associated with global carbon reduction targets.",
-    "scope": "Populations across the participating 200 nations and the global energy sector are impacted by the legislative impasse."
+    "headline": "UN Talks on Autonomous Weapons Fail",
+    "event": "United Nations negotiations in Geneva failed to establish legally binding regulations for artificial intelligence in military weapons systems.",
+    "context": "International delegates and non-governmental organizations have sought binding global treaties as military applications of artificial intelligence advance faster than diplomatic consensus.",
+    "scope": "The lack of agreement impacts international arms control frameworks and global defense policy standards."
   },
   {
-    "headline": "Major US Markets Enter Correction Territory",
-    "event": "The S&P 500 and the Dow Jones Industrial Average entered correction territory following a broad sell-off in technology sector stocks.",
-    "context": "Market declines accelerated following valuation drops in prominent artificial intelligence companies, including Anthropic.",
-    "scope": "Global equity markets, institutional investors, and individual shareowners are statistically affected by the market decline."
+    "headline": "Israeli Troops Withdraw From Southern Lebanon",
+    "event": "Israeli military units pulled back from select southern Lebanese villages as the Lebanese national army moved into the area.",
+    "context": "The transition follows extended military engagements in southern Lebanon between Israeli forces and regional armed groups.",
+    "scope": "The redeployment directly affects returning civilian residents and military personnel operating in southern Lebanon."
   },
   {
-    "headline": "Mexican Authorities Detain Cartel Leader Meza",
-    "event": "Mexican security forces arrested cartel leader Fausto Isidro Meza Flores following an armed confrontation in northwest Mexico.",
-    "context": "Meza Flores was designated on the Federal Bureau of Investigation's most wanted list on charges related to international drug trafficking.",
-    "scope": "Residents of northwest Mexico experiencing resultant regional unrest and international law enforcement agencies are directly affected."
+    "headline": "Mexican Security Forces Arrest Cartel Leader",
+    "event": "Mexican authorities arrested fugitive cartel leader Fausto Isidro Meza Flores in northwest Mexico during an operation that resulted in 11 fatalities.",
+    "context": "Meza Flores was listed on the US Federal Bureau of Investigation's most wanted list for transnational narcotics distribution.",
+    "scope": "The operation directly impacts law enforcement agencies and civil populations in the affected regions of northwest Mexico."
   },
   {
-    "headline": "FBI Investigates National Crime Database Hack",
-    "event": "The Federal Bureau of Investigation initiated an inquiry into an apparent cyber intrusion targeting the National Crime Information Center database.",
-    "context": "The targeted database functions as the central system for exchanging criminal justice information among US law enforcement entities.",
-    "scope": "Federal, state, and local law enforcement agencies relying on centralized criminal data are directly affected."
+    "headline": "US Executive Order Restricts Contractor Disclosures",
+    "event": "President Donald Trump signed an executive order requiring federal contractors to obtain White House authorization before responding to congressional inquiries.",
+    "context": "The order was issued weeks prior to a party leadership transition in the United States House of Representatives.",
+    "scope": "The policy directly affects private entities holding federal contracts and congressional committees conducting executive oversight."
   }
 ]
