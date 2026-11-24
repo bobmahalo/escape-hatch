@@ -1,32 +1,32 @@
 [
   {
-    "headline": "COP31 Summit Ends Without Consensus Agreement",
-    "event": "Negotiations at the COP31 climate conference in Antalya concluded without a joint agreement following disputes regarding fossil fuel terminology.",
-    "context": "The annual United Nations summit brings together representatives from approximately 200 nations to establish international targets for reducing greenhouse gas emissions.",
-    "scope": "The outcome affects global regulatory climate policies and international emission targets for nearly 200 participating countries."
+    "headline": "COP31 Concludes Without Global Agreement",
+    "event": "The COP31 climate negotiations in Antalya ended without consensus among participating nations on fossil fuel reductions and climate financing.",
+    "context": "Talks extended past the official deadline due to persistent disputes between oil-producing nations, financial contributors, and developing countries.",
+    "scope": "The lack of agreement impacts global regulatory targets and climate funding frameworks for nearly 200 member states."
   },
   {
-    "headline": "UN Talks on Autonomous Weapons Fail",
-    "event": "United Nations negotiations in Geneva failed to establish legally binding regulations for artificial intelligence in military weapons systems.",
-    "context": "International delegates and non-governmental organizations have sought binding global treaties as military applications of artificial intelligence advance faster than diplomatic consensus.",
-    "scope": "The lack of agreement impacts international arms control frameworks and global defense policy standards."
+    "headline": "Ukrainian Drones Strike Russian Ship",
+    "event": "Ukrainian military forces deployed sea drones to target and sink a Russian navy vessel docked in Libya.",
+    "context": "The strike marks an geographic expansion of Ukrainian offensive operations against Russian military assets outside of Europe.",
+    "scope": "The operation directly alters maritime defense postures and affects regional security protocols in North Africa."
   },
   {
-    "headline": "Israeli Troops Withdraw From Southern Lebanon",
-    "event": "Israeli military units pulled back from select southern Lebanese villages as the Lebanese national army moved into the area.",
-    "context": "The transition follows extended military engagements in southern Lebanon between Israeli forces and regional armed groups.",
-    "scope": "The redeployment directly affects returning civilian residents and military personnel operating in southern Lebanon."
+    "headline": "Russian Missiles Land Inside Poland",
+    "event": "Three Russian cruise missiles crossed into Polish airspace and landed within NATO territorial boundaries.",
+    "context": "Cross-border incidents have increased in frequency as Russian long-range missile strikes occur in close proximity to eastern European nations.",
+    "scope": "The strategic breach directly involves NATO defense commitments and military readiness across eastern alliance states."
   },
   {
-    "headline": "Mexican Security Forces Arrest Cartel Leader",
-    "event": "Mexican authorities arrested fugitive cartel leader Fausto Isidro Meza Flores in northwest Mexico during an operation that resulted in 11 fatalities.",
-    "context": "Meza Flores was listed on the US Federal Bureau of Investigation's most wanted list for transnational narcotics distribution.",
-    "scope": "The operation directly impacts law enforcement agencies and civil populations in the affected regions of northwest Mexico."
+    "headline": "Democrats Win Control Of US House",
+    "event": "The Democratic Party achieved a majority in the United States House of Representatives by flipping at least 47 seats.",
+    "context": "The outcome follows national midterm elections that altered the balance of legislative power in Washington.",
+    "scope": "The majority shift impacts United States federal legislative approvals, committee leadership, and statutory oversight."
   },
   {
-    "headline": "US Executive Order Restricts Contractor Disclosures",
-    "event": "President Donald Trump signed an executive order requiring federal contractors to obtain White House authorization before responding to congressional inquiries.",
-    "context": "The order was issued weeks prior to a party leadership transition in the United States House of Representatives.",
-    "scope": "The policy directly affects private entities holding federal contracts and congressional committees conducting executive oversight."
+    "headline": "US Blacklists Asian Tech Firm",
+    "event": "The United States government moved to place technology company Megaspeed on an trade blacklist for diversion of AI microchips to China.",
+    "context": "The regulatory action follows federal investigations into violations of United States export controls on advanced semiconductor hardware.",
+    "scope": "The sanctions directly restrict Megaspeed's access to American components and affect international semiconductor supply networks."
   }
 ]

@@ -1,30 +1,50 @@
 Source: BBC World
-Headline: COP31 fails to reach major climate deal as talks expose deep divisions
-Summary: The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.
+Headline: US to blacklist Asian AI firm Megaspeed after Nvidia scandal
+Summary: Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.
 ---
 Source: BBC World
-Headline: What's next after no deal at COP31 climate talks?
-Summary: The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.
+Headline: Russian warship hit by Ukrainian drones in Libya, Zelensky says
+Summary: The Kremlin warns of an "escalation of tensions in the region", but declines to comment directly on the attacks in Libya.
 ---
 Source: BBC World
-Headline: Explosion on Russian ship at Libya port caused by suspected drone attack, officials say
-Summary: Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.
+Headline: What strike on Russian ship in Libya says about spread of Ukraine war
+Summary: Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.
 ---
 Source: BBC World
-Headline: 'Danger seems greater all the time': Ukrainians search for missing after Russian strikes
-Summary: The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.
+Headline: Iranian authorities flog singer who performed without hijab, lawyers say
+Summary: Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.
 ---
 Source: BBC World
-Headline: Russia-bound ship towed away after it was attacked in Gulf of Finland
-Summary: Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.
+Headline: What failure of COP31 reveals about a divided world
+Summary: Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.
 ---
 Source: BBC World
-Headline: South Korea education minister resigns over exam cheating scandal
-Summary: Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.
+Headline: Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says
+Summary: The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.
 ---
 Source: BBC World
-Headline: Three killed and dozens missing after fire at Indonesian factory
-Summary: At least three people were killed and many more feared dead after a fire at a confectionary factory.
+Headline: India pledges $1.6bn to Nepal in reset of ties
+Summary: As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.
+---
+Source: NPR World
+Headline: Russian incursions into NATO territory are increasing
+Summary: NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.
+---
+Source: NPR World
+Headline: Democrats win House by largest margin in 50 years. And, COP31 ends with no deal
+Summary: Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.
+---
+Source: NPR World
+Headline: Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya
+Summary: Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.
+---
+Source: NPR World
+Headline: Ukraine war spilling into NATO territory
+Summary: The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.
+---
+Source: NPR World
+Headline: Luxury development planned on land some Albanians say is theirs, not Jared Kushner's
+Summary: A company working for President Trump's son-in-law Jared Kushner purchased 300 acres of Albanian land for more than $130 million in April. But Albanians in the area tell NPR this is not Kushner's land -- it's theirs.
 ---
 Source: NPR World
 Headline: Lebanese villagers return to wrecked homes as the Israeli army pulls back
@@ -34,25 +54,17 @@ Source: NPR World
 Headline: Climate change talks fall apart in final hours over fossil fuels
 Summary: Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.
 ---
-Source: NPR World
-Headline: What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?
-Summary: NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.
+Source: NPR Politics
+Headline: California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations
+Summary: California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by "making unwelcome sexual advances."
 ---
-Source: NPR World
-Headline: Highlights and challenges from covering an historic month in South America
-Summary: NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.
+Source: NPR Politics
+Headline: Democrats win House by largest margin in 50 years. And, COP31 ends with no deal
+Summary: Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.
 ---
-Source: NPR World
-Headline: A grieving family in Lebanon returns to their village
-Summary: In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.
----
-Source: NPR World
-Headline: Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead
-Summary: Fausto Isidro Meza Flores, better known as "El Chapo Isidro," was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.
----
-Source: NPR World
-Headline: Killer robots: U.N. talks fall short of hopes for legally binding rules
-Summary: U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.
+Source: NPR Politics
+Headline: After midterm losses, Republicans debate what's next for the party
+Summary: In the wake of their midterm election losses, Republicans are discussing what happened and what the future might be for their party.
 ---
 Source: NPR Politics
 Headline: Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress
@@ -69,16 +81,4 @@ Summary: Open enrollment for Medicare runs through Dec. 7, and there are a few d
 Source: NPR Politics
 Headline: Trump orders federal contractors to check with White House before responding to Congress
 Summary: President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.
----
-Source: NPR Politics
-Headline: How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats
-Summary: In North Carolina, Republican lawmakers redrew voting maps, aiming to  gain one seat in Congress. Instead, they lost two seats, in a classic example of what political scientists call a "dummymander."
----
-Source: NPR Politics
-Headline: The New Yorker's Jason Zengerle on Hakeem Jeffries' rise to first Black House speaker
-Summary: Hakeem Jeffries is set to become the first-ever African American speaker of the U.S. House of Representatives. NPR's Scott Simon talks to Jason Zengerle of The New Yorker about the rise of Jeffries.
----
-Source: NPR Politics
-Headline: Week in Politics: Trump returns from Asia; hails trip as one of best in history
-Summary: President Trump returned from his trip to Asia, saying it was one of the most successful presidential visits to that continent -- or anywhere else -- in American history.
 ---
