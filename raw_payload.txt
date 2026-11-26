@@ -1,58 +1,66 @@
 Source: BBC World
-Headline: US attorney general dodges questions about Nvidia investigation
-Summary: Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.
+Headline: US announces new tariffs on host of countries including China
+Summary: The new levies would hit many of America's biggest trading partners, including China and the EU.
 ---
 Source: BBC World
-Headline: French ex-President Sarkozy and wife Carla Bruni to face trial
-Summary: It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.
+Headline: Images of asteroid targeted to test Earth's defences reveal stadium-sized crater
+Summary: The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago
 ---
 Source: BBC World
-Headline: Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight
-Summary: Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.
+Headline: Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway
+Summary: Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.
 ---
 Source: BBC World
-Headline: Huawei found guilty of stealing trade secrets but acquitted of racketeering
-Summary: The verdict follows a months-long trial in New York.
+Headline: Israeli judges recommend dropping most serious charges against Netanyahu
+Summary: The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.
 ---
 Source: BBC World
-Headline: Land mine casualties soar in Syria, two years after war
-Summary: Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.
+Headline: US stocks fall further as fears over AI intensify
+Summary: All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.
 ---
 Source: BBC World
-Headline: Nigerian monarch, 92, suspended after sexual assault claims
-Summary: The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.
+Headline: US Army says controlled blast of explosives in Iowa was 'huge success'
+Summary: Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.
 ---
 Source: BBC World
-Headline: Israeli air strike kills Hamas internal security chief in Gaza
-Summary: Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.
+Headline: North Korea expels Swiss diplomat in sanctions row
+Summary: Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.
+---
+Source: NPR World
+Headline: How American Thanksgiving took root -- and evolved -- in Liberia
+Summary: The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.
+---
+Source: NPR World
+Headline: Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.
+Summary: Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.
+---
+Source: NPR World
+Headline: Republican wants FBI and CIA answers before questioning Nvidia chief
+Summary: "The public is rightly concerned," says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.
+---
+Source: NPR World
+Headline: Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor
+Summary: Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.
+---
+Source: NPR World
+Headline: China investigates Politburo member and Shanghai party chief Chen Jining
+Summary: The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.
+---
+Source: NPR World
+Headline: Africa Cup title given back to Senegal after sports court rules against Morocco
+Summary: Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.
 ---
 Source: NPR World
 Headline: Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?
 Summary: Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.
 ---
-Source: NPR World
-Headline: Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct
-Summary: President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.
+Source: NPR Politics
+Headline: Group of Senate Democrats push to add freshman to leadership
+Summary: Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.
 ---
-Source: NPR World
-Headline: The human cost of the electric vehicle boom is at the center of a lawsuit in Congo
-Summary: A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.
----
-Source: NPR World
-Headline: Meet Colombia's fuzzy 'water guardians'
-Summary: High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.
----
-Source: NPR World
-Headline: Fighting between Russia and Ukraine has expanded geographically, drawing concerns
-Summary: In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.
----
-Source: NPR World
-Headline: Russian incursions into NATO territory are increasing
-Summary: NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.
----
-Source: NPR World
-Headline: Democrats win House by largest margin in 50 years. And, COP31 ends with no deal
-Summary: Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.
+Source: NPR Politics
+Headline: Republican wants FBI and CIA answers before questioning Nvidia chief
+Summary: "The public is rightly concerned," says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.
 ---
 Source: NPR Politics
 Headline: Moving to Florida may become a choice of some Republicans after midterms
@@ -73,12 +81,4 @@ Summary: President Trump touted the return of Jensen Huang to Nvidia's C-suite a
 Source: NPR Politics
 Headline: For workplace culture champions, Jensen Huang's return is 'unfathomable'
 Summary: Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.
----
-Source: NPR Politics
-Headline: Democrats probe whether Trump Jr.-aligned businesses benefit from government access
-Summary: Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection.
----
-Source: NPR Politics
-Headline: California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations
-Summary: California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by "making unwelcome sexual advances."
 ---
