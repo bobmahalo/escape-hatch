@@ -1,33 +1,45 @@
 Source: BBC World
-Headline: US announces new tariffs on host of countries including China
-Summary: The new levies would hit many of America's biggest trading partners, including China and the EU.
+Headline: US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC
+Summary: Ukraine's president voices frustration with US and says it is "strange" Trump has described Vladimir Putin as a friend.
 ---
 Source: BBC World
-Headline: Images of asteroid targeted to test Earth's defences reveal stadium-sized crater
-Summary: The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago
+Headline: Major Thanksgiving storm brings flooding, flight delays across US
+Summary: Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.
 ---
 Source: BBC World
-Headline: Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway
-Summary: Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.
+Headline: Watch: Roofs torn off and streets under water as severe weather hits US
+Summary: Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.
 ---
 Source: BBC World
-Headline: Israeli judges recommend dropping most serious charges against Netanyahu
-Summary: The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.
+Headline: German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
+Summary: Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.
 ---
 Source: BBC World
-Headline: US stocks fall further as fears over AI intensify
-Summary: All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.
+Headline: Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
+Summary: Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.
 ---
 Source: BBC World
-Headline: US Army says controlled blast of explosives in Iowa was 'huge success'
-Summary: Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.
+Headline: Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one
+Summary: The possible environmental damage is still being assessed by Spain's sea rescue service.
 ---
 Source: BBC World
-Headline: North Korea expels Swiss diplomat in sanctions row
-Summary: Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.
+Headline: Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules
+Summary: A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.
 ---
 Source: NPR World
-Headline: How American Thanksgiving took root -- and evolved -- in Liberia
+Headline: Congo Ebola outbreak reaches 12,000 cases as some responders evacuate
+Summary: As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.
+---
+Source: NPR World
+Headline: North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture
+Summary: Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.
+---
+Source: NPR World
+Headline: Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says
+Summary: The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.
+---
+Source: NPR World
+Headline: How American Thanksgiving took root — and evolved — in Liberia
 Summary: The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.
 ---
 Source: NPR World
@@ -42,43 +54,31 @@ Source: NPR World
 Headline: Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor
 Summary: Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.
 ---
-Source: NPR World
-Headline: China investigates Politburo member and Shanghai party chief Chen Jining
-Summary: The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.
+Source: NPR Politics
+Headline: After Democrats' midterm wins, some hope attacks on DEI will ease
+Summary: After the midterms, a Democratic congressman declared that DEI is back. What does Democrats' ascendance portend for diversity initiatives that the Trump administration relentlessly attacked?
 ---
-Source: NPR World
-Headline: Africa Cup title given back to Senegal after sports court rules against Morocco
-Summary: Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.
+Source: NPR Politics
+Headline: Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says
+Summary: The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.
 ---
-Source: NPR World
-Headline: Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?
-Summary: Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.
+Source: NPR Politics
+Headline: Trump administration proposes new tariffs on goods from major U.S. trading partners
+Summary: President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates.
+---
+Source: NPR Politics
+Headline: Sen. Tim Kaine, D-Va., shares why he opposes Trump's proposed tariffs
+Summary: NPR's A Martinez speaks with Virginia Sen. Tim Kaine about the Democrat's opposition to President Trump's new tariffs.
+---
+Source: NPR Politics
+Headline: Court lets Puerto Rico governor fire firm that runs the island's troubled power grid
+Summary: LUMA Energy took over the electric grid five years ago. The court's ruling nullifies its contract, and gives the government a year to find a new operator.
+---
+Source: NPR Politics
+Headline: U.S. Judge rules FCC violated ABC's free speech rights to please Trump
+Summary: A federal judge has blocked the Trump administration from moving to review all local broadcast licenses held by ABC. The stations air in six of the largest U.S. markets.
 ---
 Source: NPR Politics
 Headline: Group of Senate Democrats push to add freshman to leadership
 Summary: Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.
----
-Source: NPR Politics
-Headline: Republican wants FBI and CIA answers before questioning Nvidia chief
-Summary: "The public is rightly concerned," says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.
----
-Source: NPR Politics
-Headline: Moving to Florida may become a choice of some Republicans after midterms
-Summary: In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.
----
-Source: NPR Politics
-Headline: The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels
-Summary: The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.
----
-Source: NPR Politics
-Headline: Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct
-Summary: President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.
----
-Source: NPR Politics
-Headline: Trump takes credit for Jensen Huang returns to Nvidia, says its good for the economy
-Summary: President Trump touted the return of Jensen Huang to Nvidia's C-suite as good for the company -- and good for the United States economy.
----
-Source: NPR Politics
-Headline: For workplace culture champions, Jensen Huang's return is 'unfathomable'
-Summary: Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.
 ---

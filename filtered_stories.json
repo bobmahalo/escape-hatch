@@ -1,32 +1,32 @@
 [
   {
-    "headline": "United States Imposes New International Tariffs",
-    "event": "The United States government announced new tariffs targeting multiple trading partners, including China and the European Union.",
-    "context": "The measures represent a continuation of trade policy adjustments regarding foreign import duties and international commerce.",
-    "scope": "Commercial importers, foreign manufacturing sectors, and consumers in the United States, China, and the European Union are directly affected."
+    "headline": "Congo Ebola Outbreak Exceeds 12,000 Cases",
+    "event": "The Ebola outbreak in the eastern Democratic Republic of the Congo reached 12,000 recorded cases as military conflict disrupted medical containment efforts.",
+    "context": "Eastern Congo has experienced persistent armed conflict between state forces and rebel groups, impacting public healthcare infrastructure.",
+    "scope": "The outbreak directly affects populations in eastern Congo and poses transmission risks to adjacent Central African nations."
   },
   {
-    "headline": "Judges Recommend Reducing Netanyahu Charges",
-    "event": "Judges presiding over the trial of Israeli Prime Minister Benjamin Netanyahu recommended dropping the most serious charges due to a low probability of conviction.",
-    "context": "Netanyahu has been undergoing a judicial trial across three separate cases involving allegations of fraud, breach of trust, and bribery.",
-    "scope": "The governance of Israel and the legal proceedings surrounding its political leadership are directly impacted."
+    "headline": "North Korea Expands Nuclear Material Production",
+    "event": "North Korean leadership ordered an expansion in the production of weapons-grade nuclear materials.",
+    "context": "The mandate follows security tensions involving joint military maneuvers by the United States and South Korea.",
+    "scope": "The strategy affects international security assessments and diplomatic relations throughout East Asia."
   },
   {
-    "headline": "China Investigates Senior Politburo Official",
-    "event": "Chinese authorities opened an official investigation into Politburo member and Shanghai party chief Chen Jining.",
-    "context": "The investigation is part of an ongoing state-level anti-corruption effort led by President Xi Jinping targeting senior party officials.",
-    "scope": "The administrative governance of Shanghai and the executive leadership structure of the Chinese Communist Party are affected."
+    "headline": "United States Proposes Trade Tariff Increases",
+    "event": "The United States administration introduced proposals for new import tariffs on products from primary trading partners.",
+    "context": "The proposal follows executive economic initiatives intended to alter bilateral trade balances.",
+    "scope": "The tariffs directly impact foreign manufacturing sectors and international consumer trade flows."
   },
   {
-    "headline": "US Investigates Cyberattacks on Vessels",
-    "event": "United States intelligence officials initiated an investigation into alleged Iranian cyberattacks targeting up to 50 commercial maritime vessels.",
-    "context": "The investigation occurs during a period of heightened geopolitical tensions and infrastructure security concerns between the United States and Iran.",
-    "scope": "Global maritime freight operators, vessel crews, and international commercial shipping routes are affected."
+    "headline": "Diesel Tanker Capsizes Near Spanish Island",
+    "event": "A maritime tanker carrying up to 7,000 tonnes of diesel fuel capsized near Ibiza, causing one recorded fatality.",
+    "context": "The Balearic sea route serves as a transit corridor for industrial fuel distribution in the Western Mediterranean.",
+    "scope": "The spill poses ecological contamination risks to surrounding marine environments and regional coastal fisheries."
   },
   {
-    "headline": "Fuel Tanker Crash Kills Thirty-One",
-    "event": "A fuel tanker overturned and caught fire on a main highway in Cairo, resulting in 31 fatalities and 21 injuries.",
-    "context": "The incident occurred on a heavily trafficked arterial ring road servicing the Egyptian capital.",
-    "scope": "The victims, their families, and local transportation networks in the Cairo metropolitan area are directly affected."
+    "headline": "US Federal Court Limits FCC Authority",
+    "event": "A federal judge ruled that regulatory attempts to review ABC broadcast licenses violated constitutional free speech rights.",
+    "context": "The legal dispute arose from administrative threats to challenge network operating licenses following satirical programming.",
+    "scope": "The ruling directly protects broadcast operations for local stations in six major United States television markets."
   }
 ]
