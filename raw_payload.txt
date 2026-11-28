@@ -1,30 +1,42 @@
 Source: BBC World
-Headline: US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC
-Summary: Ukraine's president voices frustration with US and says it is "strange" Trump has described Vladimir Putin as a friend.
+Headline: Spanish PM and rivals rally supporters in final pitch for votes
+Summary: Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of "betrayal".
 ---
 Source: BBC World
-Headline: Major Thanksgiving storm brings flooding, flight delays across US
-Summary: Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.
+Headline: Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
+Summary: Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.
 ---
 Source: BBC World
-Headline: Watch: Roofs torn off and streets under water as severe weather hits US
-Summary: Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.
+Headline: Weary of war but with no sign of backing down, Kyiv faces another punishing winter
+Summary: Ukraine settles in for another devastating winter as the questions persists: how will it all end?
 ---
 Source: BBC World
-Headline: German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
-Summary: Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.
+Headline: 'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged
+Summary: Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.
 ---
 Source: BBC World
-Headline: Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
-Summary: Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.
+Headline: Brazil pushes back on Macron calling its meat 'doped'
+Summary: France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.
 ---
 Source: BBC World
-Headline: Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one
-Summary: The possible environmental damage is still being assessed by Spain's sea rescue service.
+Headline: Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law
+Summary: The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.
 ---
 Source: BBC World
-Headline: Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules
-Summary: A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.
+Headline: Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza
+Summary: There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.
+---
+Source: NPR World
+Headline: French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault
+Summary: The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.
+---
+Source: NPR World
+Headline: As UN Secretary General's last day approaches, search for his replacement continues
+Summary: The UN Secretary General's term ends this year, but the big powers at the UN have been unable to agree on a replacement. UN watchers worry that there will be little time to get up to speed.
+---
+Source: NPR World
+Headline: Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died
+Summary: Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.
 ---
 Source: NPR World
 Headline: Congo Ebola outbreak reaches 12,000 cases as some responders evacuate
@@ -42,17 +54,17 @@ Source: NPR World
 Headline: How American Thanksgiving took root — and evolved — in Liberia
 Summary: The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.
 ---
-Source: NPR World
-Headline: Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.
-Summary: Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.
+Source: NPR Politics
+Headline: With Abbott out, what does the future look like for data centers in Texas?
+Summary: Texas has been one of the most welcoming states for data centers, but that might change with a new governor coming in.
 ---
-Source: NPR World
-Headline: Republican wants FBI and CIA answers before questioning Nvidia chief
-Summary: "The public is rightly concerned," says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.
+Source: NPR Politics
+Headline: Postmortem of AI ads
+Summary: The data AI companies have been accumulating in this cycle will help serve future ads to hyper-specific audiences.
 ---
-Source: NPR World
-Headline: Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor
-Summary: Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.
+Source: NPR Politics
+Headline: Trump effectively ended asylum. Advocates look to the Supreme Court to restore it
+Summary: Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.
 ---
 Source: NPR Politics
 Headline: After Democrats' midterm wins, some hope attacks on DEI will ease
@@ -69,16 +81,4 @@ Summary: President Trump's new proposed tariffs are already meeting pushback fro
 Source: NPR Politics
 Headline: Sen. Tim Kaine, D-Va., shares why he opposes Trump's proposed tariffs
 Summary: NPR's A Martinez speaks with Virginia Sen. Tim Kaine about the Democrat's opposition to President Trump's new tariffs.
----
-Source: NPR Politics
-Headline: Court lets Puerto Rico governor fire firm that runs the island's troubled power grid
-Summary: LUMA Energy took over the electric grid five years ago. The court's ruling nullifies its contract, and gives the government a year to find a new operator.
----
-Source: NPR Politics
-Headline: U.S. Judge rules FCC violated ABC's free speech rights to please Trump
-Summary: A federal judge has blocked the Trump administration from moving to review all local broadcast licenses held by ABC. The stations air in six of the largest U.S. markets.
----
-Source: NPR Politics
-Headline: Group of Senate Democrats push to add freshman to leadership
-Summary: Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.
 ---

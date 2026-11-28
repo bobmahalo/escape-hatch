@@ -1,32 +1,32 @@
 [
   {
-    "headline": "Congo Ebola Outbreak Exceeds 12,000 Cases",
-    "event": "The Ebola outbreak in the eastern Democratic Republic of the Congo reached 12,000 recorded cases as military conflict disrupted medical containment efforts.",
-    "context": "Eastern Congo has experienced persistent armed conflict between state forces and rebel groups, impacting public healthcare infrastructure.",
-    "scope": "The outbreak directly affects populations in eastern Congo and poses transmission risks to adjacent Central African nations."
+    "headline": "North Korea Expands Nuclear Production",
+    "event": "North Korean leader Kim Jong Un ordered an increase in nuclear weapon production following inspections of fissile material facilities.",
+    "context": "The directive follows unanswered diplomatic overtures from the United States amid ongoing regional military exercises.",
+    "scope": "The development directly affects international non-proliferation framework security and defense alignment in East Asia."
   },
   {
-    "headline": "North Korea Expands Nuclear Material Production",
-    "event": "North Korean leadership ordered an expansion in the production of weapons-grade nuclear materials.",
-    "context": "The mandate follows security tensions involving joint military maneuvers by the United States and South Korea.",
-    "scope": "The strategy affects international security assessments and diplomatic relations throughout East Asia."
+    "headline": "Congo Ebola Outbreak Exceeds 12,000",
+    "event": "The Ebola outbreak in the Democratic Republic of the Congo reached 12,000 cases while armed conflict forced medical responders to evacuate.",
+    "context": "Active fighting between rebel groups and national military forces has systematically disrupted regional public health containment infrastructure.",
+    "scope": "The situation impacts residents of eastern Congo and raises cross-border health risk for neighboring Central African nations."
   },
   {
-    "headline": "United States Proposes Trade Tariff Increases",
-    "event": "The United States administration introduced proposals for new import tariffs on products from primary trading partners.",
-    "context": "The proposal follows executive economic initiatives intended to alter bilateral trade balances.",
-    "scope": "The tariffs directly impact foreign manufacturing sectors and international consumer trade flows."
+    "headline": "United States Proposes Trade Tariffs",
+    "event": "The United States administration introduced proposals for new import tariffs targeting major international trading partners.",
+    "context": "The measure aligns with executive policies intended to restructure bilateral trade balances through foreign import taxation.",
+    "scope": "The proposed trade barriers directly affect foreign manufacturing exporters, import-dependent businesses, and global supply chains."
   },
   {
-    "headline": "Diesel Tanker Capsizes Near Spanish Island",
-    "event": "A maritime tanker carrying up to 7,000 tonnes of diesel fuel capsized near Ibiza, causing one recorded fatality.",
-    "context": "The Balearic sea route serves as a transit corridor for industrial fuel distribution in the Western Mediterranean.",
-    "scope": "The spill poses ecological contamination risks to surrounding marine environments and regional coastal fisheries."
+    "headline": "United Nations Leadership Selection Deadlocked",
+    "event": "The United Nations Security Council member states have failed to reach consensus on a replacement for the outgoing Secretary-General.",
+    "context": "The incumbent Secretary-General's term concludes at the end of the year, limiting time for institutional transition.",
+    "scope": "The governance stall impacts administrative continuity across UN global peacekeeping operations and member state diplomatic functions."
   },
   {
-    "headline": "US Federal Court Limits FCC Authority",
-    "event": "A federal judge ruled that regulatory attempts to review ABC broadcast licenses violated constitutional free speech rights.",
-    "context": "The legal dispute arose from administrative threats to challenge network operating licenses following satirical programming.",
-    "scope": "The ruling directly protects broadcast operations for local stations in six major United States television markets."
+    "headline": "Ukraine Criticizes Diplomatic Peace Strategy",
+    "event": "Ukrainian President Volodymyr Zelensky publicly questioned the efficacy of current United States diplomatic approaches to ending the conflict with Russia.",
+    "context": "The ongoing warfare continues to damage national infrastructure as winter conditions diminish operational capacity.",
+    "scope": "The diplomatic friction affects international aid flows, European regional stability, and the immediate security of populations in the war zone."
   }
 ]
